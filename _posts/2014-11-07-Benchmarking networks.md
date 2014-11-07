@@ -1,5 +1,3 @@
---- layout: post title:  "Benchmarking networks" date:   2014-11-01
-13:55:47 comments: true ---
 
 Compared the seed set calculation algorithm differences between the perl
 and python versions
