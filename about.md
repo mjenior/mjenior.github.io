@@ -5,4 +5,4 @@ permalink: /about/
 comments: false
 ---
 
-I do bioinformatics
+I do bioinformatics.
