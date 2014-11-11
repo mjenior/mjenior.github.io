@@ -11,7 +11,7 @@ There are several metrics to look at how good an assembly is. The most common ar
 
 The metrics are pretty self-explanatory with the exception of N50 and N90. The N numbers can be thought of as a kind of contig median meaning that if you lined up all your contigs from smallest to largest that is the length of the contig right in the middle (N50). So half your bases are on contigs of that length or larger. Similarly, N90 is the length of contig where 90% of the bases are on contigs of this length or longer.
 
-{% include image.html url="/assets/allyourbase.png" description=" The CATS metric has all your base" %}
+{% include image.html url="/assets/allyourbase.png" description="The CATS metric has all your base" %}
 
 In addition to N50 and N90 we can look at the size distribution of the contigs. We want large contigs as opposed to many small contigs. This is where you'll start to notice the trade-off between sensitivity and specificity I noted in the previous post. When the k-mer value is large we get big contigs but we also have fewer total bases.
 
