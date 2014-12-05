@@ -7,7 +7,7 @@ comments: true
 
 Finally we've come to the end of our assembly experiment, hopefully with good results.
 
-The last assembly technique I'll be looking at is an iterative assembly. I've been hinting at the logic behind this technique in the previous assembly posts but now I'll get right into it. The assembly is pretty straight forward, do an assembly with a high k-mer value, assemble what you can, and work your way down assembling the unused reads from previous assembies at lower and lower values of k. This attempts to address the sensitivity and specificity trade offs. Let's look at some data.
+The last assembly technique I'll be looking at is an iterative assembly. I've been hinting at the logic behind this technique in the previous assembly posts but now I'll get right into it. The assembly is pretty straight forward, do an assembly with a high k-mer value, assemble what you can, and work your way down assembling the unused reads from previous assemblies at lower and lower values of k. This attempts to address the sensitivity and specificity trade offs. Let's look at some data.
 
 Here are the stats for the contigs from the first iterative assembly keeping only contigs > 200 in each assembly:
 
