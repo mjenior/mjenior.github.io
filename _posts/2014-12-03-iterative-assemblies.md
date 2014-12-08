@@ -1,9 +1,34 @@
 ---
 layout: post
-title:  "Iterative assemblies"
+title:  "Iterative assemblies -- updated"
 date:   2014-12-03
 comments: true
 ---
+
+###Update - 12/8
+
+A few of the assemblies in the iterative-all assembly used the wrong read file (beware of typos and always have your command history saved!) Here are the corrected stats for the iterative assembly:
+
+~~~~
+N50: 151
+N90: 95
+1540532 (19.26%) aligned 0 times
+5749071 (71.86%) aligned exactly 1 time
+710397 (8.88%) aligned >1 times
+80.74% overall alignment rate
+total contigs: 630314
+average length: 162 bp
+trimmed average length: 162 bp
+greater than or equal to 100:  463142
+shortest conting: 41 bp
+longest contig: 77860 bp
+total length: 102.485338 Mb
+~~~~
+
+Original post:
+
+-------
+
 
 Finally we've come to the end of our assembly experiment, hopefully with good results.
 
