@@ -29,7 +29,7 @@ done
 
 You can check the md5 sums to be sure everything downloaded correctly.
 
-Next do the digital normalization as [described before]({% post_url 2014-11-06-actually-running-khmer.md %}).
+Next do the digital normalization as [described before]({% post_url 2014-11-06-actually-running-khmer %}).
 
 ~~~~
 #files
@@ -59,7 +59,7 @@ cat *.abundfilt.fastx > all.abundfilt.fastx
 
 ~~~~
 
-Now, on to the assembly! As mentioned [before]({% post_url 2015-01-29-megahit.md %}) running megahit is a breeze.
+Now, on to the assembly! As mentioned [before]({% post_url 2015-01-29-megahit %}) running megahit is a breeze.
 
 ~~~~
 megahit -m 45e9 -r all.abundfilt.fastx --cpu-only -l 100 -o all.abundfilt.fastx_megahit
