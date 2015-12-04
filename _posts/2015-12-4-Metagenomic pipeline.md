@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metagenomic pipeline"
-date:   2015-12-4 13:55:47
+date:   2015-12-4
 comments: true
 ---
 
