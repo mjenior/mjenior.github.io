@@ -56,10 +56,12 @@ used by the assembler and would have been tossed anyway.  I ran into problems be
  
 	python /mnt/EXT/Schloss-data/seq_stats.py ${sample_name}.paired.trimmed.pooled.fasta > ${sample_name}.paired.trimmed.pooled.fasta.summary
 	python /mnt/EXT/Schloss-data/seq_stats.py ${sample_name}.orphan.trimmed.pooled.fasta > ${sample_name}.orphan.trimmed.pooled.fasta.summary
-	python /mnt/EXT/Schloss-data/seq_stats.py ${sample_name}.trimmed.pooled.all.fasta > ${sample_name}.trimmed.pooled.all.fasta.summary'
+	python /mnt/EXT/Schloss-data/seq_stats.py ${sample_name}.trimmed.pooled.all.fasta > ${sample_name}.trimmed.pooled.all.fasta.summary
 
-The seq_stats.py script that keeps showing up is a small python script I wrote to quickly assess sequence files for some standard metrics you can judge assemble quality with like N50, L50, N90, etc.  
-Next I used the khmer package from Titus Brown's lab to normalize read count by kmer abundance to a coverage of 10 (what he uses in his metagenomic assemblies).
+The seq_stats.py script that keeps showing up is a small python script I wrote to quickly assess sequence files for some standard metrics you can judge assemble quality with like N50, L50, N90, etc. (It's on my github page)  
+Next I used the khmer package from Titus Brown's lab to normalize read count by kmer abundance to a coverage of 10 (what he uses in his metagenomic assemblies).  When do these assemblies without first doing the 
+normalization steps, the quality is much worse.  After combing through some Seqanswers forums I found that it might be that errors occurring in the same base multiple times can result in the contig being split 
+into multiple, smaller contigs and leading to a worse assembly overall.  I'm starting to believe that's true, but I'm running a few more tests before I can be sure.
 
 	module rm gcc/4.6.4
 	module add python/2.7.9 gcc/4.9.2 khmer
@@ -93,7 +95,7 @@ Megahit is super easy, blazing fast, and really good at it's job.  I'll list som
 
 	python /mnt/EXT/Schloss-data/seq_stats.py ${sample_name}.megahit/${sample_name}.final.contigs.251.fa > ${sample_name}.megahit/${sample_name}.final.contigs.251.fa.summary
 
-	rm *.fasta
+	rm *.fasta'
 
 ### Annotation and read-mapping
 
@@ -115,7 +117,7 @@ the metabolic networks I discussed in a previous post.  I have two methods for t
 
 	blastp -query ${sample_name}.genes.80.format.faa -db /mnt/EXT/Schloss-data/kegg/kegg/genes/fasta/kegg_prot_blast.db -num_threads 16 -evalue 5e-4 -best_hit_score_edge 0.05 -best_hit_overhang 0.25 -outfmt 6 -max_target_seqs 1 -out ${sample_name}.protVprot.out
 
-I simply used [Bowtie](http://bowtie-bio.sourceforge.net/manual.shtml) to map reans to called genes.
+I used [Bowtie](http://bowtie-bio.sourceforge.net/manual.shtml) to map reads to called genes.
 
 	/home/mljenior/bin/bowtie/bowtie-build ${sample_name}.genes.250.format.fna ${sample_name}_gene_database
 
@@ -142,7 +144,7 @@ One step (among others) of quality control I do is counting the number of curate
 	samtools index ${sample_name}.merged.pe.se.aligned.megahit.sorted.bam
 	samtools idxstats ${sample_name}.merged.pe.se.aligned.megahit.sorted.bam > ${sample_name}.mapped2contigs.txt 
 
-	rm *.ebwt *.bcf *ai *.bam ${sample_name}_contig_database*
+	rm *.ebwt *.bcf *ai *.bam ${sample_name}_contig_database*'
 
 
 I've revamped the pipeline in the last couple of days so when I have the quality metrics tomorrow when it's done I'll write another post about that.  
