@@ -19,6 +19,8 @@ errors can break up good contigs.
 
 ### Results
 
+
+
 #### Conventional
 
 Category | Pooled Lanes | Quality Trimming | Digital Normalization
@@ -26,6 +28,8 @@ Paired-end | 116784668 | 114103196 | 22821658
 Orphan | NA | 1252357 | 1624925
 Total | 116784668 | 115355553 | 24446583
 % of Pool | NA | 98.78 | **20.93**
+
+
 
 #### Cefoperazone
 
@@ -35,13 +39,17 @@ Orphan | NA | 1926609 | 4014358
 Total | 178456950 | 176339393 | 47026966
 % of Pool | NA | 98.81 | **26.35**
 
-##### Clindamycin
+
+
+#### Clindamycin
 
 Category | Pooled Lanes | Quality Trimming | Digital Normalization
 Paired-end | 118787094 | 115437644 | 10536046
 Orphan | NA | 1584056 | 1142605
 Total | 118787094 | 117021700 | 11678651
 % of Pool | NA | 98.51 | **9.83**
+
+
 
 #### Streptomycin
 
