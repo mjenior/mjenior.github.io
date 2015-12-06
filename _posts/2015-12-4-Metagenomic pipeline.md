@@ -9,8 +9,7 @@ I had almost totally forgotten about the blog posts and I really want to get int
 metagenomic assemblies.  I broke it into steps from processing and managing the large intermediate files that are created with each new step.  As of now there are four metagenomes with hopefully
 three more to follow and fully complement the metatranscriptomic analysis for each condition.  Each metagenome was sequenced twice (across 2 separate Hi-Seq lanes) using 250 bp paired-end libraries 
 done on the Rapid setting.  After pooling the data within respect metagenomes, before curation, that resulted in ~100 GB of data per sample.  Since there was so much data per sample, I felt that 
-[digital normalization](http://ivory.idyll.org/blog/what-is-diginorm.html) and [Megahit](http://www.ncbi.nlm.nih.gov/pubmed/25609793) were my best bets for fast, high-quality metagenomic assemblies.  
-I have and automated pipeline in place that will submit each job with the correct dependencies in order for all the metagenomes at once.  I'll break down each of the pbs scripts here:
+[digital normalization](http://ivory.idyll.org/blog/what-is-diginorm.html) and [Megahit](http://www.ncbi.nlm.nih.gov/pubmed/25609793) were my best bets for fast, high-quality metagenomic assemblies.  I have and automated pipeline in place that will submit each job with the correct dependencies in order for all the metagenomes at once.  I'll break down each of the pbs scripts here:
 
 ### Preprocessing
 
