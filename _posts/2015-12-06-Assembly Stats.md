@@ -5,6 +5,8 @@ date:   2015-12-6
 comments: true
 ---
 
+Let's see if I'm trimming data or information...
+
 ### Quality Trimming 
 
 To improve the speed and quality of assembly it makes sense to reduce the amount of data (reads) input to the assembler.  However, 
