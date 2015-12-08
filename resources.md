@@ -5,6 +5,12 @@ permalink: /resources/
 comments: true
 ---
 
+### Jekyll
+* [Base Jekyll theme](http://jekyllrb.com/)
+* [New Jekyll themes](https://github.com/jglovier/jekyll-new)
+* [Jekyll source code](https://github.com/jekyll/jekyll)
+
+
 ### R
 * [R-project home](http://www.r-project.org)
 * [RStudio](http://www.rstudio.com)
@@ -19,7 +25,6 @@ comments: true
 ### Python
 * [Software Carpentry](http://software-carpentry.org/v5/novice/python/index.html)
 * [IPython](http://ipython.org)
-* Anyone for a pull request?
 
 
 ### knitr
@@ -48,12 +53,10 @@ comments: true
 ### bash
 * [bash beginners guide](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 * [Software Carpentry](http://software-carpentry.org/v5/novice/shell/index.html)
-* Anyone for a pull request?
 
 
 ### make
 * [Software Carpentry](http://software-carpentry.org/v4/make/)
-* Anyone for a pull request?
 
 
 ### Reproducible research
