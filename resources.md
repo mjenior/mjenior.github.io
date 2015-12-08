@@ -66,4 +66,3 @@ comments: true
 ### Other
 * [Stack Overflow](http://stackoverflow.com)
 * [Software Carpentry](http://software-carpentry.org)
-* [Pat Schloss Help Desk](http://www.google.com)
