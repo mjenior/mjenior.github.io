@@ -51,9 +51,6 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 	# Ns included: 0
 
 
-
-
-
 #### Clindamycin
 
 	# Input file name: Clindamycin.final.contigs.251.fa
@@ -84,7 +81,9 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 
 ### Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
 
-Comparing these results against some recent assemblies done by the METAHIT group.
+As a standard of comparison I used Megahit's results from the [### Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets](https://hku-bal.github.io/megabox/GrePraGChallenge.html).  The 
+challenge was to assemble these extremely complex and historically difficult to assemble metagenomes from soil samples across the country.  They posted a few quality metrics 
+they achieved and they compare pretty favorably with what I was able to get out of my data.
 
 	Wisconsin, Switchgrass soil metagenome reference core - MEGAHIT v1.0.3
 	Contig length cutoff (bp)	200
@@ -106,3 +105,10 @@ Comparing these results against some recent assemblies done by the METAHIT group
 	Total size (bp)	7,175,891,749
 	Largest contig (bp)	313,620
 	N50 (bp)	738
+
+
+On average, the N50s in my assemblies are 36% longer than the soil assemblies.  Similarly the average longest contig in my assembly is 27% longer.
+
+
+I should also note that I've been using version 0.3.2 of MEGAHIT and the same assemblies are running now using the current version of 1.0.3.  They 
+programmers say they have improved assembly quality with the newer version so I'll do that comparison in a future post.
