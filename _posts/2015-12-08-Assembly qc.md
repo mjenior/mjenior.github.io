@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metagenomic Assembly QC"
-date:   2015-12-08 13:55:47
+date:   2015-12-08 17:55:47
 comments: true
 ---
 
