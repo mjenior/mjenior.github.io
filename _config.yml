@@ -1,9 +1,9 @@
 # Site settings
 title: Thesis Project Blog
 email: mljenior@umich.edu
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mjenior.github.io" # the base hostname & protocol for your site
+name: Resarch blog
+description: A blog about my progress on my research
+url: http://mjenior.github.io
 twitter_username: mljenior
 github_username:  mjenior
 

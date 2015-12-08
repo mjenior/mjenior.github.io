@@ -34,7 +34,21 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 
 #### Cefoperazone
 
-
+	# Input file name: Cefoperazone.final.contigs.251.fa
+	# File type: Fasta
+	# Total sequences: 2001183
+	# Total bases: 1369.55 Mb
+	# Sequence N50: 709
+	# Sequence L50: 2143
+	# Sequence N90: 430
+	# Median sequence length: 583
+	# Interquartile range: 329
+	# Shortest sequence length: 251
+	# Longest sequence length: 306971
+	# Sequences > 1 kb: 256222
+	# Sequences > 5 kb: 912
+	# G-C content: 42.96%
+	# Ns included: 0
 
 
 
@@ -68,7 +82,27 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 
 
 
+### Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
 
+Comparing these results against some recent assemblies done by the METAHIT group.
 
-Comparing these against
+	Wisconsin, Switchgrass soil metagenome reference core - MEGAHIT v1.0.3
+	Contig length cutoff (bp)	200
+	Number of contigs	4,783,921
+	Total size (bp)	2,589,776,155
+	Largest contig (bp)	65,654
+	N50 (bp)	550
 
+	Kansas Native Prairie soil metagenome reference core - MEGAHIT v1.0.1
+	Contig length cutoff (bp)	200
+	Number of contigs	47,985,585
+	Total size (bp)	27,878,228,835
+	Largest contig (bp)	246,919
+	N50 (bp)	629
+
+	Iowa Native Prairie soil metagenome reference core - MEGAHIT v1.0.1
+	Contig length cutoff (bp)	200
+	Number of contigs	10,986,357
+	Total size (bp)	7,175,891,749
+	Largest contig (bp)	313,620
+	N50 (bp)	738
