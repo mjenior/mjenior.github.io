@@ -36,6 +36,10 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 
 
 
+
+
+
+
 #### Clindamycin
 
 	# Input file name: Clindamycin.final.contigs.251.fa
@@ -66,5 +70,5 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 
 
 
-
+Comparing these against
 
