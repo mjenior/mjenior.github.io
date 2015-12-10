@@ -6,7 +6,9 @@ comments: true
 ---
 
 After spending too much time on writing a python script to subsample reads from a fasta file, I found some pretty great awk scripts to do the job.  They also 
-happen to finish in a fraction of the time without all the overhead that comes with python.
+happen to finish in a fraction of the time without all the overhead that comes with python.  The goal was to normalize the read files to each other for mapping to 
+genes downstream.  Without this step first, comparing groups is unfair to those samples that didn't have quite as many reads.  The difference in coverage between samples 
+was almost negligible, however I wanted to be thorough with my approach.
 
 For paired-end reads you need to subsample before interleaving and then do that afterwards.  It takes reads randomly and always grabs its counterpart in the read 2 file. I 
 hadn't figured out how to insert bash variables into the output file name as is so I renamed them immediately after the script finishes.  Here is the code:
