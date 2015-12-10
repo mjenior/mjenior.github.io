@@ -77,11 +77,11 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 
 #### Streptomycin
 
-
+Not finished yet...
 
 ### Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
 
-As a standard of comparison I used Megahit's results from the [### Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets](https://hku-bal.github.io/megabox/GrePraGChallenge.html).  The 
+As a standard of comparison I used Megahit's results from the [Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets](https://hku-bal.github.io/megabox/GrePraGChallenge.html).  The 
 challenge was to assemble these extremely complex and historically difficult to assemble metagenomes from soil samples across the country.  They posted a few quality metrics 
 they achieved and they compare pretty favorably with what I was able to get out of my data.
 
