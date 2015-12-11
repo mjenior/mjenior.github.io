@@ -60,12 +60,8 @@ comments: true
 
 
 ### Reproducible research
-
 * [Coursera class](https://www.coursera.org/course/repdata)
 * [R packages](http://cran.r-project.org/web/views/ReproducibleResearch.html)
 * [Reproducible Research with R and RStudio](https://github.com/christophergandrud/Rep-Res-Book)
-* [Bioinformatics Data Skills (Pat has pdf)](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372/ref=sr_1_sc_1?ie=UTF8&qid=1415158863&sr=8-1-spell&keywords=bioiformatics+data+skills)
 
-### Other
-* [Stack Overflow](http://stackoverflow.com)
-* [Software Carpentry](http://software-carpentry.org)
+
