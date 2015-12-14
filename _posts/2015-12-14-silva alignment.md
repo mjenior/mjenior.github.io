@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aligning reads to SILVA"
-date:   2015-14-10 17:55:47
+date:   2015-12-14 17:55:47
 comments: true
 ---
 
