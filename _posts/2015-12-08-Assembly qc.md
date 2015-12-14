@@ -77,7 +77,7 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 
 #### Streptomycin
 
-Not finished yet...
+	Unfortunately there were some errors during assembly so I'm repeating the Streptomycin assembly
 
 ### Assemblies of Great Prairie Soil Metagenome Grand Challenge Datasets
 
