@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Results from filtering reads through SILVA"
-date:   2015-12-198 17:55:47
+date:   2015-12-18 17:55:47
 comments: true
 ---
 
