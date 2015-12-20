@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 comments: true
 ---
@@ -12,8 +12,8 @@ Under Construction....
 	         
 
 ###Research & Experience
-Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present
 
+#####Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present
 My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in colonization resistance to Clostridium difficile infection.  To address these questions, I rely on:
 - Mouse models of bacterial infection
 - Anaerobic bacterial cultivation
@@ -24,13 +24,13 @@ My thesis research investigates the role of nutrient niche exclusion by the gut 
 - Strong knowledge of both Python and R programming languages
 - Experience in several parametric and nonparametric statistical methods
 
-Research Internship, Janssen Pharmaceuticals, June 2010 – August 2010
+#####Research Internship, Janssen Pharmaceuticals, June 2010 – August 2010
 - Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
 
-Research Internship, Kent State University, June 2010 – August 2010
+#####Research Internship, Kent State University, June 2010 – August 2010
 - Laboratory of Dr. Helen Piontkivska – Constructed a SQL database with a Python generated interface for uncovering co-occurrence and immunodominance of HIV-1 epitopes across subtypes of the virus.
 
-Research Assistantship, Hiram College, February 2009 – December 2010
+#####Research Assistantship, Hiram College, February 2009 – December 2010
 - Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in Agrobacterium tumefaciens through forward genetic screens.
 
 ###Publications
