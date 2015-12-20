@@ -71,17 +71,17 @@ Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). I
 ###References
 
 ####Patrick Schloss PhD.
-Professor of Microbiology & Immunology
-University of Michigan
-Email: pschloss@umich.edu
+Professor of Microbiology & Immunology; 
+University of Michigan; 
+Email: **pschloss@umich.edu**
 
 ####Vincent Young M.D., PhD.
-Professor of Microbiology & Immunology
-University of Michigan
-Email: vbyoung@med.umich.edu
+Professor of Microbiology & Immunology; 
+University of Michigan; 
+Email: **vbyoung@med.umich.edu**
 
 ####Shannon Telesco PhD.
-Research and Development Scientist
-Janssen Pharmaceuticals
-Email:  stelesco@its.jnj.com
+Research and Development Scientist; 
+Janssen Pharmaceuticals; 
+Email:  **stelesco@its.jnj.com**
 
