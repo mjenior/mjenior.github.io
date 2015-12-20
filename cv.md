@@ -33,10 +33,12 @@ colonization resistance to Clostridium difficile infection.  To address these qu
 ####Research Assistantship, Hiram College, February 2009 – December 2010
 - Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in Agrobacterium tumefaciens through forward genetic screens.
 
+
 ###Publications
 Schloss PD, Westcott SL, **Jenior ML**, Highlander SK. (2015). Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system. PeerJ PrePrints 3:e778v1 https://dx.doi.org/10.7287/peerj.preprints.778v1
 
 Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations. Applied and Environmental Microbiology, 81(1), 396–404.
+
 
 ###Poster Presentations
 - American Society for Microbiology Michigan Branch Meeting; 
@@ -58,6 +60,7 @@ Chicago, IL
 June 2-4, 2013; 
 Traverse City, MI
 
+
 ###Grants & Awards
 - Beneficial Microbes 2014 Travel Grant, ASM, August 2014
 - Rackham Travel Grant, University of Michigan, August 2014
@@ -69,9 +72,11 @@ Traverse City, MI
 - Graduated Cum Laude, Hiram College, May 2011
 - Louis DiSalvo Memorial Research Assistantship in Microbiology, June 2009
 
+
 ###Education
 - Ph.D. – Microbiology & Immunology, University of Michigan, July 2011 - present
 - B.A. – Biology, Hiram College, August 2007 – May 2011
+
 
 ###Service
 - Microbiology and Immunology Student Invited Speaker Coordinator, 2015 - 2016
@@ -79,6 +84,7 @@ Traverse City, MI
 - Microbiology & Immunology Student Invited Speaker Organizer, November 2014 – present
 - Graduate Student Council Representative member, March 2014 – present
 - PIBS recruitment weekend organizer and guide, January 2014
+
 
 ###References
 
