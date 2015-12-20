@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
 comments: true
 ---
@@ -8,7 +8,7 @@ comments: true
 Under Construction....
 
 
-Matthew Jenior	         
+##Matthew Jenior	         
 
 ###Research & Experience
 Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan	April 2012 – present
@@ -43,26 +43,29 @@ Anaerobe Society of Americas, Young Investigator’s Competition		June 29 – Ju
 Chicago, IL
 NIH Enterics Research Investigational Network Meeting			June 2-4, 2013
 Traverse City, MI
-Grants & Awards
-Beneficial Microbes 2014 Travel Grant, ASM				August 2014
-Rackham Travel Grant, University of Michigan				August 2014
-Finalist & Honorable Mention, Young Investigator’s Poster Competition,	June 2014
+
+###Grants & Awards
+- Beneficial Microbes 2014 Travel Grant, ASM, August 2014
+- Rackham Travel Grant, University of Michigan, August 2014
+- Finalist & Award Winner, Young Investigator’s Poster Competition, June 2014
 Anaerobe Society of the Americas Conference 2014
-Rackham Candidate Fellowship, University of Michigan			April 2014
-Cellular Biotechnology Training Grant, University of Michigan			September 2012
-Rackham Pre-Candidate Fellowship, University of Michigan			December 2012
-Kelton Scott MacMurray Memorial Scholarship, Hiram College		May 2011
-Graduated Cum Laude, Hiram College				May 2011
-Louis DiSalvo Memorial Research Assistantship in Microbiology,		June 2009
+- Rackham Candidate Fellowship, University of Michigan, April 2014
+- Cellular Biotechnology Training Grant, University of Michigan, September 2012
+- Rackham Pre-Candidate Fellowship, University of Michigan, December 2012
+- Kelton Scott MacMurray Memorial Scholarship, Hiram College, May 2011
+- Graduated Cum Laude, Hiram College, May 2011
+- Louis DiSalvo Memorial Research Assistantship in Microbiology, June 2009
 Hiram College
-Education
-Ph.D. – Microbiology & Immunology, University of Michigan			July 2011 - present
-B.A. – Biology, Hiram College				August 2007 – May 2011
-Service
-Microbiology and Immunology Student Event Planner				September 2015 – present
-Microbiology & Immunology Student Invited Speaker Organizer		November 2014 – present
-Graduate Student Council Representative member				March 2014 – present
-PIBS recruitment weekend organizer and guide					January 2014
+
+###Education
+- Ph.D. – Microbiology & Immunology, University of Michigan			July 2011 - present
+- B.A. – Biology, Hiram College				August 2007 – May 2011
+
+###Service
+- Microbiology and Immunology Student Event Planner	September 2015 – present
+- Microbiology & Immunology Student Invited Speaker Organizer	November 2014 – present
+- Graduate Student Council Representative member	March 2014 – present
+- PIBS recruitment weekend organizer and guide	January 2014
 
 
 
