@@ -5,16 +5,19 @@ permalink: /cv/
 comments: true
 ---
 
+
 Under Construction....
 
 
 ##Matthew Jenior
-	         
+   
 
 ###Research & Experience
 
 #####Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present
-My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in colonization resistance to Clostridium difficile infection.  To address these questions, I rely on:
+My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in 
+colonization resistance to Clostridium difficile infection.  To address these questions, I rely on:
+
 - Mouse models of bacterial infection
 - Anaerobic bacterial cultivation
 - Preparation for 16S rRNA amplicon, metagenomic, and metatranscriptomic sequencing libraries
@@ -39,12 +42,24 @@ Schloss PD, Westcott SL, **Jenior ML**, Highlander SK. (2015). Sequencing 16S rR
 Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations. Applied and Environmental Microbiology, 81(1), 396–404.
 
 ###Poster Presentations
-- American Society for Microbiology Michigan Branch Meeting; October 24, 2015; Ann Arbor, MI
-- University of Michigan Microbiome Symposium; September 10, 2015; Ann Arbor, MI
-- Cellular Biotechnology Training Program Symposium; April 13, 2015; Ann Arbor, MI
-- 5th ASM Conference on Beneficial Microbes; September 27-30, 2014; Washington D.C.
-- Anaerobe Society of Americas, Young Investigator’s Competition; June 29 – July 1, 2014; Chicago, IL
-- NIH Enterics Research Investigational Network Meeting; June 2-4, 2013; Traverse City, MI
+- American Society for Microbiology Michigan Branch Meeting; 
+October 24, 2015; 
+Ann Arbor, MI
+- University of Michigan Microbiome Symposium; 
+September 10, 2015; 
+Ann Arbor, MI
+- Cellular Biotechnology Training Program Symposium; 
+April 13, 2015; 
+Ann Arbor, MI
+- 5th ASM Conference on Beneficial Microbes; 
+September 27-30, 2014; 
+Washington D.C.
+- Anaerobe Society of Americas, Young Investigator’s Competition; 
+June 29 – July 1, 2014; 
+Chicago, IL
+- NIH Enterics Research Investigational Network Meeting; 
+June 2-4, 2013; 
+Traverse City, MI
 
 ###Grants & Awards
 - Beneficial Microbes 2014 Travel Grant, ASM, August 2014
