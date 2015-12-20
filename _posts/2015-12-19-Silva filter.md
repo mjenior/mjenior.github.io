@@ -9,6 +9,8 @@ I saw the new STAR WARS today!!!  SPOILERS:  It was fantastic :)
 
 <div style="text-align:center"><img src ="http://www.rawstory.com/wp-content/uploads/2015/10/star-wars-800x430.jpg" /></div>
 
+---------------------------------------
+
 On an only slightly more boring note, I finished mapping the read files to the Silva datase.  Using it as a filter for rRNA reads 
 prior to subsampling the files to the same number of sequences appears to be the best way to give equal representation of each 
 sample set.  By pulling out all of the rRNA reads, I focus the analysis more on mRNA (ignoring tRNA and other non-coding 
