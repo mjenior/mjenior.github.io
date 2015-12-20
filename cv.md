@@ -9,10 +9,8 @@ Under Construction....
 
 
 Matthew Jenior	         
-1960 Woodbury Drive, Apt. 4923  Ann Arbor, MI 48104  Phone: 330-571-0310  E-Mail: mljenior@umich.edu
 
-
-Research & Experience
+###Research & Experience
 Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan	April 2012 – present
 My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in colonization resistance to Clostridium difficile infection.  To address these questions, I rely on:
 •	Mouse models of bacterial infection
