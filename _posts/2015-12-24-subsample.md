@@ -1,16 +1,13 @@
 ---
 layout: post
 title:  "Subsampling"
-date:   2015-12-24 17:55:47
+date:   2015-12-26 17:55:47
 comments: true
 ---
 
+After all of the filtering is done, I'm now finally ready to subsample the read files.
 
-
-
-It's Christmas Eve and I'm subsampling read files!
-
-
+Below are the totals of reads per file.  
 
 	Cefoperazone - 630 infected
 	read 1:  164655029
@@ -51,6 +48,9 @@ It's Christmas Eve and I'm subsampling read files!
 	read 1:  170018546
 	read 2:  170018546
 	orphan:  19394415
+	
+	
+
 	
 	
 	
