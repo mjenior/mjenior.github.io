@@ -9,7 +9,7 @@ As I mentioned in the last post, I'm mapping the filtered transcripts to the mus
 interested in before subsampling.  For reference I used the complete list of annotated mus musculus genes from the KEGG 
 database we have on axiom.  With this step done the files should be fully curated and ready to move forward with.
 
-<div style="text-align:center"><img src ="http://the-gist.org/wp-content/uploads/2014/06/800px-Lab_mouse_mg_3276.jpg" /></div>
+<div style="text-align:center"><img src ="http://the-gist.org/wp-content/uploads/2014/06/800px-Lab_mouse_mg_3276.jpg" width="300" height="200" /></div>
 
 Here's the commands for mapping just for reference:
 
