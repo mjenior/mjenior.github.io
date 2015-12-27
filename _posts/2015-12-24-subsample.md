@@ -3,8 +3,9 @@ layout: post
 title:  "Subsampling"
 date:   2015-12-26 17:55:47
 comments: true
----
 var disqus_identifier = '<? php echo $my_identifier; ?>';
+---
+
 After all of the filtering is done, I'm now finally ready to subsample the read files.
 
 Below are the totals of reads per file.  The goal is to subsample the groups of reads (paired and orphan) to 
