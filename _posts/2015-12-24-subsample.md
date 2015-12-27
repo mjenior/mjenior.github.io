@@ -3,7 +3,6 @@ layout: post
 title:  "Subsampling"
 date:   2015-12-26 17:55:47
 comments: true
-var disqus_identifier = '<? php echo $my_identifier; ?>';
 ---
 
 After all of the filtering is done, I'm now finally ready to subsample the read files.
@@ -178,7 +177,7 @@ fastas a single time.  It also prints a logfile so you can remember what the hec
 After all of the filtering and tweaking the subsampling algorithm, the jobs are finally running.  As soon 
 as they finish, I'll map the residual reads to the C. difficile 630 genome and get some useable data.
 	
-	
+disqus_identifier = '<? php echo $my_identifier; ?>';	
 	
 	
 	
