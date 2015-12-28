@@ -5,7 +5,8 @@ date:   2015-12-26 17:55:47
 comments: true
 ---
 
-After all of the filtering is done, I'm now finally ready to subsample the read files.
+After all of the filtering is done, I'm now finally ready to subsample the read files.  Also, since the 
+awk one-liners for subsampling isn't working I wrote my own in python.
 
 Below are the totals of reads per file.  The goal is to subsample the groups of reads (paired and orphan) to 
 the lowest acceptable value among them.  
@@ -76,7 +77,7 @@ pair-end and single-end reads:
 	parser.add_argument('--pair', default='n', help='Indicates if the file is interleaved, pired-end reads')
 	args = parser.parse_args()
 
-	if args.size == 0 or if args.total == 0:
+	if args.size == 0 or args.total == 0:
 		print('ERROR: File or subsample value are of size 0')
 		sys.exit()
 
