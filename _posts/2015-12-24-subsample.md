@@ -117,7 +117,7 @@ pair-end and single-end reads:
 	logfile = open(logfile_str, 'w')
 
 	# Label the input as pe or se
-	if args.pair == 'n':
+	if args.pair == 'y':
 		file_type = 'Paired-end'
 	else:
 		file_type = 'Single-end'
