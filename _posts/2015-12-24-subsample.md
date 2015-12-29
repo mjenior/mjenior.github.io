@@ -77,7 +77,7 @@ pair-end and single-end reads:
 	parser.add_argument('--pair', default='n', help='Indicates if the file is interleaved, pired-end reads')
 	args = parser.parse_args()
 
-	if args.size == 0 or args.total == 0:
+	if int(args.size) == 0 or int(args.total) == 0:
 		print('ERROR: File or subsample value are of size 0')
 		sys.exit()
 
@@ -88,18 +88,18 @@ pair-end and single-end reads:
 
 	if args.pair == 'n':
 		sample_list = range(1, int(args.total) + 1)
-		if args.size >= args.total:
+		if int(args.size) >= int(args.total):
 			sample_list = set(sample_list)
 			print 'Subsample size is greater than or equal to the total number of sequences.  Using all sequences.'
 		else:
-			sample_list = set(sorted(random.sample(sample_list, args.size + 1)))
+			sample_list = set(sorted(random.sample(sample_list, int(args.size) + 1)))
 	elif args.pair == 'y':
 		sample_list = range(1, int(args.total) + 1, 2)
-		if args.size >= (args.total / 2):
+		if int(args.size) >= (int(args.total) / 2):
 			sample_list = set(sample_list)
 			print 'Subsample size is greater than or equal to the total number of sequences.  Using all sequences.'
 		else:
-			sample_list_forward = sorted(random.sample(sample_list, args.size + 1))
+			sample_list_forward = sorted(random.sample(sample_list, int(args.size) + 1))
 			sample_list_reverse = []
 			for index in sample_list_forward: sample_list_reverse.append(index + 1)
 			sample_list = set(sorted(sample_list_forward.union(sample_list_reverse)))
@@ -127,7 +127,7 @@ pair-end and single-end reads:
 	Output file name: {outfile}
 	Total sequences: {total}
 	Subsample size: {size}
-	'''.format(infile=str(args.newfile), type=file_type, outfile=outfile_str, total=str(args.total), size=str(args.size))
+	'''.format(infile=str(args.newfile), type=file_type, outfile=outfile_str, total=str(args.total), size=str(int(args.size)))
 	logfile.write(log_str)
 	logfile.close()
 
