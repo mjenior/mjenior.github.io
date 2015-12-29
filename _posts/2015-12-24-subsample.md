@@ -87,14 +87,14 @@ pair-end and single-end reads:
 	print 'Creating subsampling distribution...'
 
 	if args.pair == 'n':
-		sample_list = range(1, args.total + 1)
+		sample_list = range(1, int(args.total) + 1)
 		if args.size >= args.total:
 			sample_list = set(sample_list)
 			print 'Subsample size is greater than or equal to the total number of sequences.  Using all sequences.'
 		else:
 			sample_list = set(sorted(random.sample(sample_list, args.size + 1)))
 	elif args.pair == 'y':
-		sample_list = range(1, args.total + 1, 2)
+		sample_list = range(1, int(args.total) + 1, 2)
 		if args.size >= (args.total / 2):
 			sample_list = set(sample_list)
 			print 'Subsample size is greater than or equal to the total number of sequences.  Using all sequences.'
