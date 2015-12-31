@@ -102,7 +102,7 @@ pair-end and single-end reads:
 			sample_list_forward = sorted(random.sample(sample_list, int(args.size) + 1))
 			sample_list_reverse = []
 			for index in sample_list_forward: sample_list_reverse.append(index + 1)
-			sample_list = set(sorted(sample_list_forward.union(sample_list_reverse)))
+			sample_list = set(sorted(sample_list_forward + sample_list_reverse))
 	elif args.pair not in ['y', 'n']:
 		print('ERROR: Invalid input file type')
 		sys.exit()
