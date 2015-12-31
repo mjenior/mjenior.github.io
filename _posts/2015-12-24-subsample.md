@@ -72,7 +72,7 @@ pair-end and single-end reads:
 
 	parser = argparse.ArgumentParser(description='Subsample reads from a fasta file.')
 	parser.add_argument('newfile')
-	parser.add_argument('--size', default=0, help='Number of sequences to subsample')
+	parser.add_argument('--size', default=0, help='Number of sequences to subsample (# of pairs for paired-end)')
 	parser.add_argument('--total', default=0, help='Total number of sequences in the fasta file')
 	parser.add_argument('--pair', default='n', help='Indicates if the file is interleaved, pired-end reads')
 	args = parser.parse_args()
