@@ -154,7 +154,8 @@ pair-end and single-end reads:
 				
 				if iteration == 10000:
 					iteration = 0
-					print(seq_count)
+					progress_str = str(seq_count) + ' of ' + str(args.total)
+					print(progress_str)
 
 				if seq_count in sample_list:
 					sample_list.discard(seq_count)
