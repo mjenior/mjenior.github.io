@@ -5,6 +5,9 @@ permalink: /resources/
 comments: true
 ---
 
+### Script Repository
+* [Repo for python script I use in blog posts](https://github.com/mjenior/my_scripts)
+
 ### Jekyll
 * [Base Jekyll theme](http://jekyllrb.com/)
 * [New Jekyll themes](https://github.com/jglovier/jekyll-new)

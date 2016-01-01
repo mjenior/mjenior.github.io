@@ -204,6 +204,7 @@ Output is printed to the terminal and appears like this:
 
 
 Pretty straight forward, but I haven't found any others like it that give all of these stats together.  It makes read 
-QC and evaluating assemblies a lot more convenient.  So if you like it, give it a try!
+QC and evaluating assemblies a lot more convenient.  So if you like it, give it a try!  I've also made a Github repo 
+for the scripts I use in this blog and linked it on the resources page.
 
 
