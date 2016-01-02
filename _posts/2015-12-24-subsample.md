@@ -55,7 +55,7 @@ This is great news.  It looks like I still have >100 million paired-end reads an
 are left per sample after subsampling.  I'll post some rarefaction curves when I get them.
 
 The awk commands I found are not working properly, so I wrote this python script to subsample both the interleaved 
-pair-end and single-end reads:
+pair-end and single-end reads.  Make sure you install argparse before trying to use it though!
 
 	#!/usr/bin/env python
 	'''USAGE: subsample_fasta.py file.fasta --size n --total n' --pair y/n
