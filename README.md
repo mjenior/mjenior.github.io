@@ -1,4 +1,4 @@
 notebookblog
 ============
 
-Template for computational laboratory notebooks
+Repository for updating my online lab notebook/blog
