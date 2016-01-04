@@ -24,11 +24,11 @@ the lowest acceptable value among them.
 	Condition 2 - Plus
 	read 1:  113675146
 	read 2:  113675146
-	orphan:  **11505508**
+	orphan:  11505508
 
 	Condition 2 - Minus
-	read 1:  **110752263**
-	read 2:  **110752263**
+	read 1:  110752263
+	read 2:  110752263
 	orphan:  12084021
 
 	Condition 3 - Plus
