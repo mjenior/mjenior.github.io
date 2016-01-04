@@ -23,7 +23,7 @@ errors can break up good contigs.
 
 
 
-#### Conventional
+#### Control
 
 Category | Pooled Lanes | Quality Trimming | Digital Normalization
 Paired-end | 116784668 | 114103196 | 22821658
@@ -33,7 +33,7 @@ Total | 116784668 | 115355553 | 24446583
 
 
 
-#### Cefoperazone
+#### Condition 1
 
 Category | Pooled Lanes | Quality Trimming | Digital Normalization
 Paired-end | 178456950 | 174412784 | 43012608
@@ -43,7 +43,7 @@ Total | 178456950 | 176339393 | 47026966
 
 
 
-#### Clindamycin
+#### Condition 2
 
 Category | Pooled Lanes | Quality Trimming | Digital Normalization
 Paired-end | 118787094 | 115437644 | 10536046
@@ -53,7 +53,7 @@ Total | 118787094 | 117021700 | 11678651
 
 
 
-#### Streptomycin
+#### Condition 3
 
 Category | Pooled Lanes | Quality Trimming | Digital Normalization
 Paired-end | 395429292 | 385020860 | 2145684

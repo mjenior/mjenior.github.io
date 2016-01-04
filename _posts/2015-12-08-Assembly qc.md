@@ -8,7 +8,7 @@ comments: true
 These results are using the same pipeline as of 12-6-15, but omitting the digital normalization steps. 
 
 
-#### Conventional
+#### Control
 
 	# Input file name: Conventional.final.contigs.251.fa
 	# File type: Fasta
@@ -32,7 +32,7 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 	# reads that failed to align: 62530066 (54.21%)
 
 
-#### Cefoperazone
+#### Condition 1
 
 	# Input file name: Cefoperazone.final.contigs.251.fa
 	# File type: Fasta
@@ -51,7 +51,7 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 	# Ns included: 0
 
 
-#### Clindamycin
+#### Condition 2
 
 	# Input file name: Clindamycin.final.contigs.251.fa
 	# File type: Fasta
@@ -75,7 +75,7 @@ These results are using the same pipeline as of 12-6-15, but omitting the digita
 	# reads that failed to align: 61999890 (52.98%)
 
 
-#### Streptomycin
+#### Condition 3
 
 	Unfortunately there were some errors during assembly so I'm repeating the Streptomycin assembly
 

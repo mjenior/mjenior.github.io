@@ -33,15 +33,15 @@ Orphaned read alignment:
 
 Fasta-formatted reads following pooling and quality trimming
 
-	# cefoperazone_630.read1.pool.trim.fasta
+	# condition1_plus.read1.pool.trim.fasta
 	# Total sequences: 166947462
 	# Total bases: 8588.91 Mb
 
-	# Input file name: cefoperazone_630.read2.pool.trim.fasta
+	# Input file name: condition1_plus.read2.pool.trim.fasta
 	# Total sequences: 166947462
 	# Total bases: 8545.94 Mb
 
-	# Input file name: cefoperazone_630.orphan.pool.trim.fasta
+	# Input file name: condition1_plus.orphan.pool.trim.fasta
 	# Total sequences: 15298814
 	# Total bases: 680.59 Mb
 
@@ -50,15 +50,15 @@ Fasta-formatted reads following pooling and quality trimming
 
 Unmapped reads from filtering through the SILVA database
 
-	# cefoperazone_630.read1.trimmed.filter.fasta
+	# condition1_plus.read1.trimmed.filter.fasta
 	# Total sequences: 166760343
 	# Total bases: 8579.28 Mb
 	
-	# cefoperazone_630.read2.trimmed.filter.fasta
+	# condition1_plus.read2.trimmed.filter.fasta
 	# Total sequences: 166760343
 	# Total bases: 8536.41 Mb
 
-	# cefoperazone_630.orphan.pool.trim.filter.fasta
+	# condition1_plus.orphan.pool.trim.filter.fasta
 	# Total sequences: 15257237
 	# Total bases: 678.89 Mb
 

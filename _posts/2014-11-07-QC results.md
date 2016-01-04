@@ -7,22 +7,22 @@ comments: true
 
 The bowtie jobs mapping reads to contigs finished last night and I am not very happy with the results.
 
-	# Conventional
+	# Control
 	# reads processed: 115355553
 	# reads with at least one reported alignment: 50387032 (43.68%)
 	# reads that failed to align: 64968521 (56.32%)
 
-	# Cefoperazone
+	# Condition 1
 	# reads processed: 176339393
 	# reads with at least one reported alignment: 28206174 (16.00%)
 	# reads that failed to align: 148133219 (84.00%)
 
-	# Clindamycin
+	# Condition 2
 	# reads processed: 117021700
 	# reads with at least one reported alignment: 13417699 (11.47%)
 	# reads that failed to align: 103604001 (88.53%)
 
-	# Streptomycin
+	# Condition 3
 	# reads processed: 389975679
 	# reads with at least one reported alignment: 54166939 (13.89%)
 	# reads that failed to align: 335808740 (86.11%)

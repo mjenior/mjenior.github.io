@@ -27,15 +27,15 @@ Orphaned read alignment:
 
 Unmapped reads from mapping against mouse genome
 
-	# cefoperazone_630.read1.pool.trim.filt_rRNA.filt_mus.fasta
+	# condition1_plus.read1.pool.trim.filt_rRNA.filt_mus.fasta
 	# Total sequences: 164655029
 	# Total bases: 8470.99 Mb
 	
-	# cefoperazone_630.read2.pool.trim.filt_rRNA.filt_mus.fasta
+	# condition1_plus.read2.pool.trim.filt_rRNA.filt_mus.fasta
 	# Total sequences: 164655029
 	# Total bases: 8428.80 Mb
 
-	# cefoperazone_630.orphan.pool.trim.filt_rRNA.filt_mus.fasta
+	# condition1_plus.orphan.pool.trim.filt_rRNA.filt_mus.fasta
 	# Total sequences: 14957436
 	# Total bases: 666.06 Mb
 
