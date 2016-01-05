@@ -195,4 +195,7 @@ I am still running some tests, but here is the updated code:
 	
 	
 	print 'Done.'
+	
+	
+Hopefully, the alignments I'm using the subsampled reads for are done soon so I can finally talk about something else in the next post.
 		
