@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /Resume/
+title: CV
+permalink: /CV/
 comments: true
 ---
 
