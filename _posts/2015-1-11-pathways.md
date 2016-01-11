@@ -7,12 +7,12 @@ comments: true
 
 After mapping transcriptomic reads to the KEGG gene database, you get a file that looks like the following:
 
-	cdf:CD630_00010_dnaA;_chromosomal_replication_initiation_protein        1320    108     0
-	cdf:CD630_00020_dnaN;_DNA_polymerase_III_subunit_beta_(EC:2.7.7.7)      1107    59      0
-	cdf:CD630_00030_RNA-binding_mediating_protein   207     6       0
-	cdf:CD630_00040_recF;_DNA_replication_and_repair_protein_RecF   1116    41      0
-	cdf:CD630_00050_gyrB;_DNA_gyrase_subunit_B_(EC:5.99.1.3)        1902    224     0
-	cdf:CD630_00060_gyrA;_DNA_gyrase_subunit_A_(EC:5.99.1.3)        2427    544     0
+	cdf:CD630_00010|dnaA;_chromosomal_replication_initiation_protein        1320    108     0
+	cdf:CD630_00020|dnaN;_DNA_polymerase_III_subunit_beta_(EC:2.7.7.7)      1107    59      0
+	cdf:CD630_00030|RNA-binding_mediating_protein   207     6       0
+	cdf:CD630_00040|recF;_DNA_replication_and_repair_protein_RecF   1116    41      0
+	cdf:CD630_00050|gyrB;_DNA_gyrase_subunit_B_(EC:5.99.1.3)        1902    224     0
+	cdf:CD630_00060|gyrA;_DNA_gyrase_subunit_A_(EC:5.99.1.3)        2427    544     0
 	...
 	
 The columns represent:  Target name, length of target sequence, number of mapped reads, number of unmapped partner sequences after counterpart matching.  The only 
