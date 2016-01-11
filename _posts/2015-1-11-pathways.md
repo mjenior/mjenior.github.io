@@ -30,6 +30,7 @@ as it splits the name on whitespace and only takes the first element.  The origi
 	...
 
 And you want something that looks like this:
+
 	>cdf:CD630_00010|dnaA;_chromosomal_replication_initiation_protein
 	ATGGATATAGTTTCTTTATGGGACAAAACCCTACAATTAATAAAAGGTGACTTAACTTCAGTAAGTTTTAATACCTTTTTTAAAAACATCGTACCATTAAAAATACATCTTAATGATTTAATCTTACTGGCTCCTAGTGATTTTAATAAAGATATCTTAGAGAATAGATATTTACATTTA
 	...
