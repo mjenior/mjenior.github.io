@@ -303,7 +303,7 @@ The next step is to run the code that will use the libraries I just made and ann
 	print('Done')
 	
 	print('Translating pathway information...')
-	read_len = int(sys.argc[2])
+	read_len = int(sys.argv[2])
 	translated = translate_gene(mapped, gene_dict, ko_dict, pathway_dict, read_len)
 	mapped = None
 	gene_dict = None
