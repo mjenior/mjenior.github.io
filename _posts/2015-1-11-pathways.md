@@ -317,8 +317,9 @@ Through trial and error I learned that you need to account for key errors just i
 but just to be sure.  The final output that will be made into figure looks like this:
 
 
-	108     cdf:00010       gene_name1        pathway_name1       pathway_family1       functional_category1
-	59      cdf:00020       gene_name2        pathway_name2       pathway_family2       functional_category2
-	6       cdf:00030      gene_name3        pathway_name3       pathway_family3       functional_category3
+	108     cdf:CD630_00010 dnaA;_chromosomal_replication_initiation_protein        K02313  02020   Two-component system    Environmental Information Processing    Signal transduction
+	59      cdf:CD630_00020 dnaN;_DNA_polymerase_III_subunit_beta_(EC:2.7.7.7)      ko_key_error    path_key_error  metadata_key_error      metadata_key_error      metadata_key_error
+	6       cdf:CD630_00030 RNA-binding_mediating_protein   K14761  path_key_error  metadata_key_error      metadata_key_error      metadata_key_error
+	41      cdf:CD630_00040 recF;_DNA_replication_and_repair_protein_RecF   K03629  03440   Homologous recombination        Genetic Information Processing  Replication and repair
 
 The columns are:  # mapped followed by gene code, the rest are pretty self-explanatory after that.  I'll be posted some figures with some R code I used to make them pretty soon hopefully.
