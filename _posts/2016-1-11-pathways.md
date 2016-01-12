@@ -140,10 +140,12 @@ The files we need to use are going to be used for the gene code to pathway code 
 			gene = gene.strip()
 					
 			ko_dict[gene] = ko
+			
+	#	Example entry:  'cdf:CD630_00010' = 'K02313'
 	
-	#log_file.write('Done\n')
+	log_file.write('Done\n')
 	
-	#log_file.write('Writing ko dictionary to file...\n')
+	log_file.write('Writing ko dictionary to file...\n')
 	with open('ko.pkl', 'wb') as outfile2:
 		pickle.dump(ko_dict, outfile2)	
 	ko_dict = None
