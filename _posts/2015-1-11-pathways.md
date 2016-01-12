@@ -322,4 +322,7 @@ but just to be sure.  The final output that will be made into figure looks like 
 	6       cdf:CD630_00030 RNA-binding_mediating_protein   K14761  path_key_error  metadata_key_error      metadata_key_error      metadata_key_error
 	41      cdf:CD630_00040 recF;_DNA_replication_and_repair_protein_RecF   K03629  03440   Homologous recombination        Genetic Information Processing  Replication and repair
 
-The columns are:  # mapped followed by gene code, the rest are pretty self-explanatory after that.  I'll be posted some figures with some R code I used to make them pretty soon hopefully.
+The columns are:  # mapped followed by gene code, gene name, KEGG ortholog, pathway code, then some additional classifications.  As you can see there are a couple 
+of key errors, but this is due to te fact that the annotation of some genes is incomplete in the KEGG reference files.
+
+I'll be posted some figures with some R code I used to make them pretty soon hopefully.
