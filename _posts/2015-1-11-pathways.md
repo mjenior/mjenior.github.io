@@ -85,7 +85,6 @@ The files we need to use are going to be used for the gene code to pathway code 
 	Creates python pickle objects of KEGG reference files as dictionaries
 	'''
 	
-	import sys
 	import pickle
 	import re
 	import time
@@ -94,7 +93,7 @@ The files we need to use are going to be used for the gene code to pathway code 
 	
 	log_file = open('ref_log.txt', 'w')
 	
-	# Create smaller dictionary first, the one used to relate pathway codes to the brroader categories it falls under.
+	# Create smaller dictionary first
 	log_file.write('Making pathway category dictionary...\n')
 	with open('/mnt/EXT/Schloss-data/kegg/kegg/pathway/pathway.list', 'r') as pathway_file:
 		
@@ -121,12 +120,36 @@ The files we need to use are going to be used for the gene code to pathway code 
 	log_file.write('Done\n')
 		
 	log_file.write('Writing pathway dictionary to file...\n')
-	with open('pathway.pkl', 'wb') as outfile2:
-		pickle.dump(pathway_dict, outfile2)	
+	with open('pathway.pkl', 'wb') as outfile1:
+		pickle.dump(pathway_dict, outfile1)	
 	pathway_dict = None
 	log_file.write('Done\n')
 	
-	# Create the larger dctionary for connecting the gene codes the which pathway they belong
+	
+	log_file.write('Making gene code to KO dictionary...\n')
+	with open('/mnt/EXT/Schloss-data/matt/seeds/support/ko_genes.list','r') as ko_file:
+		
+		ko_dict = {}
+	
+		for line in ko_file:
+		
+			ko = line.split()[0]
+			ko = ko.strip('ko:')
+			
+			gene = line.split()[1]
+			gene = gene.strip()
+					
+			ko_dict[gene] = ko
+	
+	#log_file.write('Done\n')
+	
+	#log_file.write('Writing ko dictionary to file...\n')
+	with open('ko.pkl', 'wb') as outfile2:
+		pickle.dump(ko_dict, outfile2)	
+	ko_dict = None
+	log_file.write('Done\n')
+	
+	
 	log_file.write('Making gene to pathway dictionary...\n')
 	with open('/mnt/EXT/Schloss-data/kegg/kegg/genes/links/genes_pathway.list', 'r') as gene_file:
 		
@@ -150,8 +173,8 @@ The files we need to use are going to be used for the gene code to pathway code 
 	log_file.write('Done\n')
 	
 	log_file.write('Writing gene dictionary to file...\n')
-	with open('gene.pkl', 'wb') as outfile1:
-		pickle.dump(gene_dict, outfile1)
+	with open('gene.pkl', 'wb') as outfile3:
+		pickle.dump(gene_dict, outfile3)
 	log_file.write('Done\n')	
 	
 	end_time = int(time.time() - start_time)
@@ -214,44 +237,45 @@ The next step is to run the code that will use the libraries I just made and ann
 		return(mapped_list)
 	
 	
-	def translate_gene(gene_list, gene_d, pathway_d):
+	def translate_gene(gene_list, gene_d, ko_d, pathway_d):
 	
 		output_list = []
 		
-		for x in gene_list:
-		
-			code = x[0]
-			gene = x[1]
-			count = x[2]
+		for index_1 in gene_list:
+			
+			code = index_1[0]
+			gene = index_1[1]
+			count = index_1[2]
+					
+			try:
+				ko = ko_d[code]
+			except KeyError:
+				ko = 'ko_key_error'
 		
 			try:
 				pathways = gene_d[code]
-				print pathways + ' FIRST'
 			except KeyError:
-				entry = '\t'.join([count, code, gene, 'key_error', 'key_error', 'key_error'])
+				entry = '\t'.join([count, code, gene, ko, 'path_key_error', 'metadata_key_error', 'metadata_key_error', 'metadata_key_error'])
 				output_list.append(entry)
 				continue
 	
-			for y in pathways:
+			for index_2 in pathways:
 			
 				try:
-					meta_pathway = pathway_d[str(y)]
-					print meta_pathway + ' SECOND'
+					meta_pathway = pathway_d[str(index_2)]
 				except KeyError:
-					entry = '\t'.join([count, code, gene, str(y), 'key_error', 'key_error'])
+					entry = '\t'.join([count, code, gene, ko, str(index_2), 'metadata_key_error', 'metadata_key_error', 'metadata_key_error'])
 					output_list.append(entry)
 					continue
 			
-				for z in meta_pathway:
-			
-					temp = z.split(';')
+				info = meta_pathway.split(';')
 				
-					pathway = temp[0]
-					group = temp[1]
-					category = temp[2]
+				pathway = info[0]
+				group = info[1]
+				category = info[2]
 	
-					entry = '\t'.join([count, code, gene, pathway, group, category])
-					output_list.append(entry)
+				entry = '\t'.join([count, code, gene, ko, str(index_2), pathway, group, category])
+				output_list.append(entry)
 	
 		return(output_list)
 	
@@ -262,6 +286,8 @@ The next step is to run the code that will use the libraries I just made and ann
 		gene_dict = pickle.load(gene_pkl)
 	with open('/mnt/EXT/Schloss-data/matt/metatranscriptomes_HiSeq/kegg/pathway.pkl', 'rb') as pathway_pkl:
 		pathway_dict = pickle.load(pathway_pkl)
+	with open('/mnt/EXT/Schloss-data/matt/metatranscriptomes_HiSeq/kegg/ko.pkl', 'rb') as ko_pkl:
+		ko_dict = pickle.load(ko_pkl)	
 	print('Done')
 	
 	print('Reading bowtie results...')
@@ -269,7 +295,11 @@ The next step is to run the code that will use the libraries I just made and ann
 	print('Done')
 	
 	print('Translating pathway information...')
-	translated = translate_gene(mapped, gene_dict, pathway_dict)
+	translated = translate_gene(mapped, gene_dict, ko_dict, pathway_dict)
+	mapped = None
+	gene_dict = None
+	ko_dict = None
+	pathway_dict = None
 	print('Done')
 	
 	print('Writing output to file...')
@@ -278,7 +308,9 @@ The next step is to run the code that will use the libraries I just made and ann
 		for index in translated:
 			out_string = ''.join(index) + '\n'
 			outfile.write(out_string)
+	translated = None
 	print('Done')
+
 
 
 Through trial and error I learned that you need to account for key errors just in case it doesn't find something in a dictionary.  This shouldn't happen in this instance 
