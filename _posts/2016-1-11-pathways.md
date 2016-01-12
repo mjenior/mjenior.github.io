@@ -202,7 +202,7 @@ The run time of a script containing this would take several orders of magnitude 
 The next step is to run the code that will use the libraries I just made and annotate the bowtie output to be a little more useful.  It looks like this:
 
 	#!/usr/bin/env python
-	'''USAGE:  python annotate_bowtie.py human_readable_bowtie_results
+	'''USAGE:  python annotate_bowtie.py human_readable_bowtie_results read_length
 	Annotates human readable bowtie mapping files with pathway information from KEGG
 	'''
 	
@@ -230,16 +230,18 @@ The next step is to run the code that will use the libraries I just made and ann
 					
 					mapped = str(line.split()[2])
 					
+					length = str(line.split()[1])
+					
 					if mapped == 0:
 						continue
 						
 					else:
-						mapped_list.append([gene_code, gene_name, mapped])
+						mapped_list.append([gene_code, gene_name, mapped, length])
 					
 		return(mapped_list)
 	
 	
-	def translate_gene(gene_list, gene_d, ko_d, pathway_d):
+	def translate_gene(gene_list, gene_d, ko_d, pathway_d, read):
 	
 		output_list = []
 		
@@ -247,7 +249,11 @@ The next step is to run the code that will use the libraries I just made and ann
 			
 			code = index_1[0]
 			gene = index_1[1]
-			count = index_1[2]
+			count = int(index_1[2])
+			length = int(index_1[3])
+			
+			# Normalize read count to gene length
+			norm = str((count * read) / length)
 					
 			try:
 				ko = ko_d[code]
@@ -257,7 +263,7 @@ The next step is to run the code that will use the libraries I just made and ann
 			try:
 				pathways = gene_d[code]
 			except KeyError:
-				entry = '\t'.join([count, code, gene, ko, 'path_key_error', 'metadata_key_error', 'metadata_key_error', 'metadata_key_error'])
+				entry = '\t'.join([norm, code, gene, ko, 'path_key_error', 'metadata_key_error', 'metadata_key_error', 'metadata_key_error'])
 				output_list.append(entry)
 				continue
 	
@@ -266,7 +272,7 @@ The next step is to run the code that will use the libraries I just made and ann
 				try:
 					meta_pathway = pathway_d[str(index_2)]
 				except KeyError:
-					entry = '\t'.join([count, code, gene, ko, str(index_2), 'metadata_key_error', 'metadata_key_error', 'metadata_key_error'])
+					entry = '\t'.join([norm, code, gene, ko, str(index_2), 'metadata_key_error', 'metadata_key_error', 'metadata_key_error'])
 					output_list.append(entry)
 					continue
 			
@@ -276,7 +282,7 @@ The next step is to run the code that will use the libraries I just made and ann
 				group = info[1]
 				category = info[2]
 	
-				entry = '\t'.join([count, code, gene, ko, str(index_2), pathway, group, category])
+				entry = '\t'.join([norm, code, gene, ko, str(index_2), pathway, group, category])
 				output_list.append(entry)
 	
 		return(output_list)
@@ -297,7 +303,8 @@ The next step is to run the code that will use the libraries I just made and ann
 	print('Done')
 	
 	print('Translating pathway information...')
-	translated = translate_gene(mapped, gene_dict, ko_dict, pathway_dict)
+	read_len = int(sys.argc[2])
+	translated = translate_gene(mapped, gene_dict, ko_dict, pathway_dict, read_len)
 	mapped = None
 	gene_dict = None
 	ko_dict = None
