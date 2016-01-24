@@ -1,13 +1,13 @@
 title:            Ordered Chaos
 description:      A blog about my research and other cool projects I'm working on
-disqus_shortname: 
+disqus_shortname: BaconRobot
 reading_time:     
 words_per_minute: 
 url: http://mjenior.github.io/
 
 owner:
   name:           Matthew Jenior
-  avatar:         https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAOyAAAAJDlhYTcwOGM4LTNjYWItNGQ2Yi1hODI1LWEzMjQwOWQ5YTBjNg.jpg
+  avatar:         media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAOyAAAAJDlhYTcwOGM4LTNjYWItNGQ2Yi1hODI1LWEzMjQwOWQ5YTBjNg.jpg
   bio:            "I'm a bench turned data scientist. This blog details some projects/side-projects from my PhD. thesis."
   email:          mljenior@umich.edu
   twitter:        mljenior
