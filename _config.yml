@@ -1,11 +1,66 @@
-# Site settings
-title: Thesis Project Blog
-email: mljenior@umich.edu
-name: Research blog
-description: A blog about progress on my research
-url: http://mjenior.github.io
-twitter_username: mljenior
-github_username:  mjenior
+title:            Ordered Chaos
+description:      A blog about my research and other cool projects I'm working on
+disqus_shortname: 
+reading_time:     
+words_per_minute: 
+url: http://mjenior.github.io/
 
-# Build settings
-markdown: kramdown
+owner:
+  name:           Matthew Jenior
+  avatar:         
+  bio:            "I'm a bench turned data scientist. This blog details some projects/side-projects from my PhD. thesis."
+  email:          mljenior@umich.edu
+  twitter:        mljenior
+  github:         mjenior
+  linkedin:       matthew-jenior-61466662
+
+# Background image to be tiled on all pages
+background: 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:           
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Detroit
+future:      true
+highlighter: pygments
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# Octopress
+# Default extensions
+post_ext: md
+page_ext: md
+# Found in _templates/
+post_layout: post
+page_layout: page
+# Format titles with titlecase?
+titlecase: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
