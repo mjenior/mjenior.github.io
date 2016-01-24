@@ -6,7 +6,7 @@ comments: true
 ---
 
 ### Script Repository
-* [Repo for python scripts I use in blog posts](https://github.com/mjenior/my_scripts)
+* [Repo for python scripts I use in blog posts](https://github.com/mjenior/Blog_scripts)
 
 ### Jekyll
 * [Base Jekyll theme](http://jekyllrb.com/)
