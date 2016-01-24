@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: About the Author
 permalink: /about/
 image:
   feature: abstract-5.jpg
