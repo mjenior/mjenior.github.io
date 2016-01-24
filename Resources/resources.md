@@ -13,7 +13,7 @@ comments: false
 * [Repo for python scripts I use in blog posts](https://github.com/mjenior/Blog_scripts)
 
 ### Jekyll
-* [HPSTR Jekyll theme](http://jekyllthemes.org/themes/hpstr/)
+* [HPSTR Jekyll theme setup](https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/)
 
 ### R
 * [R-project home](http://www.r-project.org)
