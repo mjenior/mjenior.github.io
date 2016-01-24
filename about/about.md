@@ -1,8 +1,12 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
-comments: true
+image:
+  feature: abstract-5.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+comments: false
 ---
 
 I am currently a graduate student, working on my PhD. in the lab of Dr. Pat Schloss at the University of Michigan.  
