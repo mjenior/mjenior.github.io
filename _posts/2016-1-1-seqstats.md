@@ -12,7 +12,7 @@ important).  I wrote a python script that handles both fastas and fastqs to repo
 Here's my code:
 
 
-	{% highlight ruby %}
+	{% highlight python %}
 	#!/usr/bin/python2.7
 	'''USAGE: fasta_stats.py seqFile 
 	This script calculates various statistics about the provided fasta or fastq file.

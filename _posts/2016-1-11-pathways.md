@@ -38,6 +38,7 @@ And you want something that looks like this:
 
 Here's a script to bridge that gap:
 
+	{% highlight python %}
 	#!/bin/python
 
 	# USAGE: format_fasta.py input_file
@@ -81,6 +82,7 @@ formed python data structure.  A guide can be found [here](https://docs.python.o
 
 The files we need to use are going to be used for the gene code to pathway code and pathway code to pathway category translation.  Here's my code to create pickles of both KEGG reference files:
 	
+	{% highlight python %}
 	#!/usr/bin/env python
 	'''USAGE:  python kegg_pkl.py
 	Creates python pickle objects of KEGG reference files as dictionaries
@@ -186,22 +188,25 @@ The files we need to use are going to be used for the gene code to pathway code 
 	log_file.write(time_str)
 	
 	log_file.close()
-	
+	{% endhighlight %}
 	
 You might notice that during the construction of the second, larger dictionary that I create a set containing gene IDs and reference it iteratively.  
 Specifically, [sets](https://docs.python.org/2/library/sets.html) are unordered collections of unique elements.  Since they are not indexed, have no order, and each element 
 appears only once, they are great for membership checking.  If I were to use just the dictionary to check membership using something like...
-
+	
+	{% highlight python %}
 	if not gene in gene_dict:
 		gene_dict[gene] = [pathway]
 	else:
 		gene_dict[gene].append(pathway)
+	{% endhighlight %}
 	
 The run time of a script containing this would take several orders of magnitude more time to complete that doing the membership test using a set instead.
 	
 	
 The next step is to run the code that will use the libraries I just made and annotate the bowtie output to be a little more useful.  It looks like this:
 
+	{% highlight python %}
 	#!/usr/bin/env python
 	'''USAGE:  python annotate_bowtie.py human_readable_bowtie_results read_length
 	Annotates human readable bowtie mapping files with pathway information from KEGG
@@ -320,7 +325,7 @@ The next step is to run the code that will use the libraries I just made and ann
 			outfile.write(out_string)
 	translated = None
 	print('Done')
-
+	{% endhighlight %}
 
 
 Through trial and error I learned that you need to account for key errors just in case it doesn't find something in a dictionary.  This shouldn't happen in this instance 

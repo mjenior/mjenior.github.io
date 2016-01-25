@@ -14,7 +14,7 @@ both reads and sample them simultaneously.
 
 I am still running some tests, but here is the updated code:
 
-
+	{% highlight python %}
 	#!/usr/bin/env python
 	'''USAGE: subsample_fasta.py file.fasta --size n --total n' --pair y/n
 	Randomly subsamples a fasta file to the given size, handles both single and paired-end read data
@@ -196,7 +196,7 @@ I am still running some tests, but here is the updated code:
 	
 	
 	print 'Done.'
-	
+	{% endhighlight %}
 	
 Hopefully, the alignments I'm using the subsampled reads for are done soon so I can finally talk about something else in the next post.
 		

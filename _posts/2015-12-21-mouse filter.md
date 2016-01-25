@@ -15,11 +15,13 @@ database we have on axiom.  With this step done the files should be fully curate
 Here's the commands for mapping just for reference:
 
 Paired-end read alignment:
-
+	
+	{% highlight bash %}
 	/home/mljenior/bin/bowtie/bowtie /mnt/EXT/Schloss-data/matt/metatranscriptomes_HiSeq/mus_musculus/mus_db -f -1 ${sample_name}.read1.pool.trim.filt_rRNA.fasta -p 4 -2 ${sample_name}.read2.pool.trim.filt_rRNA.fasta --un ${sample_name}.filter.trimmed.read.fasta
 	mv ${sample_name}.filter.trimmed.read_1.fasta cefoperazone_630.read1.pool.trim.filt_rRNA.filt_mus.fasta
 	mv ${sample_name}.filter.trimmed.read_2.fasta cefoperazone_630.read2.pool.trim.filt_rRNA.filt_mus.fasta
-
+	{% endhighlight %}
+	
 Orphaned read alignment:
 
 	/home/mljenior/bin/bowtie/bowtie /mnt/EXT/Schloss-data/matt/metatranscriptomes_HiSeq/mus_musculus/mus_db -f ${sample_name}.orphan.pool.trim.filt_rRNA.fasta -p 4 --un ${sample_name}.orphan.pool.trim.filt_rRNA.filt_mus.fasta

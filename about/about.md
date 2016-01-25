@@ -9,9 +9,12 @@ image:
 comments: false
 ---
 
-I am currently a graduate student, working on my PhD. in the lab of Dr. Pat Schloss at the University of Michigan.  
+I'm really interested in the 
 
-For even more information about me, [here is my CV](http://mjenior.github.io//cv/cv).
+I am currently a graduate student, working on my PhD. in the lab of Dr. Pat Schloss at the University of Michigan.  My 
+thesis project involves making sense of large community-level datasets from the gut microbiome.  Hence the title of my blog!
+
+For even more information about me, [here is my CV](http://mjenior.github.io//cv/cv).<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
 
 This blog is meant to a daily chronicle of my thesis research.  Expect some progress, procrastination, with inevitable raging...
 

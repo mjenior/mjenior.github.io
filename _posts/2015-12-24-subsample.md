@@ -58,6 +58,7 @@ are left per sample after subsampling.  I'll post some rarefaction curves when I
 The awk commands I found are not working properly, so I wrote this python script to subsample both the interleaved 
 pair-end and single-end reads.  Make sure you install argparse before trying to use it though!
 
+	{% highlight python %}
 	#!/usr/bin/env python
 	'''USAGE: subsample_fasta.py file.fasta --size n --total n' --pair y/n
 	Randomly subsamples a fasta file to the given size, handles both single and paired-end read data
@@ -173,7 +174,7 @@ pair-end and single-end reads.  Make sure you install argparse before trying to 
 		
 	outfile.close()			
 	print 'Done.'
-
+	{% endhighlight %}
 	
 I streamlined the process as much as possible by making it only necessary to loop through the large 
 fastas a single time.  It also prints a logfile so you can remember what the heck you did in a month.

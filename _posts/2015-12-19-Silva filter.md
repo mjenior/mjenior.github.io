@@ -24,7 +24,7 @@ and large subunit (23S/28S, LSU) ribosomal RNA (rRNA) sequences for all three do
 Paired-end read alignment:
 
 	/home/mljenior/bin/bowtie/bowtie /mnt/EXT/Schloss-data/matt/metatranscriptomes_HiSeq/silva/silva_db -f -1 ${sample_name}.read1.pool.trim.fasta -p 4 -2 ${sample_name}.read2.pool.trim.fasta --un ${sample_name}.filter.trimmed.read.fasta
-
+	
 Orphaned read alignment:
 
 	/home/mljenior/bin/bowtie/bowtie /mnt/EXT/Schloss-data/matt/metatranscriptomes_HiSeq/silva/silva_db -f ${sample_name}.orphan.pool.trim.fasta -p 4 --un ${sample_name}.orphan.pool.trim.filter.fasta
