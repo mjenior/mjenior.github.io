@@ -3,6 +3,11 @@ layout: post
 title:  "QC Results"
 date:   2015-12-7
 comments: true
+tags: []
+image:
+  feature: abstract-2.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 The bowtie jobs mapping reads to contigs finished last night and I am not very happy with the results.

@@ -3,6 +3,11 @@ layout: post
 title:  "Results from filtering reads through SILVA"
 date:   2015-12-18 17:55:47
 comments: true
+tags: []
+image:
+  feature: abstract-10.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 I saw the new STAR WARS today!!!  SPOILERS:  It was fantastic :)

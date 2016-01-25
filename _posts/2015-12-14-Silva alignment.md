@@ -3,6 +3,11 @@ layout: post
 title:  "Aligning reads to SILVA"
 date:   2015-12-14 17:55:47
 comments: true
+tags: []
+image:
+  feature: abstract-9.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 As I was thinking about subsampling reads to make more fair comparisons I realized that there is probably 

@@ -3,6 +3,11 @@ layout: post
 title:  "Checking Sequence File Metrics"
 date:   2016-1-1 17:55:47
 comments: true
+tags: []
+image:
+  feature: abstract-1.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 First post of 2016!  Just a quick post about how I measure sequence total, sequence length distribution, and assembly quality (when it's 

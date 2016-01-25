@@ -3,6 +3,11 @@ layout: post
 title:  "Benchmarking networks"
 date:   2014-11-07 13:55:47
 comments: true
+tags: []
+image:
+  feature: abstract-1.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 Compared the seed set calculation algorithm differences between the perl

@@ -3,6 +3,11 @@ layout: post
 title:  "Adding Features to Subsampling Script"
 date:   2016-1-4 17:55:47
 comments: true
+tags: []
+image:
+  feature: abstract-2.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 
