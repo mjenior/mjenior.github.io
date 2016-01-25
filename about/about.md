@@ -9,8 +9,6 @@ image:
 comments: false
 ---
 
-I'm really interested in the 
-
 I am currently a graduate student, working on my PhD. in the lab of Dr. Pat Schloss at the University of Michigan.  My 
 thesis project involves making sense of large community-level datasets from the gut microbiome.  Hence the title of my blog!
 
