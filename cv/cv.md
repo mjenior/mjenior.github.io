@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /CV/
+permalink: /cv/
 comments: false
 image:
   feature: abstract-3.jpg
