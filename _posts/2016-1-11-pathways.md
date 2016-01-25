@@ -73,6 +73,7 @@ Here's a script to bridge that gap:
 		outfile.write(temp_seq)
 
 	infile.close()
+	{% endhighlight %}
 
 
 The first step in the process of connecting the gene IDs to the relevant pathway information for each.  The KEGG reference files are large and cumbersome, so the easiest 
