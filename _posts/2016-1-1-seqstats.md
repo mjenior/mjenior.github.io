@@ -12,159 +12,159 @@ important).  I wrote a python script that handles both fastas and fastqs to repo
 Here's my code:
 
 
-	{% highlight python %}
-	#!/usr/bin/python2.7
-	'''USAGE: fasta_stats.py seqFile 
-	This script calculates various statistics about the provided fasta or fastq file.
-	'''
-	import sys
-	import os
+{% highlight python %}
+#!/usr/bin/python2.7
+'''USAGE: fasta_stats.py seqFile 
+This script calculates various statistics about the provided fasta or fastq file.
+'''
+import sys
+import os
 
-	# This function reads in fasta file, appends the length of each sequence to a list, and counts all Gs & Cs.
-	# It returns a sorted list of sequence lengths with the G+C total as the last element.
-	def readFasta(FastaFile):
-	
-		tempseq = ''
-		GC_count = 0
-		N_count = 0
-		lenList = []
+# This function reads in fasta file, appends the length of each sequence to a list, and counts all Gs & Cs.
+# It returns a sorted list of sequence lengths with the G+C total as the last element.
+def readFasta(FastaFile):
 
-		for line in FastaFile: 
-	
-			if line.startswith('>'): 
-				lenList.append(len(tempseq))
-				GC_count = GC_count + tempseq.count('C') + tempseq.count('c') + tempseq.count('G') + tempseq.count('g')
-				N_count = N_count + tempseq.count('N') + tempseq.count('n')
-				tempseq = ''
-				continue
+	tempseq = ''
+	GC_count = 0
+	N_count = 0
+	lenList = []
 
-			else:
-				tempseq = tempseq + line.strip()
-	
-		lenList.append(len(tempseq))
-	
-		lenList.remove(0)
-		lenList.sort()
-		lenList.append(GC_count)
-		lenList.append(N_count)
-	
-		FastaFile.close()
-	
-		return lenList
+	for line in FastaFile: 
 
+		if line.startswith('>'): 
+			lenList.append(len(tempseq))
+			GC_count = GC_count + tempseq.count('C') + tempseq.count('c') + tempseq.count('G') + tempseq.count('g')
+			N_count = N_count + tempseq.count('N') + tempseq.count('n')
+			tempseq = ''
+			continue
 
-	# This function reads in fastq files and returns all sequence lengths in a list
-	def readFastq(FastqFile):
-	
-		GC_count = 0
-		N_count = 0
-		lenList = []
-		line_count = 3 
-
-		for line in FastqFile: 
-		
-			line_count += 1
-		
-			if line_count == 5:
-				seq = line.strip()
-				lenList.append(len(seq))
-				GC_count = GC_count + seq.count('C') + seq.count('c') + seq.count('G') + seq.count('g')
-				N_count = N_count + seq.count('N') + seq.count('n')
-				line_count = 1
-				continue
-		
-			else:
-				continue
-		
-		lenList.sort()
-		lenList.append(GC_count)
-		lenList.append(N_count)
-	
-		FastqFile.close()
-	
-		return lenList
-	
-		
-	# This function calculates and returns all the printed statistics.
-	def calcStats(lengths):
-	
-		Ns = lengths[-1]
-		del lengths[-1]
-		GCs = lengths[-1] # extract saved GC count
-		del lengths[-1] 
-	                  	
-		total_seq = len(lengths) # Total number of sequences
-		len_sum = sum(lengths) # Total number of residues
-		total_Mb = len_sum/1000000.00 # Total number of residues expressed in Megabases
-		GC_content = (float(GCs)/float(len_sum))*100 # GC content as a percent of total residues
-
-		# interquartile range
-		if total_seq >= 4:
-			median_len = lengths[int(round(total_seq/2))] # Median sequence length
-			q1_range = lengths[0:(int(total_seq/2)-1)]
-			q1 = q1_range[int(len(q1_range)/2)]
-			q3_range = lengths[(int(total_seq/2)+1):-1]
-			q3 = q3_range[int(len(q3_range)/2)]
-			iqr = int(q3 - q1)
 		else:
-			iqr = 'Too few sequences to calculate'
-			median_len = 'Too few sequences to calculate'
+			tempseq = tempseq + line.strip()
 
-		#n50 calculation loop
-		current_bases = 0
-		n50 = 0
-		n90 = 0
-		seqs_1000 = 0
-		seqs_5000 = 0
-		percent50_bases = int(round(len_sum*0.5))
-		percent90_bases = int(round(len_sum*0.1))
+	lenList.append(len(tempseq))
+
+	lenList.remove(0)
+	lenList.sort()
+	lenList.append(GC_count)
+	lenList.append(N_count)
+
+	FastaFile.close()
+
+	return lenList
+
+
+# This function reads in fastq files and returns all sequence lengths in a list
+def readFastq(FastqFile):
+
+	GC_count = 0
+	N_count = 0
+	lenList = []
+	line_count = 3 
+
+	for line in FastqFile: 
 	
-		for object in lengths:
+		line_count += 1
 	
-			current_bases += object
-		
-			if object > 1000:
-				seqs_1000 += 1
-			if object > 5000:
-				seqs_5000 += 1
-			
-			if current_bases >= percent50_bases and n50 == 0:
-				n50 = object
-			if current_bases >= percent90_bases and n90 == 0:
-				n90 = object
-
-		if total_seq < 4:
-			n50 = 'Too few sequences to calculate'
-			n90 = 'Too few sequences to calculate'
-			l50 = 'Too few sequences to calculate'
-		else:	
-			l50 = lengths.count(n50)
-
-		return(total_seq, total_Mb, n50, median_len, iqr, GC_content, n90, seqs_1000, seqs_5000, Ns, l50)
-
-
-	if os.stat(str(sys.argv[1])).st_size == 0:
-		print('ERROR: Empty input file.')
-		sys.exit()
-
-	fasta_suffix = ['fasta', 'fa', 'fna', 'faa', 'ffn', 'frn']
-	fastq_suffix = ['fastq', 'fq']
-	file_suffix = str(sys.argv[1]).split('.')[-1]
-
-	if file_suffix in fasta_suffix:
-		file_type = 'Fasta'	
-		seq_lengths = readFasta(open(sys.argv[1], 'r'))  
+		if line_count == 5:
+			seq = line.strip()
+			lenList.append(len(seq))
+			GC_count = GC_count + seq.count('C') + seq.count('c') + seq.count('G') + seq.count('g')
+			N_count = N_count + seq.count('N') + seq.count('n')
+			line_count = 1
+			continue
 	
-	elif file_suffix in fastq_suffix:	
-		file_type = 'Fastq'
-		seq_lengths = readFastq(open(sys.argv[1], 'r'))
+		else:
+			continue
+	
+	lenList.sort()
+	lenList.append(GC_count)
+	lenList.append(N_count)
 
+	FastqFile.close()
+
+	return lenList
+
+	
+# This function calculates and returns all the printed statistics.
+def calcStats(lengths):
+
+	Ns = lengths[-1]
+	del lengths[-1]
+	GCs = lengths[-1] # extract saved GC count
+	del lengths[-1] 
+                  	
+	total_seq = len(lengths) # Total number of sequences
+	len_sum = sum(lengths) # Total number of residues
+	total_Mb = len_sum/1000000.00 # Total number of residues expressed in Megabases
+	GC_content = (float(GCs)/float(len_sum))*100 # GC content as a percent of total residues
+
+	# interquartile range
+	if total_seq >= 4:
+		median_len = lengths[int(round(total_seq/2))] # Median sequence length
+		q1_range = lengths[0:(int(total_seq/2)-1)]
+		q1 = q1_range[int(len(q1_range)/2)]
+		q3_range = lengths[(int(total_seq/2)+1):-1]
+		q3 = q3_range[int(len(q3_range)/2)]
+		iqr = int(q3 - q1)
 	else:
-		print('ERROR: Invalid file format provided.')
-		sys.exit()
+		iqr = 'Too few sequences to calculate'
+		median_len = 'Too few sequences to calculate'
 
-	stat_list = calcStats(seq_lengths)
-	{% endhighlight %}
+	#n50 calculation loop
+	current_bases = 0
+	n50 = 0
+	n90 = 0
+	seqs_1000 = 0
+	seqs_5000 = 0
+	percent50_bases = int(round(len_sum*0.5))
+	percent90_bases = int(round(len_sum*0.1))
+
+	for object in lengths:
+
+		current_bases += object
+	
+		if object > 1000:
+			seqs_1000 += 1
+		if object > 5000:
+			seqs_5000 += 1
+		
+		if current_bases >= percent50_bases and n50 == 0:
+			n50 = object
+		if current_bases >= percent90_bases and n90 == 0:
+			n90 = object
+
+	if total_seq < 4:
+		n50 = 'Too few sequences to calculate'
+		n90 = 'Too few sequences to calculate'
+		l50 = 'Too few sequences to calculate'
+	else:	
+		l50 = lengths.count(n50)
+
+	return(total_seq, total_Mb, n50, median_len, iqr, GC_content, n90, seqs_1000, seqs_5000, Ns, l50)
+
+
+if os.stat(str(sys.argv[1])).st_size == 0:
+	print('ERROR: Empty input file.')
+	sys.exit()
+
+fasta_suffix = ['fasta', 'fa', 'fna', 'faa', 'ffn', 'frn']
+fastq_suffix = ['fastq', 'fq']
+file_suffix = str(sys.argv[1]).split('.')[-1]
+
+if file_suffix in fasta_suffix:
+	file_type = 'Fasta'	
+	seq_lengths = readFasta(open(sys.argv[1], 'r'))  
+
+elif file_suffix in fastq_suffix:	
+	file_type = 'Fastq'
+	seq_lengths = readFastq(open(sys.argv[1], 'r'))
+
+else:
+	print('ERROR: Invalid file format provided.')
+	sys.exit()
+
+stat_list = calcStats(seq_lengths)
+{% endhighlight %}
 	
 
 The output looks like the following.  I usually pipe it to a new file to save for later.
