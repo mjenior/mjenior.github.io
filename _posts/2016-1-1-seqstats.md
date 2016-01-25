@@ -12,6 +12,7 @@ important).  I wrote a python script that handles both fastas and fastqs to repo
 Here's my code:
 
 
+	{% highlight ruby %}
 	#!/usr/bin/python2.7
 	'''USAGE: fasta_stats.py seqFile 
 	This script calculates various statistics about the provided fasta or fastq file.
@@ -163,7 +164,10 @@ Here's my code:
 		sys.exit()
 
 	stat_list = calcStats(seq_lengths)
+	{% endhighlight %}
+	
 
+The output looks like the following.  I usually pipe it to a new file to save for later.
 
 	output_string = """# Input file name: {filename}
 	# File type: {filetype}
