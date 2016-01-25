@@ -45,6 +45,8 @@ Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). I
 
 
 ###Professional Societies
+[Cellular Biotechnology Training Program](http://cbtp.engin.umich.edu/) 2012 - present
+
 [American Society of Microbiology](http://www.asm.org/) 2013 - present
 
 [Anaerobe Society of the Americas](http://www.anaerobe.org/) 2014 - present
