@@ -44,12 +44,12 @@ Schloss PD, Westcott SL, **Jenior ML**, Highlander SK. (2015). Sequencing 16S rR
 Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations. Applied and Environmental Microbiology, 81(1), 396–404.
 
 
-### Professional Societies
-American Society of Microbiology
+###Professional Societies
+[American Society of Microbiology](http://www.asm.org/) 2013 - present
 
-Anaerobe Society of the Americas
+[Anaerobe Society of the Americas](http://www.anaerobe.org/) 2014 - present
 
-Michigan Graduate Consulting Club
+[Michigan Graduate Consulting Club](http://www.michigangradconsulting.org/) 2016 - present
 
 
 ###Poster Presentations
