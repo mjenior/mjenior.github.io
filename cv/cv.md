@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Matthew Jenior
 permalink: /cv/
 comments: false
 image:
@@ -8,11 +8,8 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-
-
-##Matthew Jenior
    
-
+   
 ###Research & Experience
 
 ####Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present
