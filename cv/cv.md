@@ -2,7 +2,11 @@
 layout: page
 title: CV
 permalink: /CV/
-comments: true
+comments: false
+image:
+  feature: abstract-3.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 
@@ -38,6 +42,14 @@ colonization resistance to Clostridium difficile infection.  To address these qu
 Schloss PD, Westcott SL, **Jenior ML**, Highlander SK. (2015). Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system. PeerJ PrePrints 3:e778v1 https://dx.doi.org/10.7287/peerj.preprints.778v1
 
 Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations. Applied and Environmental Microbiology, 81(1), 396–404.
+
+
+### Professional Societies
+American Society of Microbiology
+
+Anaerobe Society of the Americas
+
+Michigan Graduate Consulting Club
 
 
 ###Poster Presentations
