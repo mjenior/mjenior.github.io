@@ -3,11 +3,7 @@ layout: post
 title:  "Subsampling fasta files"
 date:   2015-12-10 17:55:47
 comments: true
-tags: []
-image:
-  feature: abstract-8.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [metatranscriptomics, bash]
 ---
 
 After spending too much time on writing a python script to subsample reads from a fasta file, I found some pretty great awk scripts to do the job courtesy of [Umer Zeeshan Ijaz](http://userweb.eng.gla.ac.uk/umer.ijaz/bioinformatics/subsampling_reads.pdf).  They also 

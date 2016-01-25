@@ -3,11 +3,7 @@ layout: post
 title:  "Subsampling"
 date:   2015-12-26 17:55:47
 comments: true
-tags: []
-image:
-  feature: abstract-12.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [python, metatranscriptomics]
 ---
 
 After all of the filtering is done, I'm now finally ready to subsample the read files.  Also, since the 

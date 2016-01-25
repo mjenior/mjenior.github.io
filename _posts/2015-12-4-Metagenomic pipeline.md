@@ -3,11 +3,7 @@ layout: post
 title:  "Metagenomic pipeline"
 date:   2015-12-4
 comments: true
-tags: []
-image:
-  feature: abstract-4.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [metagenomics, bash]
 ---
 
 I had almost totally forgotten about the blog posts and I really want to get into the habit of writing them.  I wanted to write out an update on where my pipeline stands for my 

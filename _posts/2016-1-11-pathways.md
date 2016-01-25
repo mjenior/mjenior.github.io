@@ -3,11 +3,7 @@ layout: post
 title:  "Annotating KEGG Gene Mapping with Pathway Information"
 date:   2016-1-11 17:55:47
 comments: true
-tags: []
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [genomics, python]
 ---
 
 After mapping transcriptomic reads to the KEGG gene database, you get a file that looks like the following:

@@ -3,11 +3,7 @@ layout: post
 title:  "Metagenomic Assembly QC"
 date:   2015-12-08 17:55:47
 comments: true
-tags: []
-image:
-  feature: abstract-7.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [metagenomics]
 ---
 
 These results are using the same pipeline as of 12-6-15, but omitting the digital normalization steps. 

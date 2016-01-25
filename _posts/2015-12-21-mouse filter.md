@@ -3,11 +3,7 @@ layout: post
 title:  "Results from filtering through mouse genome"
 date:   2015-12-21 17:55:47
 comments: true
-tags: []
-image:
-  feature: abstract-11.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [metatranscriptomics, bash]
 ---
 
 As I mentioned in the last post, I'm mapping the filtered transcripts to the mus musculus genome (our lab mice) to remove more reads I'm not 
