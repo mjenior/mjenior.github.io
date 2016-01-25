@@ -14,9 +14,7 @@ thesis project involves making sense of large community-level datasets from the 
 
 For even more information, [here is my CV!](https://github.com/mjenior/mjenior.github.io/blob/master/cv/cv.md)
 
-{% highlight html %}
 <a href="https://github.com/mjenior/mjenior.github.io/blob/master/cv/cv.md" class="btn btn-success">CV</a>
-{% endhighlight %}
 
 
 This blog is meant to a daily chronicle of my thesis research.  Expect some progress, procrastination, with inevitable raging...
