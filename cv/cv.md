@@ -48,7 +48,6 @@ Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). I
 
 [Anaerobe Society of the Americas](http://www.anaerobe.org/) 2014 - present
 
-[Michigan Graduate Consulting Club](http://www.michigangradconsulting.org/) 2016 - present
 
 
 ###Poster Presentations
