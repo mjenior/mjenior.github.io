@@ -163,31 +163,27 @@ else:
 	print('ERROR: Invalid file format provided.')
 	sys.exit()
 
-stat_list = calcStats(seq_lengths)
+stat_list = calcStats(seq_lengths)	
+
+output_string = """# Input file name: {filename}
+# File type: {filetype}
+# Total sequences: {total_seq}
+# Total bases: {total_mb} Mb
+# Sequence N50: {n50}
+# Sequence L50: {l50}
+# Sequence N90: {n90}
+# Median sequence length: {median_len}
+# Interquartile range: {iqr}
+# Shortest sequence length: {short}
+# Longest sequence length: {long}
+# Sequences > 1 kb: {seqs_1000}
+# Sequences > 5 kb: {seqs_5000}
+# G-C content: {gc}%
+# Ns included: {ns}
+""".format(filename = str(sys.argv[1]).split('/')[-1], filetype = file_type, total_seq = stat_list[0], total_mb = "%.2f" % stat_list[1], n50 = stat_list[2], median_len = stat_list[3], iqr = stat_list[4], short = seq_lengths[0], long = seq_lengths[-1], gc = "%.2f" % stat_list[5], n90 = stat_list[6], seqs_1000 = stat_list[7], seqs_5000 = stat_list[8], ns = stat_list[9], l50 = stat_list[10])
+
+print output_string
 {% endhighlight %}
-	
-
-The output looks like the following.  I usually pipe it to a new file to save for later.
-
-	output_string = """# Input file name: {filename}
-	# File type: {filetype}
-	# Total sequences: {total_seq}
-	# Total bases: {total_mb} Mb
-	# Sequence N50: {n50}
-	# Sequence L50: {l50}
-	# Sequence N90: {n90}
-	# Median sequence length: {median_len}
-	# Interquartile range: {iqr}
-	# Shortest sequence length: {short}
-	# Longest sequence length: {long}
-	# Sequences > 1 kb: {seqs_1000}
-	# Sequences > 5 kb: {seqs_5000}
-	# G-C content: {gc}%
-	# Ns included: {ns}
-	""".format(filename = str(sys.argv[1]).split('/')[-1], filetype = file_type, total_seq = stat_list[0], total_mb = "%.2f" % stat_list[1], n50 = stat_list[2], median_len = stat_list[3], iqr = stat_list[4], short = seq_lengths[0], long = seq_lengths[-1], gc = "%.2f" % stat_list[5], n90 = stat_list[6], seqs_1000 = stat_list[7], seqs_5000 = stat_list[8], ns = stat_list[9], l50 = stat_list[10])
-
-	print output_string
-
 
 Output is printed to the terminal and appears like this:
 

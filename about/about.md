@@ -19,6 +19,6 @@ antibiotic treatment or invasion by a pathogen.  To look at this, I leverage sev
 and metabolic modeling to infer the nutritional requirements and metabolic cross-talk between species.  Through this approach, 
 we may be able to uncover ways to make bacterial communities more inhospitable to unwanted guests and ultimately prevent disease.
 
-This blog is meant to be a chronicle of my thesis research.  As customary for a thesis, expect a mix progress with procrastination :)
+This blog is meant to be a chronicle of my thesis research.  As customary for a thesis, expect some mix of progress with procrastination :)
 
 <div style="text-align:center"><img src ="http://phdcomics.com/comics/archive/phd070513s.gif" /></div>
