@@ -11,6 +11,8 @@ comments: true
 
 This page is a list interesting papers that I've recently read.  Check back for regular updates!
 
+2/2/16 - [Microbiota-Dependent Sequelae of Acute Infection Compromise Tissue-Specific Immunity.](http://www.ncbi.nlm.nih.gov/pubmed/26451485)
+
 2/1/16 - [Coculture of Escherichia coli O157:H7 with a Nonpathogenic E. coli Strain Increases Toxin Production and Virulence in a Germfree Mouse Model.](http://www.ncbi.nlm.nih.gov/pubmed/26259815)
 
 2/1/16 - [Reverse Ecology: From Systems to Environments and Back](http://elbo.gs.washington.edu/pub/re_levy_aemb.pdf)
