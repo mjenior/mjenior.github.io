@@ -6,7 +6,7 @@ image:
   feature: abstract-2.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: false
+comments: true
 ---
 
 This page is a list interesting papers that I've recently read.  Check back for regular updates!
