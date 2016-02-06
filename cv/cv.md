@@ -36,9 +36,9 @@ colonization resistance to Clostridium difficile infection.  To address these qu
 
 
 ###Publications
-Schloss PD, Westcott SL, **Jenior ML**, Highlander SK. (2015). Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system. PeerJ PrePrints 3:e778v1 https://dx.doi.org/10.7287/peerj.preprints.778v1
+Schloss PD, Westcott SL, **Jenior ML**, Highlander SK. (2015). Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system. PeerJ PrePrints 3:e778v1 [link](https://dx.doi.org/10.7287/peerj.preprints.778v1)
 
-Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations. Applied and Environmental Microbiology, 81(1), 396–404.
+Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations. Applied and Environmental Microbiology, 81(1), 396–404. [link](http://aem.asm.org/content/81/1/396.abstract)
 
 
 ###Professional Societies
@@ -91,9 +91,9 @@ Traverse City, MI
 ###Service
 - Microbiology and Immunology Student Invited Speaker Coordinator, 2015 - 2016
 - Microbiology and Immunology Student Event Planner, September 2015 – present
-- Microbiology & Immunology Student Invited Speaker Organizer, November 2014 – present
-- Graduate Student Council Representative member, March 2014 – present
-- PIBS recruitment weekend organizer and guide, January 2014
+- Pioneer High School Science Fair Judge - Biology and Computer Science - 2014, 2016
+- Graduate Student Council Representative member, March 2014 – 2016
+- PIBS recruitment weekend organizer and guide, January 2012 - 2016
 
 
 ###References
