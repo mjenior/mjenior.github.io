@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Genome-Scale Metabolic Networks
-description: "Predicting ecology from genomes and transcriptomics"
+title: "Predicting Ecology From Genome-scale Metabolic Modeling and transcriptomics"
 modified: 2016-02-07
+comments: true
 tags: [metabolic modeling, genomics, reverse ecology]
-image:
-  feature: abstract-6.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 I've been pretty excited to talk about another angle I'm working for my project, and that is to try and 
