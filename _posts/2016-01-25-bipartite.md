@@ -18,7 +18,7 @@ assembly rules in mouth-associated bacterial communities](http://www.ncbi.nlm.ni
 and found that comparing substrate lists between species predicted *in vitro* competition more accurately than phylogenetic 
 distance.  Here's a little bit of the data:
 
-<div style="text-align:center"><img src ="mjenior.github.io/images/growth_data.jpg" width="500" height="300" /></div>
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/growth_data.jpg" width="500" height="300" /></div>
 
 
 Each point is a separate bacterial species, competed against *C. difficile* in rich media.  Competitive Index refers to 
@@ -31,7 +31,7 @@ Their approach used a bipartite network architecture with enzyme nodes connectin
 directly connect to enzyme nodes, you are then able to map transcript abundance to their respective enzymes and then make 
 inferences about how in-demand the substrates they act on are.  Here's part of one network I've generated as an example:
 
-<div style="text-align:center"><img src ="mjenior.github.io/images/growth_data.jpg" width="400" height="380" /></div>
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/growth_data.jpg" width="400" height="380" /></div>
 
 After mapping transcripts to the enzyme nodes, you can get a read on how important the adjacent substrate nodes are.  I'm 
 extending this to infer the nutrient niche of species in the gut.  We are working on the analysis and manuscript now so I'll 
