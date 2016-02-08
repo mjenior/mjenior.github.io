@@ -22,3 +22,6 @@ we may be able to uncover ways to make bacterial communities more inhospitable t
 This blog is meant to be a chronicle of my thesis research.  As customary for a thesis, expect some mix of progress with procrastination :)
 
 <div style="text-align:center"><img src ="http://phdcomics.com/comics/archive/phd070513s.gif" /></div>
+
+
+{% include twitter_plug.html %}
