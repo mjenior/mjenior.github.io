@@ -33,7 +33,6 @@ Their approach used a bipartite network architecture with enzyme nodes connectin
 directly connect to enzyme nodes, you are then able to map transcript abundance to their respective enzymes and then make 
 inferences about how in-demand the substrates they act on are.  Here's part of one network I've generated as an example:
 
-<div style="text-align:center"><img src ="http://mjenior.github.io//images/bipartite.scc.pdf" width="150" height="1400" /></div>
 
 After mapping transcripts to the enzyme nodes, you can get a read on how important the adjacent substrate nodes are.  I'm 
 extending this to infer the nutrient niche of species in the gut.  We are working on the analysis and manuscript now so I'll 
