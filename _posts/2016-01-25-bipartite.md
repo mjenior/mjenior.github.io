@@ -18,7 +18,7 @@ assembly rules in mouth-associated bacterial communities](http://www.ncbi.nlm.ni
 and found that comparing substrate lists between species predicted *in vitro* competition more accurately than phylogenetic 
 distance.  Here's a little bit of the data:
 
-<div style="text-align:center"><img src ="http://mjenior.github.io//images/growth_data.jpg" width="100" height="80" /></div>
+<div style="text-align:center"><img src ="http://mjenior.github.io//images/growth_data.pdf" width="100" height="80" /></div>
 
 Each point is a separate bacterial species, competed against *C. difficile* in rich media.  Competitive Index refers to 
 how much overlap there is between metabolic networks.  I didn't follow this up much further to focus on other projects, 
