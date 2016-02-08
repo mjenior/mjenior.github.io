@@ -32,6 +32,6 @@ inferences about how in-demand the substrates they act on are.  Here's part of o
 
 <div style="text-align:center"><img src ="http://mjenior.github.io/images/bipartite.scc.jpg" width="600" height="580" /></div>
 
-After mapping transcripts to the enzyme nodes, you can get a read on how important the adjacent substrate nodes are.  I'm 
+After mapping transcripts to the enzyme (KEGG ortholog) nodes, you can get a read on how important the adjacent substrate nodes are.  I'm 
 extending this to infer the nutrient niche of species in the gut.  We are working on the analysis and manuscript now so I'll 
 have a lot more to post soon.
