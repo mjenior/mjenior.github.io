@@ -25,7 +25,7 @@ how much overlap there is between metabolic networks.  I didn't follow this up m
 but we may come back to it in the future.
 
 What I've been working on more recently has been integrating transcriptomic data into genome-scale metabolic models.  The 
-methods I'm using are loosely based on some [work](http://www.pnas.org/content/102/8/2685.full) I read out of Jen Nielsen's lab.  
+methods I'm using are loosely based on some [work](http://www.pnas.org/content/102/8/2685.full) I read out of Jen Nielsen's lab. 
 Their approach used a bipartite network architecture with enzyme nodes connecting to substrate nodes.  Since substrates only 
 directly connect to enzyme nodes, you are then able to map transcript abundance to their respective enzymes and then make 
 inferences about how in-demand the substrates they act on are.  Here's part of one network I've generated as an example:
