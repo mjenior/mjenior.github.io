@@ -10,9 +10,10 @@ image:
 ---
    
    
-###Research & Experience
+Research & Experience
+---------------------
 
-####Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present
+**Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present**
 My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in 
 colonization resistance to Clostridium difficile infection.  To address these questions, I rely on:
 
@@ -25,23 +26,30 @@ colonization resistance to Clostridium difficile infection.  To address these qu
 - Strong knowledge of both Python and R programming languages
 - Experience in several parametric and nonparametric statistical methods
 
-####Research Internship, Janssen Pharmaceuticals, June 2010 – August 2010
+**Research Internship, Janssen Pharmaceuticals, June 2010 – August 2010**
+
 - Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
 
-####Research Internship, Kent State University, June 2010 – August 2010
+**Research Internship, Kent State University, June 2010 – August 2010**
+
 - Laboratory of Dr. Helen Piontkivska – Constructed a SQL database with a Python generated interface for uncovering co-occurrence and immunodominance of HIV-1 epitopes across subtypes of the virus.
 
-####Research Assistantship, Hiram College, February 2009 – December 2010
+**Research Assistantship, Hiram College, February 2009 – December 2010**
+
 - Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in Agrobacterium tumefaciens through forward genetic screens.
 
 
-###Publications
+Publications
+------------
+
 Schloss PD, Westcott SL, **Jenior ML**, Highlander SK. (2015). Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system. PeerJ PrePrints 3:e778v1 [link](https://dx.doi.org/10.7287/peerj.preprints.778v1)
 
 Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations. Applied and Environmental Microbiology, 81(1), 396–404. [link](http://aem.asm.org/content/81/1/396.abstract)
 
 
-###Professional Societies
+Professional Societies
+----------------------
+
 [Cellular Biotechnology Training Program](http://cbtp.engin.umich.edu/) 2012 - present
 
 [American Society of Microbiology](http://www.asm.org/) 2013 - present
@@ -50,7 +58,9 @@ Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). I
 
 
 
-###Poster Presentations
+Poster Presentations
+--------------------
+
 - American Society for Microbiology Michigan Branch Meeting; 
 October 24, 2015; 
 Ann Arbor, MI
@@ -71,7 +81,9 @@ June 2-4, 2013;
 Traverse City, MI
 
 
-###Grants & Awards
+Grants & Awards
+---------------
+
 - Beneficial Microbes 2014 Travel Grant, ASM, August 2014
 - Rackham Travel Grant, University of Michigan, August 2014
 - Finalist & Award Winner, Young Investigator’s Poster Competition Anaerobe Society of the Americas Conference 2014, June 2014
@@ -83,12 +95,16 @@ Traverse City, MI
 - Louis DiSalvo Memorial Research Assistantship in Microbiology, June 2009
 
 
-###Education
+Education
+---------
+
 - Ph.D. – Microbiology & Immunology, University of Michigan, July 2011 - present
 - B.A. – Biology, Hiram College, August 2007 – May 2011
 
 
-###Service
+Service
+-------
+
 - Microbiology and Immunology Student Invited Speaker Coordinator, 2015 - 2016
 - Microbiology and Immunology Student Event Planner, September 2015 – present
 - Pioneer High School Science Fair Judge - Biology and Computer Science - 2014, 2016
@@ -96,20 +112,21 @@ Traverse City, MI
 - PIBS recruitment weekend organizer and guide, January 2012 - 2016
 
 
-###References
+References
+----------
 
-####Patrick Schloss PhD.
-Professor of Microbiology & Immunology; 
-University of Michigan; 
+**Patrick Schloss PhD.**
+Professor of Microbiology & Immunology
+University of Michigan
 Email: **pschloss@umich.edu**
 
-####Vincent Young M.D., PhD.
-Professor of Microbiology & Immunology; 
-University of Michigan; 
+**Vincent Young M.D., PhD.**
+Professor of Microbiology & Immunology
+University of Michigan
 Email: **vbyoung@med.umich.edu**
 
-####Shannon Telesco PhD.
-Research and Development Scientist; 
-Janssen Pharmaceuticals; 
+**Shannon Telesco PhD.**
+Research and Development Scientist
+Janssen Pharmaceuticals
 Email:  **stelesco@its.jnj.com**
 

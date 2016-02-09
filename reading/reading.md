@@ -6,10 +6,12 @@ image:
   feature: abstract-2.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: true
+comments: false
 ---
 
 This page is a list interesting papers that I've recently read.  Check back for regular updates!
+
+2/8/16 - [Metabolic Model-Based Integration of Microbiome Taxonomic and Metabolomic Profiles Elucidates Mechanistic Links between Ecological and Metabolic Variation](http://elbo.gs.washington.edu/pub/metamod_neocker_msystems.pdf)
 
 2/2/16 - [Microbiota-Dependent Sequelae of Acute Infection Compromise Tissue-Specific Immunity.](http://www.ncbi.nlm.nih.gov/pubmed/26451485)
 
