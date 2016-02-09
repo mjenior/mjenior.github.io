@@ -61,24 +61,12 @@ Professional Societies
 Poster Presentations
 --------------------
 
-- American Society for Microbiology Michigan Branch Meeting; 
-October 24, 2015; 
-Ann Arbor, MI
-- University of Michigan Microbiome Symposium; 
-September 10, 2015; 
-Ann Arbor, MI
-- Cellular Biotechnology Training Program Symposium; 
-April 13, 2015; 
-Ann Arbor, MI
-- 5th ASM Conference on Beneficial Microbes; 
-September 27-30, 2014; 
-Washington D.C.
-- Anaerobe Society of Americas, Young Investigator’s Competition; 
-June 29 – July 1, 2014; 
-Chicago, IL
-- NIH Enterics Research Investigational Network Meeting; 
-June 2-4, 2013; 
-Traverse City, MI
+- American Society for Microbiology Michigan Branch Meeting - October 24, 2015 - Ann Arbor, MI
+- University of Michigan Microbiome Symposium - September 10, 2015 - Ann Arbor, MI
+- Cellular Biotechnology Training Program Symposium - April 13, 2015 - Ann Arbor, MI
+- 5th ASM Conference on Beneficial Microbes - September 27 to 30, 2014 - Washington D.C.
+- Anaerobe Society of Americas, Young Investigator’s Competition - June 29 to July 1, 2014 - Chicago, IL
+- NIH Enterics Research Investigational Network Meeting - June 2 to 4, 2013 - Traverse City, MI
 
 
 Grants & Awards
@@ -116,17 +104,17 @@ References
 ----------
 
 **Patrick Schloss PhD.**
-Professor of Microbiology & Immunology
-University of Michigan
+Professor of Microbiology & Immunology   
+University of Michigan   
 Email: **pschloss@umich.edu**
 
 **Vincent Young M.D., PhD.**
-Professor of Microbiology & Immunology
-University of Michigan
+Professor of Microbiology & Immunology   
+University of Michigan   
 Email: **vbyoung@med.umich.edu**
 
 **Shannon Telesco PhD.**
-Research and Development Scientist
-Janssen Pharmaceuticals
+Research and Development Scientist   
+Janssen Pharmaceuticals   
 Email:  **stelesco@its.jnj.com**
 
