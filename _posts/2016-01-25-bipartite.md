@@ -35,3 +35,49 @@ inferences about how in-demand the substrates they act on are.  Here's part of o
 After mapping transcripts to the enzyme (KEGG ortholog) nodes, you can get a read on how important the adjacent substrate nodes are.  I'm 
 extending this to infer the nutrient niche of species in the gut.  We are working on the analysis and manuscript now so I'll 
 have a lot more to post soon.
+
+For now, here's the R code I used to generate the network plot:
+
+{% highlight R %}
+# Load igraph package
+install.packages("igraph")
+library(igraph)
+
+# Define variables
+file_name <- '~/bipartite.graph'
+nodes_1 <- '~/compound.lst'
+nodes_1_label <- 'Substrate'
+nodes_2 <- '~/enzyme.lst'
+nodes_2_label <- 'KEGG Ortholog'
+figure_file <- '~/bipartite.scc.pdf'
+
+# Read in data
+graph.file <- read.table(file_name, header = F, sep = '\t')
+node_group_1 <- as.vector(read.table(nodes_1, header = F, sep = '\t')$V1)
+node_group_2 <- as.vector(read.table(nodes_2, header = F, sep = '\t')$V1)
+
+# Format directed graph
+raw.graph <- graph.data.frame(graph.file, directed = T)
+
+# Remove loops and multiple edges to make visualzation easier
+simple.graph <- simplify(raw.graph)
+
+# Decompose graph
+all.simple.graph <- decompose.graph(simple.graph)
+
+# Get largest component
+largest <- which.max(sapply(all.simple.graph, vcount))
+largest.simple.graph <- all.simple.graph[[largest]]
+
+# Format data for plotting
+V(largest.simple.graph)$size <- 3 # Node size
+V(largest.simple.graph)$color <- ifelse(V(largest.simple.graph)$name %in% node_group_2, "blue", "red") # Color nodes
+E(largest.simple.graph)$color <- 'gray15' # Color edges
+
+# Plot the network
+par(mar=c(0,0,0,0), font=2)
+plot(largest.simple.graph, vertex.label = NA, layout = layout.graphopt,
+     edge.arrow.size = 0.5, edge.arrow.width = 0.8, vertex.frame.color = 'black')
+legend('bottomleft', legend=c(nodes_1_label, nodes_2_label), 
+       pt.bg=c('red', 'blue'), col='black', pch=21, pt.cex=3, cex=1.5, bty = "n")
+{% endhighlight %}
