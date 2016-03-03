@@ -1,4 +1,4 @@
-notebookblog
+Thesis Project Blog
 ============
 
-Repository for updating my blog
+This repository holds the content and Jekyll scripts hosted for my website.
