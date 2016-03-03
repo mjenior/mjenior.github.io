@@ -32,11 +32,11 @@ colonization resistance to Clostridium difficile infection.  To address these qu
 
 **Research Internship, Kent State University, June 2010 – August 2010**
 
-- Laboratory of Dr. Helen Piontkivska – Constructed a SQL database with a Python generated interface for uncovering co-occurrence and immunodominance of HIV-1 epitopes across subtypes of the virus.
+- Laboratory of Dr. Helen Piontkivska – Constructed a relational database of HIV-1 epitope co-occurrence and immunodominance across subtypes of the virus to uncover frequently occurring patterns for potential vaccine design.
 
 **Research Assistantship, Hiram College, February 2009 – December 2010**
 
-- Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in Agrobacterium tumefaciens through forward genetic screens.
+- Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in Agrobacterium tumefaciens using forward genetic screens.
 
 
 Publications
