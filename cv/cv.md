@@ -26,7 +26,7 @@ colonization resistance to Clostridium difficile infection.  To address these qu
 - Strong knowledge of both Python and R programming languages
 - Experience in several parametric and nonparametric statistical methods
 
-**Research Internship, Janssen Pharmaceuticals, June 2010 – August 2010**
+**Research Internship, Janssen Pharmaceuticals, June 2011 – August 2011**
 
 - Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
 
