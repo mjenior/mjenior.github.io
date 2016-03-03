@@ -26,7 +26,7 @@ colonization resistance to Clostridium difficile infection.  To address these qu
 - Preparation for 16S rRNA amplicon, metagenomic, and metatranscriptomic sequencing libraries
 - Operation and maintenance of Illumina high-throughput sequencers
 
-**Research Internship, Janssen Pharmaceuticals, June 2010 – August 2010**
+**Research Internship, Janssen Pharmaceuticals, June 2011 – August 2011**
 
 - Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
 
