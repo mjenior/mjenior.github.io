@@ -9,7 +9,7 @@ image:
 comments: false
 ---
 
-<a href="http://mjenior.github.io/cv/cv.md" class="btn btn-success">Click here for my CV</a>
+<a href="http://mjenior.github.io//cv/" class="btn btn-success">Click here for my CV</a>
 
 I am currently a graduate student, working on my PhD. in the lab of Dr. Pat Schloss at the University of Michigan.  My 
 thesis project involves making sense of large community-level datasets from the gut microbiome.  Hence the title of my blog!
