@@ -17,14 +17,14 @@ Research & Experience
 My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in 
 colonization resistance to Clostridium difficile infection.  To address these questions, I rely on:
 
+- Bioinformatic tools for assessing 16S relative abundance data, metagenomic assembly + annotation, transcript mapping, and machine learning
+- Genome-scale metabolic modeling of bacteria
+- Strong knowledge of both Python and R programming languages
+- Experience in parametric and nonparametric statistical methods
 - Mouse models of bacterial infection
 - Anaerobic bacterial cultivation
 - Preparation for 16S rRNA amplicon, metagenomic, and metatranscriptomic sequencing libraries
 - Operation and maintenance of Illumina high-throughput sequencers
-- Bioinformatic tools for assessing 16S relative abundance data, metagenomic assembly + annotation, transcript mapping, and machine learning
-- Genome-scale metabolic modeling of bacteria
-- Strong knowledge of both Python and R programming languages
-- Experience in several parametric and nonparametric statistical methods
 
 **Research Internship, Janssen Pharmaceuticals, June 2010 – August 2010**
 
