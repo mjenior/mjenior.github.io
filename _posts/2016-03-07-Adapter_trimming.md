@@ -19,19 +19,17 @@ To avoid this I am now using a program called [Cutadapt](http://journal.embnet.o
 to remove any residual adapter sequences from my reads prior to assembly.  The program requires python 2.7 and the command to run it looks like this:
 
 
-{% highlight bash %}
-python2.7 /mnt/EXT/Schloss-data/bin/cutadapt-1.9.1/bin/cutadapt --error-rate=0.1 --overlap=10 -a CAAGCAGAAGACGGCATACGAGATTAAGGCGAGTCTCGTGGGCTCGG -A GACGCTGCCGACGAGCGATCTAGTGTAGATCTCGGTGGTCGCCGTATCATT -o read_1.trimmed.fastq -p read_2.trimmed.fastq read_1.fastq read_2.fastq
-{% endhighlight %}
+	python2.7 /mnt/EXT/Schloss-data/bin/cutadapt-1.9.1/bin/cutadapt --error-rate=0.1 --overlap=10 -a CAAGCAGAAGACGGCATACGAGATTAAGGCGAGTCTCGTGGGCTCGG -A GACGCTGCCGACGAGCGATCTAGTGTAGATCTCGGTGGTCGCCGTATCATT -o read_1.trimmed.fastq -p read_2.trimmed.fastq read_1.fastq read_2.fastq
 
 
 Each argument supplies the following info:
 
-	--error-rate - Rate for how generously you still call a matching sequence, basically 1 in 10 bases can be a mismatch
-	--overlap - Minimum number of overlapping bases to call a match
-	-a - 5' sequencing primer full sequence, adapter + index
-	-A - reverse complement of the 3' sequencing primer 
-	-o - Output file name for read 1 followinf trimming
-	-p - Output file name for read 2
+	--error-rate = Rate for how generously you still call a matching sequence, basically 1 in 10 bases can be a mismatch
+	--overlap = Minimum number of overlapping bases to call a match
+	-a = 5' sequencing primer full sequence, adapter + index
+	-A = reverse complement of the 3' sequencing primer 
+	-o = Output file name for read 1 followinf trimming
+	-p = Output file name for read 2
 	
 	The last two file names without options before them are the forward and reverse read files
 
