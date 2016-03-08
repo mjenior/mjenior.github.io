@@ -70,6 +70,40 @@ print(reverse_complement(sys.argv[1]))
 {% endhighlight %}
 
 
-After running this additional curation step, the quality of the assemblies increased dramatically!  I'll post some metric comparisons soon.
+Below are some stats from the assembly of the same 250 bp paired-end dataset from a HiSeq, just with and without the trimming protocol I laid out above.
 
+Without 3'-adapter trimming:
+
+	Total sequences: 431204
+	Total bases: 495.00 Mb
+	Sequence N50: 1762
+	Sequence L50: 28
+	Sequence N90: 452
+	Median sequence length: 560
+	Interquartile range: 436
+	Shortest sequence length: 250
+	Longest sequence length: 420252
+	Sequences > 1 kb: 88470
+	Sequences > 5 kb: 10866
+
+
+With adapter trimming:
+
+	Total sequences: 496917
+	Total bases: 471.39 Mb
+	Sequence N50: 1434
+	Sequence L50: 44
+	Sequence N90: 369
+	Median sequence length: 474
+	Interquartile range: 423
+	Shortest sequence length: 250
+	Longest sequence length: 201752
+	Sequences > 1 kb: 83535
+	Sequences > 5 kb: 10603
+
+
+The assembly quality doesn't seem to have changed dramatically, however the best metric is really how many reads map to the contigs that 
+you just assembled.  Those jobs are still running and I'll post those results whenever they finish.  I don't know if that will change all 
+that much since many reads may have only been mapping to the adapter sequence instead of a part of a genome.  Regardless, the new contigs 
+should reflect what I actually sequenced and allow for a better analysis from now on!
 

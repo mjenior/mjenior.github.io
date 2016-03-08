@@ -11,6 +11,9 @@ comments: false
 
 This page is a list interesting papers that I've recently read.  Check back for regular updates!
 
+
+3/8/16 - [An interactive reference framework for modeling a dynamic immune system](http://science.sciencemag.org/content/349/6244/1259425.full-text.pdf+html)
+
 2/8/16 - [Metabolic Model-Based Integration of Microbiome Taxonomic and Metabolomic Profiles Elucidates Mechanistic Links between Ecological and Metabolic Variation](http://elbo.gs.washington.edu/pub/metamod_neocker_msystems.pdf)
 
 2/2/16 - [Microbiota-Dependent Sequelae of Acute Infection Compromise Tissue-Specific Immunity.](http://www.ncbi.nlm.nih.gov/pubmed/26451485)
