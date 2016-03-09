@@ -103,7 +103,6 @@ With adapter trimming:
 
 
 The assembly quality doesn't seem to have changed dramatically, however the best metric is really how many reads map to the contigs that 
-you just assembled.  Those jobs are still running and I'll post those results whenever they finish.  I don't know if that will change all 
-that much since many reads may have only been mapping to the adapter sequence instead of a part of a genome.  Regardless, the new contigs 
-should reflect what I actually sequenced and allow for a better analysis from now on!
+you just assembled.  Prior to this trimming **<49%** of reads mapped at least once to a contig.  Now **>70%** are mapping! That's a huge 
+improvement!  The new contigs should reflect what I actually sequenced and allow for a better analysis from now on.
 
