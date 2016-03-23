@@ -11,6 +11,7 @@ comments: false
 
 This page is a list interesting papers that I've recently read.  Check back for regular updates!
 
+3/23/16 - [Quantifying Diet-Induced Metabolic Changes of the Human Gut Microbiome](http://www.cell.com/cell-metabolism/pdf/S1550-4131(15\)00330-7.pdf)
 
 3/8/16 - [An interactive reference framework for modeling a dynamic immune system](http://science.sciencemag.org/content/349/6244/1259425.full-text.pdf+html)
 
