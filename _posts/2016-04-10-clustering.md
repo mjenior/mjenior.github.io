@@ -10,7 +10,7 @@ Getting rid of duplicate protein sequences becomes important when you are trying
 metagenomes.  Redundant sequences can compete for reads when mapping to onto genes and don't 
 add anything extra information when assessing the functional capacity of a group of 
 organisms.  Probably the best way to remove identical or highly similar sequences from a FASTA file is 
-through clustering homologous genes.  Today I'll show some results on data reduction from 
+through clustering homologous genes.  I'll show some results on data reduction from 
 clustering experiments I ran on a single gene from many organisms and give you my opinion 
 on when, and when not, to be stringent be be when clustering.
 
