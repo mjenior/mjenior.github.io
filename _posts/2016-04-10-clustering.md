@@ -30,7 +30,7 @@ together.  Otherwise, a new cluster is formed.  This happens processively until 
 are put either into an existing cluster or make new ones.  This process is known as 
 
 ->Time to push some buttons!<-
-<div style="text-align:center"><img src ="http://giphy.com/gifs/rickandmorty-adult-swim-rick-and-morty-02x04-S1phUc5mmaZqM" width="500" height="300" /></div>
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/hulk_hands_rickmorty" width="500" height="300" /></div>
 
 It's easy to run CD-HIT once it's installed.  Here's the command I used:
 
