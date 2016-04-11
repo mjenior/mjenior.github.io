@@ -27,7 +27,8 @@ more their word counts overlap, the more similar they are.  This idea was studie
 a [study](http://www.ncbi.nlm.nih.gov/pubmed/9682055) from back in 1998.  If 
 sequences fall within the user provided identity, then they are clustered 
 together.  Otherwise, a new cluster is formed.  This happens processively until all peptides 
-are put either into an existing cluster or make new ones.  This process is known as 
+are put either into an existing cluster or make new ones.  This process is known as greedy incremental 
+clustering.
 
 <div style="text-align:center">Time to push some buttons!</div>
 <div style="text-align:center"><img src ="http://mjenior.github.io/images/hulk_hands_rickmorty.gif" width="500" height="300" /></div>
