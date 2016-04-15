@@ -93,7 +93,7 @@ Education
 Service
 -------
 
-- Microbiology and Immunology Student Invited Speaker Coordinator, 2015 - 2016
+- Microbiology and Immunology Student Invited Speaker Coordinator - [Dr. Jo Handelsman](https://www.whitehouse.gov/administration/eop/ostp/about/leadershipstaff/handelsman), 2015 - 2016
 - Microbiology and Immunology Student Event Planner, September 2015 – present
 - Pioneer High School Science Fair Judge - Biology and Computer Science - 2014, 2016
 - Graduate Student Council Representative member, March 2014 – 2016
@@ -107,11 +107,6 @@ References
 Professor of Microbiology & Immunology   
 University of Michigan   
 Email: **pschloss@umich.edu**
-
-**Vincent Young M.D., PhD.**
-Professor of Microbiology & Immunology   
-University of Michigan   
-Email: **vbyoung@med.umich.edu**
 
 **Shannon Telesco PhD.**
 Research and Development Scientist   
