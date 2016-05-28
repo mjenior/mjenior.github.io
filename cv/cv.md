@@ -29,25 +29,11 @@ Research & Experience
 
 **Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present**
 My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in 
-colonization resistance to Clostridium difficile infection.  To address these questions, I rely on:
-
-- Bioinformatic tools for assessing 16S relative abundance data, metagenomic assembly + annotation, transcript mapping, and machine learning
-- Genome-scale metabolic modeling of bacteria
-- Strong knowledge of both Python and R programming languages
-- Experience in parametric and nonparametric statistical methods
-- Mouse models of bacterial infection
-- Anaerobic bacterial cultivation
-- Preparation for 16S rRNA amplicon, metagenomic, and metatranscriptomic sequencing libraries
-- Operation and maintenance of Illumina high-throughput sequencers
+colonization resistance to Clostridium difficile infection.
 
 **Research Internship, Janssen Pharmaceuticals, June 2011 – August 2011**
 
 Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
-
-- Random Forest
-- R
-- Conveying findings to management and alternative field scientists
-
 
 **Research Internship, Kent State University, June 2010 – August 2010**
 
