@@ -123,14 +123,15 @@ References
 ----------
 
 **Patrick Schloss PhD.**
-Professor of Microbiology & Immunology   
+Associate Professor of Microbiology & Immunology   
 University of Michigan   
 Email: **pschloss@umich.edu**
 
 **Vincent Young MD. PhD.**
-Professor of Microbiology & Immunology   
+Dept. Int Med-Infectious Diseases
+Professor of Microbiology & Immunology
 University of Michigan   
-Email: **pschloss@umich.edu**
+Email: **youngvi@med.umich.edu**
 
 **Shannon Telesco PhD.**
 Research and Development Scientist   
