@@ -21,7 +21,7 @@ these goals it involved developing novel workflows to harness large metagenomic 
 Highlighted Skills
 ---------------------
 
-<div style="text-align:center"><img src ="http://mjenior.github.io/images/skills.jpg" width="400" height="500" /></div>
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/skills.jpg" width="600" height="700" /></div>
 
 
 Research & Experience
