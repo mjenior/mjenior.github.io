@@ -3,7 +3,7 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	z-index: inherit;
+	z-index: 1000;
 	-webkit-perspective: 1000px;
 	-moz-perspective: 1000px;
 	perspective: 1000px;
@@ -123,6 +123,7 @@
 	.dl-menu {
 		margin: 0;
 		position: absolute;
+		z-index: inherit;
 		width: 100%;
 		max-width: 400px;
 		overflow-y: auto;
