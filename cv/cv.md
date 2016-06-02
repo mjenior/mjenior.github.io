@@ -8,27 +8,32 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-   
-   
+
+
+Summary
+---------------------
+
+I am a highly motivated bench-turned-informatics scientist with an extremely strong background in not only the biology of microbial ecosystems, but the computational means to study them 
+at a fine resolution.  I have independently moved large projects from the genesis of original ideas, all the way to presentation and publication of finished work during my PhD. thesis.  Accomplishing 
+these goals involved developing novel workflows to harness large metagenomic and metatranscriptomic datasets for understanding complex community-level interactions that drive human health and disease. Additionally, having experience with research both in academic and industry settings, makes uniquely suited to collaborate with a variety of personnel to complete projects through timely and innovative solutions.
+
+
+Highlighted Skills
+---------------------
+
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/skills.jpg" width="600" height="700" /></div>
+
+
 Research & Experience
 ---------------------
 
 **Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present**
 My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in 
-colonization resistance to Clostridium difficile infection.  To address these questions, I rely on:
-
-- Bioinformatic tools for assessing 16S relative abundance data, metagenomic assembly + annotation, transcript mapping, and machine learning
-- Genome-scale metabolic modeling of bacteria
-- Strong knowledge of both Python and R programming languages
-- Experience in parametric and nonparametric statistical methods
-- Mouse models of bacterial infection
-- Anaerobic bacterial cultivation
-- Preparation for 16S rRNA amplicon, metagenomic, and metatranscriptomic sequencing libraries
-- Operation and maintenance of Illumina high-throughput sequencers
+colonization resistance to Clostridium difficile infection.
 
 **Research Internship, Janssen Pharmaceuticals, June 2011 – August 2011**
 
-- Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
+Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
 
 **Research Internship, Kent State University, June 2010 – August 2010**
 
@@ -60,6 +65,7 @@ Professional Societies
 Poster Presentations
 --------------------
 
+- Michigan Meeting on Microbial Communities - May 16-18, 2016 - Ann Arbor, MI
 - American Society for Microbiology Michigan Branch Meeting - October 24, 2015 - Ann Arbor, MI
 - University of Michigan Microbiome Symposium - September 10, 2015 - Ann Arbor, MI
 - Cellular Biotechnology Training Program Symposium - April 13, 2015 - Ann Arbor, MI
@@ -103,9 +109,15 @@ References
 ----------
 
 **Patrick Schloss PhD.**
-Professor of Microbiology & Immunology   
+Associate Professor of Microbiology & Immunology   
 University of Michigan   
 Email: **pschloss@umich.edu**
+
+**Vincent Young MD. PhD.**
+Dept. Int Med-Infectious Diseases
+Professor of Microbiology & Immunology
+University of Michigan   
+Email: **youngvi@med.umich.edu**
 
 **Shannon Telesco PhD.**
 Research and Development Scientist   
