@@ -90,7 +90,7 @@ word size of **5**.  Below is a summary of the results:
 	# Fraction of original:  65.0%
 
 
-<div style="text-align:center"><img src ="http://mjenior.github.io/images/cluster.tiff" width="500" height="300" /></div>
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/cluster" width="500" height="300" /></div>
 
 
 These results are interesting in that there is a pretty swift drop off even clustering at 100%.  This may 
