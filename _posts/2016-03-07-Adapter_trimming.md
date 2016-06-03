@@ -13,7 +13,7 @@ is especially problematic when you move on to assembly because these introduced 
  instead of actual genome sequence.  Similar problems can arise in a couple different ways as shown in the figure below. These artifacts will leave you with 
  contigs that don't reflect biology at all.  
 
-<div style="text-align:center"><img src ="http://mjenior.github.io/images/cutadapt_fig" width="800" height="500" /></div>
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/cutadapt_fig.jpg" width="800" height="300" /></div>
 
 To avoid this I am now using a program called [Cutadapt](http://journal.embnet.org/index.php/embnetjournal/article/view/200/479), where the figure came from, 
 to remove any residual adapter sequences from my reads prior to assembly.  The program requires python 2.7 and the command to run it looks like this:
