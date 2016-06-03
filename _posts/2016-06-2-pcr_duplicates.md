@@ -22,7 +22,7 @@ The method I use is a little more robust because it looks at the actually simila
 
 Here is an example of how to run 10 Gb of read data through this kind of PCR dereplication:
 
-	/share/apps/rhel6/java/1.8.0/bin/java -Xmx10g -jar /share/apps/rhel6/picard/1.77/MarkDuplicates.jar \
+	java -Xmx10g -jar /picard/1.77/MarkDuplicates.jar \
 	INPUT=metatranscriptome.sort.merge.sort.bam \
 	OUTPUT=metatranscriptome.sort.merge.sort.rmdup.bam \
 	METRICS_FILE=metatranscriptome.sort.merge.sort.rmdup.metrics \
