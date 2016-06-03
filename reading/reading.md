@@ -11,6 +11,8 @@ comments: false
 
 This page is a list interesting papers that I've recently read.  Check back for regular updates!
 
+6/4/16 - [Genome characteristics of a generalist marine bacterial lineage](http://www.nature.com/ismej/journal/v4/n6/pdf/ismej2009150a.pdf#bm_bib7)
+
 6/2/16 - [Transfer of Viral Communities between Human Individuals during Fecal Microbiota Transplantation](http://mbio.asm.org/content/7/2/e00322-16.abstract)
 
 4/9/16 - [Waste Not, Want Not: Why Rarefying Microbiome Data Is Inadmissible](http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1003531.PDF)
