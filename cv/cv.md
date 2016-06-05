@@ -9,7 +9,6 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-
 Summary
 ---------------------
 
@@ -26,12 +25,12 @@ Research & Experience
 ---------------------
 
 **Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present**
-My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in 
-colonization resistance to Clostridium difficile infection.
+
+- My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in colonization resistance to Clostridium difficile infection.  I accomplished this through the use of metagenomic-enabled metatranscriptomics to identify how community-level metabolism shifted in response to antibiotic treatment and pathogen colonization.
 
 **Research Internship, Janssen Pharmaceuticals, June 2011 – August 2011**
 
-Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
+- Immunological Research Department – Used machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
 
 **Research Internship, Kent State University, June 2010 – August 2010**
 
@@ -96,6 +95,7 @@ Education
 Service
 -------
 
+- Genesee County Health Department Community Lead Screening Event, Flint MI - March 19th, 2016
 - Microbiology and Immunology Student Invited Speaker Coordinator - [Dr. Jo Handelsman](https://www.whitehouse.gov/administration/eop/ostp/about/leadershipstaff/handelsman), 2015 - 2016
 - Microbiology and Immunology Student Event Planner, September 2015 – present
 - Pioneer High School Science Fair Judge - Biology and Computer Science - 2014, 2016
@@ -107,18 +107,18 @@ References
 ----------
 
 **Patrick Schloss PhD.**
-Associate Professor of Microbiology & Immunology   
-University of Michigan   
+Associate Professor of Microbiology & Immunology
+University of Michigan
 Email: **pschloss@umich.edu**
 
 **Vincent Young MD. PhD.**
 Dept. Int Med-Infectious Diseases
 Professor of Microbiology & Immunology
-University of Michigan   
+University of Michigan
 Email: **youngvi@med.umich.edu**
 
 **Shannon Telesco PhD.**
-Research and Development Scientist   
-Janssen Pharmaceuticals   
+Research and Development Scientist
+Janssen Pharmaceuticals
 Email:  **stelesco@its.jnj.com**
 
