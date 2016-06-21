@@ -36,4 +36,4 @@ After dereplicating a benchmarking dataset, MarkDuplicates found **~75.15%** rea
 	UNPAIRED_READS_EXAMINED		READ_PAIRS_EXAMINED	UNMAPPED_READS	UNPAIRED_READ_DUPLICATES	READ_PAIR_DUPLICATES	READ_PAIR_OPTICAL_DUPLICATES    PERCENT_DUPLICATION	ESTIMATED_LIBRARY_SIZE
 	36595704			106878532		61700529	35697350			76225526		61122575			0.751533		53029253
 
-Definitely something to think about when reading these kinds of studies in the future!
+I should note that this data is from a pretty contrived community and other metatranscriptomic datasets are likely <50% duplications, but it's definitely something to think about when reading these kinds of studies in the future!
