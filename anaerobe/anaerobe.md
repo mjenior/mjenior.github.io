@@ -4,7 +4,7 @@ title: Thanks for checking out my poster!
 permalink: /anaerobe/
 comments: false
 image:
-  feature: anaerobe2016
+  feature: anaerobe2016.jpg
 ---
 
 My work leverages metagenomics, metatranscriptomics, and metabolic modeling to identify the nutrient of *Clostridium difficile* in the gut during infection.
