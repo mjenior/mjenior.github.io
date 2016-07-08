@@ -9,6 +9,8 @@ image:
 
 My work in the Schloss lab leverages metagenomics, metatranscriptomics, and metabolic modeling to identify the nutrient niche of *Clostridium difficile* in the gut during infection.  With this information we can potentially begin to design targeted probiotics to eliminate/prevent colonization of *C. difficile*.  Below is some supplementary info for my poster, it will give you some background on how I generated the data and where I got some of my ideas.  For more about me or my science, take a look at my [website](http://mjenior.github.io)!
 
+---
+
 Methods
 ---------------------
 
@@ -24,7 +26,7 @@ Bipartite metabolic modeling
 
 Metagenomic-enabled Metatranscriptomics
 
-
+---
 
 References
 ---------------------
