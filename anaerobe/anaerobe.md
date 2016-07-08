@@ -4,7 +4,7 @@ title: Thanks for checking out my poster!
 permalink: /anaerobe/
 comments: false
 image:
-  feature: anaerobe2016.jpeg
+  feature: /images/anaerobe2016.jpg
 ---
 
 
