@@ -40,6 +40,7 @@ I developed a novel algorithm for calculating the importance of biochemical reac
 
 
 **Metagenomic-enabled Metatranscriptomics:**
+
 Metagenomes were assembled and gene content was then annotated.  Metatranscriptomic read mapping was then normalized to metagenomic coverage before comparing between conditions.
 
 
