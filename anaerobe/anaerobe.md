@@ -7,31 +7,37 @@ image:
   feature: anaerobe2016.jpg
 ---
 
-My work in the Schloss lab leverages metagenomics, metatranscriptomics, and metabolic modeling to identify the nutrient niche of *Clostridium difficile* in the gut during infection.  With this information we can potentially begin to design targeted probiotics to eliminate/prevent colonization of *C. difficile*.  Below is some supplementary info for my poster, it will give you some background on how I generated the data and where I got some of my ideas.  For more about me or my science, take a look at my [website](http://mjenior.github.io)!
+My work in the [Schloss lab](http://www.schlosslab.org/) leverages metagenomics, metatranscriptomics, and metabolic modeling to identify the nutrient niche of *Clostridium difficile* in the gut during infection.  With this information we can potentially begin to design targeted probiotics to eliminate/prevent colonization of *C. difficile*.  Below is some supplementary info for my poster, it will give you some background on how I generated the data and where I got some of my ideas.  For more about me or my science, take a look at my [website](http://mjenior.github.io)!
 
 ---
 
-Methods
+Methods (Abbreviated)
 ---------------------
 
-Differential plating
+**Differential plating**
+All done anaerobically*
+Vegetative cells = plated on CCFA (no taurocholate)
+Spores = 60 degrees Celsius for 30 minutes, then plated on TCCFA
 
-Toxin titer
+**Toxin titer**
+Performed using the standard cell rounding assay by [Jhansi Leslie](https://www.researchgate.net/profile/Jhansi_Leslie) in [Vince Young's lab](https://sites.google.com/a/umich.edu/younglab/).
 
-High-throughpt sequencing
+**High-throughpt sequencing**
+Illumina MiSeq - 16S rRNA gene (2 x 250 bp)
+Illumina HiSeq - metagenomes (2 x 250 bp) and metatranscriptomes (2 x 100 bp)
 
-Bipartite metabolic modeling
+**Bipartite metabolic modeling**
+I developed a novel algorithm for calculating the importance of biochemical reaction substrates in an organism's metabolic network.  These valuse are based on the transcription of the adjacent enzymes that act on or produce the given substrate.  The resulting score reflects the lilihood that a given compound is acquired from the environment.
 
-16S analysis
-
-Metagenomic-enabled Metatranscriptomics
+**Metagenomic-enabled Metatranscriptomics**
+Metagenomes were assembled and gene content was then annotated.  Metatranscriptomic read mapping was then normalized to metagenomic coverage before comparing between conditions.
 
 ---
 
 References
 ---------------------
 
-1. Lessa FC et. al. (2015). Burden of *Clostridium difficile* Infection in the United States. *N Engl J Med*. vol. 372; 825-834.
+1. Lessa FC, et. al. (2015). Burden of *Clostridium difficile* Infection in the United States. *N Engl J Med*. vol. 372; 825-834.
 
 2. Theriot CM, Koenigsknecht MJ, Carlson PE, Hatton GE, Nelson AM, Li B, & Young VB. (2014). Antibiotic-induced shifts in the mouse gut microbiome and metabolome increase susceptibility to *Clostridium difficile* infection. *Nature Comm*. Vol. 5: 3114.
 
@@ -42,4 +48,3 @@ References
 5. Schubert AM, Sanini H, S& Schloss PD. (2015). Antibiotic-Induced Alterations of the Murine Gut Microbiota and Subsequent Effects on Colonization Resistance against Clostridium difficile. *MBio*. vol. 6 (4); e00974-15.
 
 6. Baker BJ, Sheik CS, Taylor CA, Jain S, Bhasi A, Cavalcoli JD, & Dick GJ. (2012). Community transcriptomic assembly reveals microbes that contribute to deep-sea carbon and nitrogen cycling. *ISME*. vol. 7 (10); 1962-1973.
-
