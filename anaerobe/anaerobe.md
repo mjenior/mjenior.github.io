@@ -60,3 +60,7 @@ References
 5. Schubert AM, Sanini H, S& Schloss PD. (2015). Antibiotic-Induced Alterations of the Murine Gut Microbiota and Subsequent Effects on Colonization Resistance against Clostridium difficile. *MBio*. vol. 6 (4); e00974-15.
 
 6. Baker BJ, Sheik CS, Taylor CA, Jain S, Bhasi A, Cavalcoli JD, & Dick GJ. (2012). Community transcriptomic assembly reveals microbes that contribute to deep-sea carbon and nitrogen cycling. *ISME*. vol. 7 (10); 1962-1973.
+
+---
+
+I would love to talk to you about science!  Find me on thr Anaerobe 2016 Whoova so we can meet up!
