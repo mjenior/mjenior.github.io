@@ -32,7 +32,7 @@ Performed using the standard cell rounding assay by [Jhansi Leslie](https://www.
 
 Illumina MiSeq - 16S rRNA gene (2 x 250 bp)
 
-Illumina HiSeq - metagenomes (2 x 250 bp) and metatranscriptomes (2 x 100 bp)
+Illumina HiSeq - metagenomes (2 x 250 bp) and metatranscriptomes (2 x 50 bp)
 
 **Bipartite metabolic modeling:**
 
