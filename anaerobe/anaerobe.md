@@ -14,23 +14,30 @@ My work in the [Schloss lab](http://www.schlosslab.org/) leverages metagenomics,
 Methods (Abbreviated)
 ---------------------
 
-**Differential plating**
+**Differential plating:**
+
 All done anaerobically*
 Vegetative cells = plated on CCFA (no taurocholate)
 Spores = 60 degrees Celsius for 30 minutes, then plated on TCCFA
 
-**Toxin titer**
+
+**Toxin titer:**
+
 Performed using the standard cell rounding assay by [Jhansi Leslie](https://www.researchgate.net/profile/Jhansi_Leslie) in [Vince Young's lab](https://sites.google.com/a/umich.edu/younglab/).
 
-**High-throughpt sequencing**
+
+**High-throughpt sequencing:**
 Illumina MiSeq - 16S rRNA gene (2 x 250 bp)
 Illumina HiSeq - metagenomes (2 x 250 bp) and metatranscriptomes (2 x 100 bp)
 
-**Bipartite metabolic modeling**
+**Bipartite metabolic modeling:**
+
 I developed a novel algorithm for calculating the importance of biochemical reaction substrates in an organism's metabolic network.  These valuse are based on the transcription of the adjacent enzymes that act on or produce the given substrate.  The resulting score reflects the liklihood that a given compound is acquired from the environment.
 
-**Metagenomic-enabled Metatranscriptomics**
+
+**Metagenomic-enabled Metatranscriptomics:**
 Metagenomes were assembled and gene content was then annotated.  Metatranscriptomic read mapping was then normalized to metagenomic coverage before comparing between conditions.
+
 
 ---
 
