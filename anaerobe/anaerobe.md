@@ -27,7 +27,7 @@ Illumina MiSeq - 16S rRNA gene (2 x 250 bp)
 Illumina HiSeq - metagenomes (2 x 250 bp) and metatranscriptomes (2 x 100 bp)
 
 **Bipartite metabolic modeling**
-I developed a novel algorithm for calculating the importance of biochemical reaction substrates in an organism's metabolic network.  These valuse are based on the transcription of the adjacent enzymes that act on or produce the given substrate.  The resulting score reflects the lilihood that a given compound is acquired from the environment.
+I developed a novel algorithm for calculating the importance of biochemical reaction substrates in an organism's metabolic network.  These valuse are based on the transcription of the adjacent enzymes that act on or produce the given substrate.  The resulting score reflects the liklihood that a given compound is acquired from the environment.
 
 **Metagenomic-enabled Metatranscriptomics**
 Metagenomes were assembled and gene content was then annotated.  Metatranscriptomic read mapping was then normalized to metagenomic coverage before comparing between conditions.
