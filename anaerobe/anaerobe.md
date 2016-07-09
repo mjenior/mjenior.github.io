@@ -63,4 +63,4 @@ References
 
 ---
 
-I would love to talk to you about science!  Find me on thr Anaerobe 2016 Whoova so we can meet up!
+I would love to talk to you about science!  Find me on the [Anaerobe 2016 Whova app](http://whova.com/portal/anaer_201607) so we can meet up!
