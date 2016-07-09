@@ -17,7 +17,9 @@ Methods (Abbreviated)
 **Differential plating:**
 
 All done anaerobically*
+
 Vegetative cells = plated on CCFA (no taurocholate)
+
 Spores = 60 degrees Celsius for 30 minutes, then plated on TCCFA
 
 
@@ -29,6 +31,7 @@ Performed using the standard cell rounding assay by [Jhansi Leslie](https://www.
 **High-throughpt sequencing:**
 
 Illumina MiSeq - 16S rRNA gene (2 x 250 bp)
+
 Illumina HiSeq - metagenomes (2 x 250 bp) and metatranscriptomes (2 x 100 bp)
 
 **Bipartite metabolic modeling:**
