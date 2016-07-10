@@ -25,7 +25,7 @@ Spores = 60 degrees Celsius for 30 minutes, then plated on TCCFA
 
 **Toxin titer:**
 
-Performed using the standard cell rounding assay by [Jhansi Leslie](https://www.researchgate.net/profile/Jhansi_Leslie) in [Vince Young's lab](https://sites.google.com/a/umich.edu/younglab/).
+Performed using the standard Vero cell rounding assay by [Jhansi Leslie](https://www.researchgate.net/profile/Jhansi_Leslie) in [Vince Young's lab](https://sites.google.com/a/umich.edu/younglab/).
 
 
 **High-throughpt sequencing:**
