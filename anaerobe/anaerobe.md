@@ -34,6 +34,11 @@ Illumina MiSeq - 16S rRNA gene (2 x 250 bp)
 
 Illumina HiSeq - metagenomes (2 x 250 bp) and metatranscriptomes (2 x 50 bp)
 
+**16S rRNA gene analysis:**
+
+[mothur](http://www.mothur.org/wiki/MiSeq_SOP) of course!
+
+
 **Bipartite metabolic modeling:**
 
 I developed a novel algorithm for calculating the importance of biochemical reaction substrates in an organism's metabolic network.  These valuse are based on the transcription of the adjacent enzymes that act on or produce the given substrate.  The resulting score reflects the liklihood that a given compound is acquired from the environment.
