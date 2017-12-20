@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Major Changes"
+title:  "Major Changes!"
 date:   2017-08-17 09:30:00
 comments: true
 tags: [genomics, metabolic modeling, CDI, transcriptomics, metabolomics]
 ---
 
-There has been a hard stop on posting over the last several months because I was defending my [dissertation work](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/138521/mljenior_1.pdf?sequence=1&isAllowed=y), trying to get my manuscript published, started me postdoc in a new city, and plan a wedding... After a little bit of stress, and even less sleep, my wife and I were able to successfully complete all of these important life milestones together. 
+There has been a hard stop on posting over the last several months because I was defending my [dissertation work](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/138521/mljenior_1.pdf?sequence=1&isAllowed=y), trying to get my manuscript published, started my postdoc in a new city, and plan a wedding... After a little bit of stress, and even less sleep, my wife and I were able to successfully complete all of these important life milestones together. 
 
 <div style="text-align:center"><img src ="http://mjenior.github.io/images/wedding.jpg" width="300" height="200" /></div>
 
