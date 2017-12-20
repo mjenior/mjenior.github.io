@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Published in mSystems"
+title:  "Major Changes"
 date:   2017-08-17 09:30:00
 comments: true
 tags: [genomics, metabolic modeling, CDI, transcriptomics, metabolomics]
@@ -16,6 +16,6 @@ Now that we a both onto the next step, I want to take a second to discuss some w
 
 What this figure is showing is the transcript abundance of selected genes in several metabolic pathways across 3 antibiotic pretreatment models. Position of each point reflects the mRNA quantified from each condition associated with each corner. The closer a point is to one edge, the more overrepresented expression of that gene is in that pretreatment group. Size of the points demonstrates the normalized number of transcripts found for that gene in the condition where it's expression was highest. Overall, this implies that certain forms of metabolism are more active under certain environmental conditions which inform downstream virulence expression. We later confirmed this trend using a simplified metabolic model and untargeted mass spectrometry of metabolites found in the gut during infection.
 
-<div style="text-align:center"><img src ="http://mjenior.github.io/images/metabolites.jpg" width="200" height="600" /></div>
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/metabolites.jpg" width="400" height="800" /></div>
 
 Metabolomic results supported that there was indeed a heirarchy to nutirent preference of *C. difficile* during infection and this may be determined by which competitors are left over after antibiotics. I won't spoil the rest of the finding and let you read them for yourself :)
