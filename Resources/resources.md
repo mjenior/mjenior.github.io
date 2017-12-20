@@ -12,9 +12,6 @@ comments: false
 ### Script Repository
 * [Repo for python scripts I use in blog posts](https://github.com/mjenior/Blog_scripts)
 
-### Schloss Lab
-* [Lab Website](http://www.schlosslab.org/)
-
 ### Jekyll
 * [Get Started With Jekyll](http://jekyllrb.com/docs/quickstart/)
 * [HPSTR Jekyll theme](http://jekyllthemes.org/themes/hpstr/)

@@ -24,9 +24,13 @@ Highlighted Skills
 Research & Experience
 ---------------------
 
-**Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – present**
+**Postdoctoral Research Associate with Dr. Jason Papin, University of Virginia, August 2017 - present**
 
-- My thesis research investigates the role of nutrient niche exclusion by the gut microbiome in colonization resistance to Clostridium difficile infection.  I accomplished this through the use of metagenomic-enabled metatranscriptomics to identify how community-level metabolism shifted in response to antibiotic treatment and pathogen colonization.
+- My postdoctoral research centers on implementing metabolic modeling techniques at the metagenome-scale with integration of high-throughput metatranscriptomic and metabolomic data in order to engineer optimal probiotic cocktails against multiple diseases of the GI tract based on combined metabolic signatures.
+
+**Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – July 2017**
+
+- My dissertation research investigated the role of nutrient niche exclusion by the gut microbiome in colonization resistance to *Clostridium difficile* infection.  I accomplished this through the use of metagenomic-enabled metatranscriptomics to identify how community-level metabolism shifted in response to antibiotic treatment and pathogen colonization.
 
 **Research Internship, Janssen Pharmaceuticals, June 2011 – August 2011**
 
@@ -38,58 +42,78 @@ Research & Experience
 
 **Research Assistantship, Hiram College, February 2009 – December 2010**
 
-- Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in Agrobacterium tumefaciens using forward genetic screens.
-
-
-Publications
-------------
-
-Schloss PD, Westcott SL, **Jenior ML**, Highlander SK. (2015). Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system. PeerJ PrePrints 3:e778v1 [link](https://dx.doi.org/10.7287/peerj.preprints.778v1)
-
-Baxter NT, Wan J J, Schubert AM, **Jenior ML**, Myers P, & Schloss PD. (2015). Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations. Applied and Environmental Microbiology, 81(1), 396–404. [link](http://aem.asm.org/content/81/1/396.abstract)
-
-
-Professional Societies
-----------------------
-
-[Anaerobe Society of the Americas](http://www.anaerobe.org/), 2014 - present
-
-[American Society of Microbiology](http://www.asm.org/), 2013 - present
-
-[Cellular Biotechnology Training Program](http://cbtp.engin.umich.edu/), 2012 - present
-
-
-Poster Presentations
---------------------
-
-- Michigan Meeting on Microbial Communities - May 16-18, 2016 - Ann Arbor, MI
-- American Society for Microbiology Michigan Branch Meeting - October 24, 2015 - Ann Arbor, MI
-- University of Michigan Microbiome Symposium - September 10, 2015 - Ann Arbor, MI
-- Cellular Biotechnology Training Program Symposium - April 13, 2015 - Ann Arbor, MI
-- 5th ASM Conference on Beneficial Microbes - September 27 to 30, 2014 - Washington D.C.
-- Anaerobe Society of Americas, Young Investigator’s Competition - June 29 to July 1, 2014 - Chicago, IL
-- NIH Enterics Research Investigational Network Meeting - June 2 to 4, 2013 - Traverse City, MI
-
-
-Grants & Awards
----------------
-
-- Beneficial Microbes 2014 Travel Grant, ASM, August 2014
-- Rackham Travel Grant, University of Michigan, August 2014
-- Finalist & Award Winner, Young Investigator’s Poster Competition Anaerobe Society of the Americas Conference 2014, June 2014
-- Rackham Candidate Fellowship, University of Michigan, April 2014
-- Cellular Biotechnology Training Grant, University of Michigan, September 2012
-- Rackham Pre-Candidate Fellowship, University of Michigan, December 2012
-- Kelton Scott MacMurray Memorial Scholarship, Hiram College, May 2011
-- Graduated Cum Laude, Hiram College, May 2011
-- Louis DiSalvo Memorial Research Assistantship in Microbiology, June 2009
+- Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in *Agrobacterium tumefaciens* using forward genetic screens.
 
 
 Education
 ---------
 
-- Ph.D. – Microbiology & Immunology, University of Michigan, July 2011 - present
+- Ph.D. – Microbiology & Immunology, University of Michigan, July 2011 - July 2017
 - B.A. – Biology, Hiram College, August 2007 – May 2011
+
+
+Publications
+------------
+
+Jenior ML, Leslie JL, Young VB, & Schloss PD. (2018). *Clostridium difficile* differentially alters the structure and metabolism of distinct cecal microbiomes to promote persistent colonization during infection. BioRxiv. DOI: https://doi.org/10.1101/211516. *In submission*.
+
+Leslie JL, Jenior ML, Schloss PD, & Young VB. (2018). The role of adaptive immunity in intra-strain exclusion of *Clostridium difficile* in mice. In preparation.
+
+Leslie JL, Jenior ML, Schloss PD, & Young VB. (2018). Nutrient-based competition drives drives in vivo colonization resistance between strains of the bacterial pathogen *Clostridium difficile*. In preparation.
+
+Jenior ML, Leslie JL, Young VB, & Schloss PD. (2017). *Clostridium difficile* colonizes alternative nutrient niches across susceptible murine gut microbiomes. mSystems. 2 (4); e00063-17.
+
+Schloss PD, Westcott SL, Jenior ML, & Highlander SK. (2016). Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system. PeerJ. 4:e1869.
+
+Baxter NT, Wan J J, Schubert AM, Jenior ML, Myers P, & Schloss PD. (2015). Intra- and Interindividual variations Mask Interspecies Variation in the Microbiota of Sympatric *Peromyscus* populations. AEM. 81(1);
+396–404.
+
+
+
+Professional Societies
+----------------------
+
+[Michigan Life sciences Engineering Advising and Development](http://www.milead.org/), 2016 - 2017
+
+[Anaerobe Society of the Americas](http://www.anaerobe.org/), 2014 - present
+
+[American Society of Microbiology](http://www.asm.org/), 2013 - present
+
+[Cellular Biotechnology Training Program](http://cbtp.engin.umich.edu/), 2012 - 2017
+
+
+Oral & Poster Presentations
+--------------------
+
+- Anaerobe Society of the Americas - Nashville, TN					July 11-14, 2016
+- Michigan Meeting on Microbial Communities - Ann Arbor, MI			May 16-18, 2016
+- Biannual Cellular Biotechnology Symposium - Ann Arbor, MI			April 14, 2016
+- American Society for Microbiology Michigan Branch Meeting - Ann Arbor, MI	October 24, 2015
+- University of Michigan Microbiome Symposium - Ann Arbor, MI			September 10, 2015
+- Cellular Biotechnology Training Program Symposium - Ann Arbor, MI		April 13, 2015
+- 5th ASM Conference on Beneficial Microbes - Washington D.C.			September 27-30, 2014
+- Anaerobe Society, Young Investigator’s Competition - Chicago, IL		June 29-July 1, 2014
+- NIH Enterics Research Investigational Network Meeting - Traverse City, MI	June 2-4, 2013
+
+
+Grants & Awards
+---------------
+
+- Journal cover article, mSystems 							July 2017
+	Jenior et. al. (2017) mSystems. DOI: 10.1128/mSystems.00063-17.
+- Finalist & 3rd place, Young Investigator’s Poster Competition			July 2016
+	Anaerobe Society of the Americas Conference
+- Rackham Travel Grant, University of Michigan					July 2016
+- Beneficial Microbes 2014 Travel Grant, ASM					August 2014
+- Rackham Travel Grant, University of Michigan					August 2014
+- Finalist & Honorable Mention, Young Investigator’s Poster Competition		June 2014
+	Anaerobe Society of the Americas Conference
+- Rackham Candidate Fellowship, University of Michigan				April 2014
+- Cellular Biotechnology Training Grant, University of Michigan			September 2012
+- Rackham Pre-Candidate Fellowship, University of Michigan			December 2012
+- Kelton Scott MacMurray Memorial Scholarship, Hiram College			May 2011
+- Graduated Cum Laude, Hiram College						May 2011
+- Louis DiSalvo Memorial Research Assistantship in Microbiology			June 2009
 
 
 Service
@@ -106,19 +130,18 @@ Service
 References
 ----------
 
-**Patrick Schloss PhD.**
-Associate Professor of Microbiology & Immunology
-University of Michigan
-Email: **pschloss@umich.edu**
+**Jason Papin, Ph.D.**
+Professor of Biomedical Engineering
+University of Virginia
+Email: papin@virginia.edu
 
-**Vincent Young MD. PhD.**
-Dept. Int Med-Infectious Diseases
+**Patrick Schloss Ph.D.**
 Professor of Microbiology & Immunology
 University of Michigan
-Email: **youngvi@med.umich.edu**
+Email: pschloss@umich.edu
 
-**Shannon Telesco PhD.**
-Research and Development Scientist
-Janssen Pharmaceuticals
-Email:  **stelesco@its.jnj.com**
+**Gregory Dick Ph.D.**
+Associate Professor of Earth and Environmental Sciences
+University of Michigan
+Email: gdick@umich.edu
 

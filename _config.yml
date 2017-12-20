@@ -6,10 +6,10 @@ words_per_minute:
 url: http://mjenior.github.io/
 
 owner:
-  name:           Matthew Jenior
+  name:           Matthew Jenior Ph.D.
   avatar:         avatar.jpg
-  bio:            "I'm a bench turned data scientist. This blog details some cool projects/side-projects from my PhD. thesis."
-  email:          mljenior@umich.edu
+  bio:            "I'm a microbial ecologist interested in how our resident microbes impact our health. This blog details aspects from my research and experiences that I think are pretty interesting."
+  email:          mljenior@virginia.edu
   twitter:        mljenior
   github:         mjenior
   linkedin:       matthew-jenior-61466662
@@ -22,7 +22,7 @@ google_analytics:
 google_verify:           
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Detroit
+timezone:    America/New_York
 future:      true
 highlighter: rouge
 markdown:    kramdown

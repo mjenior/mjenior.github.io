@@ -9,7 +9,14 @@ image:
 comments: false
 ---
 
-This page is a list interesting papers that I've recently read.  Check back for regular updates!
+This page is a list interesting papers that I've recently read. 
+
+12/20/17 - [Gut microbiome composition and function in experimental colitis during active disease and treatment-induced remission](https://www.nature.com/articles/ismej20143)
+
+12/18/17 - [MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities](https://peerj.com/articles/1165/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
+
+12/15/17 - [CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and
+metagenomes](http://genome.cshlp.org/content/early/2015/05/14/gr.186072.114.full.pdf+html)
 
 6/4/16 - [Genome characteristics of a generalist marine bacterial lineage](http://www.nature.com/ismej/journal/v4/n6/pdf/ismej2009150a.pdf#bm_bib7)
 
