@@ -9,7 +9,8 @@ image:
 comments: false
 ---
 
-### Script Repository
+### Github Repos
+* [Link for all of my public repos](https://github.com/mjenior/)
 * [Repo for python scripts I use in blog posts](https://github.com/mjenior/Blog_scripts)
 
 ### Jekyll

@@ -19,7 +19,7 @@ research involves making sense of large community-level datasets from the gut mi
 
 This blog is a chronicle of my experiences in science, hopefully enjoy it or even find it helpful in any project you might be working on!
 
-<div style="text-align:center"><img src ="http://phdcomics.com/comics/archive/phd070513s.gif" /></div>
+<div style="text-align:center"><img src ="http://phdcomics.com/comics/archive/phd041608s.gif" /></div>
 
 
 {% include twitter_plug.html %}
