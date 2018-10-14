@@ -9,7 +9,15 @@ image:
 comments: false
 ---
 
-This page is a list interesting papers that I've recently read. 
+This page is a list of interesting papers that I've recently read. 
+
+7/29/18 - [Managing uncertainty in metabolic network structure and improving predictions using EnsembleFBA](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005413)
+
+5/22/18 - [Omic data from evolved E. coli are consistent with computed optimal growth from genome-scale models](http://msb.embopress.org/content/6/1/390.long)
+
+4/5/18 - [Flux Imbalance Analysis and the Sensitivity of Cellular Growth to Changes in Metabolite Pools](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003195)
+
+2/15/18 - [Functional integration of a metabolic network model and expression data without arbitrary thresholding](https://academic.oup.com/bioinformatics/article/27/4/541/198624)
 
 12/20/17 - [Gut microbiome composition and function in experimental colitis during active disease and treatment-induced remission](https://www.nature.com/articles/ismej20143)
 
