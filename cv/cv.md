@@ -15,12 +15,6 @@ Summary
 I am a highly motivated bench-turned-informatics scientist with an extremely strong background in not only the biology of microbial ecosystems, but the computational means to study them at a fine resolution.  I have independently moved large projects from the genesis of original ideas, all the way to presentation and publication of finished work during my PhD. thesis.  Accomplishing these goals involved developing novel workflows to harness large metagenomic and metatranscriptomic datasets for understanding complex community-level interactions that drive human health and disease. Additionally, having experience with research both in academic and industry settings, I am uniquely suited to collaborate with a variety of personnel to complete projects on time using innovative approaches.
 
 
-Highlighted Skills
----------------------
-
-<div style="text-align:center"><img src ="http://mjenior.github.io/images/skills.jpg" width="600" height="700" /></div>
-
-
 Research & Experience
 ---------------------
 
@@ -43,6 +37,12 @@ Research & Experience
 **Research Assistantship, Hiram College, February 2009 – December 2010**
 
 - Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in *Agrobacterium tumefaciens* using forward genetic screens.
+
+
+Highlighted Skills
+---------------------
+
+<div style="text-align:center"><img src ="http://mjenior.github.io/images/skills.jpg" width="600" height="700" /></div>
 
 
 Education
