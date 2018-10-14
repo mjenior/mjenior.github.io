@@ -55,7 +55,7 @@ Education
 Publications
 ------------
 
-Jenior ML, Leslie JL, Young VB, & Schloss PD. (2018). *Clostridium difficile* differentially alters the structure and metabolism of distinct cecal microbiomes to promote persistent colonization during infection. BioRxiv. DOI: https://doi.org/10.1101/211516. *In submission*.
+Jenior ML, Leslie JL, Young VB, & Schloss PD. (2018). *Clostridium difficile* differentially alters the structure and metabolism of distinct cecal microbiomes to promote persistent colonization during infection. mSphere. 3 (3) e00261-18; DOI: 10.1128/mSphere.00261-18.
 
 Leslie JL, Jenior ML, Schloss PD, & Young VB. (2018). The role of adaptive immunity in intra-strain exclusion of *Clostridium difficile* in mice. In preparation.
 
@@ -85,6 +85,7 @@ Professional Societies
 Oral & Poster Presentations
 --------------------
 
+- 5th Conference on Constraint-Based Reconstruction and Analysis - Seattle, WA		October 14-16, 2018
 - Anaerobe Society of the Americas - Nashville, TN					July 11-14, 2016
 - Michigan Meeting on Microbial Communities - Ann Arbor, MI			May 16-18, 2016
 - Biannual Cellular Biotechnology Symposium - Ann Arbor, MI			April 14, 2016
