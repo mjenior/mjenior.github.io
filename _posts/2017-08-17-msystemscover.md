@@ -6,7 +6,7 @@ comments: true
 tags: [genomics, metabolic modeling, CDI, transcriptomics, metabolomics]
 ---
 
-There has been a hard stop on posting over the last several months because I was defending my [dissertation work](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/138521/mljenior_1.pdf?sequence=1&isAllowed=y), trying to get my manuscript published, started my postdoc in a new city, and planning a wedding... After a little bit of stress, and even less sleep, my [wife](https://www.researchgate.net/profile/Jhansi_Leslie) and I were able to successfully complete all of these important life milestones together. 
+There has been a hard stop on posting over the last several months because we were defending our [dissertation](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/138521/mljenior_1.pdf?sequence=1&isAllowed=y) [work](https://deepblue.lib.umich.edu/handle/2027.42/138523), trying to get manuscripts published, starting our postdocs in a new city, and planning a wedding... After a little bit of stress, and even less sleep, my [wife](https://www.researchgate.net/profile/Jhansi_Leslie) and I were able to successfully complete all of these important life milestones together. 
 
 <div style="text-align:center"><img src ="http://mjenior.github.io/images/wedding.jpg" width="300" height="200" /></div>
 
