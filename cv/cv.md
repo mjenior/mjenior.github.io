@@ -41,19 +41,6 @@ Research & Experience
 - Laboratory of Dr. Bradley Goodner – Worked to elucidate functional differences between five putative copies of glutamine synthetase in *Agrobacterium tumefaciens* using forward genetic screens.
 
 
-Highlighted Skills
----------------------
-
-<div style="text-align:center"><img src ="http://mjenior.github.io/images/skills.jpg" width="600" height="700" /></div>
-
-
-Education
----------
-
-- Ph.D. – Microbiology & Immunology, University of Michigan, July 2011 - July 2017
-- B.A. – Biology, Hiram College, August 2007 – May 2011
-
-
 Publications
 ------------
 
