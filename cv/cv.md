@@ -9,10 +9,12 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-Summary
+Training
 ---------------------
 
-I am a highly motivated bench-turned-informatics scientist with an extremely strong background in not only the biology of microbial ecosystems, but the computational means to study them at a fine resolution.  I have independently moved large projects from the genesis of original ideas, all the way to presentation and publication of finished work during my PhD. thesis.  Accomplishing these goals involved developing novel workflows to harness large metagenomic and metatranscriptomic datasets for understanding complex community-level interactions that drive human health and disease. Additionally, having experience with research both in academic and industry settings, I am uniquely suited to collaborate with a variety of personnel to complete projects on time using innovative approaches.
+- Postdoctoral Training - Biomedical Engineering, University of Virginia, August 2017 - present
+- Ph.D. - Microbiology & Immunology, University of Michigan, July 2011 - July 2017
+- B.A. - Biology, Hiram College - graduated Cum Laude, August 2007 - May 2011
 
 
 Research & Experience
@@ -20,7 +22,7 @@ Research & Experience
 
 **Postdoctoral Research Associate with Dr. Jason Papin, University of Virginia, August 2017 - present**
 
-- My postdoctoral research centers on implementing metabolic modeling techniques at the metagenome-scale with integration of high-throughput metatranscriptomic and metabolomic data in order to engineer optimal probiotic cocktails against multiple diseases of the GI tract based on combined metabolic signatures.
+- My postdoctoral research centers on implementing metabolic network reconstruction techniques, with integration of high-throughput metatranscriptomic and metabolomic data in order to engineer probiotic bacterial consortia against Clostridioides difficile infection.
 
 **Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – July 2017**
 
@@ -55,6 +57,28 @@ Education
 Publications
 ------------
 
+Jenior ML, Papin JA. (2020). Clostridioides difficile: Sometimes it pays to be difficult. Cell Host & Microbe. Accepted.
+
+Jenior ML, Powers DA, Leslie JL, Garrett EM, Dickenson ME, Walker KA, Petri WA Jr., Tamayo R, & Papin JA. (2020). Genome-scale metabolic reconstruction and analysis of Clostridioides difficile identifies conserved patterns of virulence-related metabolic reprogramming. In Preparation.
+
+Dougherty BV, Rawls KD, Kolling GL, Jenior ML, & Papin JA. (2020). Identifying biomarkers of cardiotoxicity using a metabolic model constrained by omics data. In Preparation.
+
+Hagan AK, Lesniak NA, Balunas MJ, Bishop L, Close WL, Doherty MD, Elmore AG, Flynn KJ, Hannigan GD, Koumpouras CC, Jenior ML, Kozik AJ, McBride K, Rifkin SB, Stough JMA, Sovacool KL, Sze MA, Tomkovich S, Topcuoglu BD, & Schloss PD. (2020). Ten Simple Rules to increase computational skills among biologists with Code Clubs. PLOS Comp Biol. Accepted.
+
+Dunphy LJ, Kolling GL, Jenior ML, Carroll GL, Attai AE, Mathers AL, Hughes MA, & Papin JA. (2020). Multidimensional surveillance of Pseudomonas aeruginosa isolates in a single healthcare system reveals novel infection patterns. In Submission.
+
+Leslie JL, Jenior ML, Papin JA, & Petri WA Jr. (2020). Western-style diet creates context-specific, microbiome-dependent pathogenic innate responses to C. difficile infection. In Preparation.
+
+Leslie JL, Weddle E, Yum LK, Jenior ML, Lee B, Ma JZ, Kirkpatrick BD, Platts-Mills J, Agaisse HF, Haque R, & Petri WA Jr. (2020). Lewis Blood Group Antigens are Associated with Altered Susceptibility to Shigella. In Press.
+
+Jenior ML, Moutinho TJ, Dougherty BV, & Papin JA. (2020). Transcriptome-guided parsimonious flux analysis improves predictions with metabolic networks in complex environments. PLOS Comp Biol. https://doi.org/10.1371/journal.pcbi.1007099
+
+Moutinho TJ, Neubert BC, Jenior ML, Carey MA, Medlock GL, Kolling GL, Papin JA. (2020). Functional Anabolic Network Analysis of Human-associated Lactobacillus Strains. In Submission.
+
+Leslie JL, Jenior ML, Schloss PD, & Young VB. (2020). Protection from lethal Clostridioides difficile infection via intra-species competition for co-germinant. Under Review.
+
+Leslie JL, Vendriv K, Jenior ML, & Young VB. (2019). The gut microbiota is associated with clearance of Clostridium difficile infection independent of adaptive immunity. mSphere. DOI: 10.1128/mSphereDirect.00698-18.
+
 Jenior ML, Leslie JL, Young VB, & Schloss PD. (2018). *Clostridium difficile* differentially alters the structure and metabolism of distinct cecal microbiomes to promote persistent colonization during infection. mSphere. 3 (3) e00261-18; DOI: 10.1128/mSphere.00261-18.
 
 Leslie JL, Jenior ML, Schloss PD, & Young VB. (2018). The role of adaptive immunity in intra-strain exclusion of *Clostridium difficile* in mice. In preparation.
@@ -65,26 +89,34 @@ Jenior ML, Leslie JL, Young VB, & Schloss PD. (2017). *Clostridium difficile* co
 
 Schloss PD, Westcott SL, Jenior ML, & Highlander SK. (2016). Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system. PeerJ. 4:e1869.
 
-Baxter NT, Wan J J, Schubert AM, Jenior ML, Myers P, & Schloss PD. (2015). Intra- and Interindividual variations Mask Interspecies Variation in the Microbiota of Sympatric *Peromyscus* populations. AEM. 81(1);
-396–404.
+Baxter NT, Wan J J, Schubert AM, Jenior ML, Myers P, & Schloss PD. (2015). Intra- and Interindividual variations Mask Interspecies Variation in the Microbiota of Sympatric *Peromyscus* populations. AEM. 81(1); 396–404.
 
 
+Grants & Awards
+---------------
 
-Professional Societies
-----------------------
+- Trans-University Microbiome Initiative Pilot Award UVA - April 2020
+- Journal cover article, mSystems - July 2017
+	Jenior et. al. (2017) mSystems. DOI: 10.1128/mSystems.00063-17.
+- Finalist & 3rd place, Young Investigator’s Poster Competition - July 2016
+	Anaerobe Society of the Americas Conference
+- Rackham Travel Grant, University of Michigan - July 2016
+- Beneficial Microbes 2014 Travel Grant, ASM - August 2014
+- Rackham Travel Grant, University of Michigan - August 2014
+- Finalist & Honorable Mention, Young Investigator’s Poster Competition - June 2014
+	Anaerobe Society of the Americas Conference
+- Rackham Candidate Fellowship, University of Michigan - April 2014
+- Cellular Biotechnology Training Grant, University of Michigan - September 2012
+- Rackham Pre-Candidate Fellowship, University of Michigan - December 2012
+- Kelton Scott MacMurray Memorial Scholarship, Hiram College - May 2011
+- Graduated Cum Laude, Hiram College - May 2011
+- Louis DiSalvo Memorial Research Assistantship in Microbiology - June 2009
 
-[Michigan Life sciences Engineering Advising and Development](http://www.milead.org/), 2016 - 2017
 
-[Anaerobe Society of the Americas](http://www.anaerobe.org/), 2014 - present
-
-[American Society of Microbiology](http://www.asm.org/), 2013 - present
-
-[Cellular Biotechnology Training Program](http://cbtp.engin.umich.edu/), 2012 - 2017
-
-
-Oral & Poster Presentations
+Presentations
 --------------------
 
+- Society for Mathematical Biology Annual Meeting - Montreal, Canada        July 22-26, 2019
 - 5th Conference on Constraint-Based Reconstruction and Analysis - Seattle, WA		October 14-16, 2018
 - Anaerobe Society of the Americas - Nashville, TN					July 11-14, 2016
 - Michigan Meeting on Microbial Communities - Ann Arbor, MI			May 16-18, 2016
@@ -97,35 +129,30 @@ Oral & Poster Presentations
 - NIH Enterics Research Investigational Network Meeting - Traverse City, MI	June 2-4, 2013
 
 
-Grants & Awards
----------------
-
-- Journal cover article, mSystems 							July 2017
-	Jenior et. al. (2017) mSystems. DOI: 10.1128/mSystems.00063-17.
-- Finalist & 3rd place, Young Investigator’s Poster Competition			July 2016
-	Anaerobe Society of the Americas Conference
-- Rackham Travel Grant, University of Michigan					July 2016
-- Beneficial Microbes 2014 Travel Grant, ASM					August 2014
-- Rackham Travel Grant, University of Michigan					August 2014
-- Finalist & Honorable Mention, Young Investigator’s Poster Competition		June 2014
-	Anaerobe Society of the Americas Conference
-- Rackham Candidate Fellowship, University of Michigan				April 2014
-- Cellular Biotechnology Training Grant, University of Michigan			September 2012
-- Rackham Pre-Candidate Fellowship, University of Michigan			December 2012
-- Kelton Scott MacMurray Memorial Scholarship, Hiram College			May 2011
-- Graduated Cum Laude, Hiram College						May 2011
-- Louis DiSalvo Memorial Research Assistantship in Microbiology			June 2009
-
-
-Service
+Leadership & Service
 -------
 
+- University of Virginia Postdoctoral Association Founding Member- November 8, 2018
 - Genesee County Health Department Community Lead Screening Event, Flint MI - March 19th, 2016
 - Microbiology and Immunology Student Invited Speaker Coordinator - [Dr. Jo Handelsman](https://www.whitehouse.gov/administration/eop/ostp/about/leadershipstaff/handelsman), 2015 - 2016
 - Microbiology and Immunology Student Event Planner, September 2015 – present
 - Pioneer High School Science Fair Judge - Biology and Computer Science - 2014, 2016
 - Graduate Student Council Representative member, March 2014 – 2016
 - PIBS recruitment weekend organizer and guide, January 2012 - 2016
+
+
+Professional Societies
+----------------------
+
+[University of Virginia Postdoctoral Association](https://postdoc.virginia.edu/uva-postdoc-association), 2018 - present
+
+[Michigan Life sciences Engineering Advising and Development](http://www.milead.org/), 2016 - 2017
+
+[Anaerobe Society of the Americas](http://www.anaerobe.org/), 2014 - present
+
+[American Society of Microbiology](http://www.asm.org/), 2013 - present
+
+[Cellular Biotechnology Training Program](http://cbtp.engin.umich.edu/), 2012 - 2017
 
 
 References
