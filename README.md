@@ -1,4 +1,4 @@
-My Science Blog
+My Website
 ============
 
-This repository holds the content and Jekyll scripts hosted for my website.
+This repository holds the content my personal website.

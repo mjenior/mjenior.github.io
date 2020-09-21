@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading List
+title: Publications
 permalink: /reading/
 image:
   feature: reading.jpg
@@ -9,41 +9,24 @@ image:
 comments: false
 ---
 
-This page is a list of interesting papers that I've recently read. 
+### 2020
+* [Clostridioides difficile: Sometimes It Pays To Be Difficult](https://www.sciencedirect.com/science/article/abs/pii/S1931312820304650)
+* [Ten simple rules to increase computational skills among biologists with Code Clubs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008119)
+* [Transcriptome-guided parsimonious flux analysis improves predictions with metabolic networks in complex environments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007099&rev=2)
+* [Lewis Blood Group Antigens are Associated with Altered Susceptibility to Shigellosis](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1409/5907894)
 
-7/29/18 - [Managing uncertainty in metabolic network structure and improving predictions using EnsembleFBA](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005413)
+### 2019
+* [The Gut Microbiota Is Associated with Clearance of Clostridium difficile Infection Independent of Adaptive Immunity](https://msphere.asm.org/content/4/1/e00698-18.abstract)
+* [Functional Anabolic Network Analysis of Human-associated Lactobacillus Strains](https://www.biorxiv.org/content/10.1101/746420v1.abstract)
 
-5/22/18 - [Omic data from evolved E. coli are consistent with computed optimal growth from genome-scale models](http://msb.embopress.org/content/6/1/390.long)
+### 2018
+* [Clostridium difficile Alters the Structure and Metabolism of Distinct Cecal Microbiomes during Initial Infection To Promote Sustained Colonization](https://msphere.asm.org/content/3/3/e00261-18.short)
 
-4/5/18 - [Flux Imbalance Analysis and the Sensitivity of Cellular Growth to Changes in Metabolite Pools](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003195)
+### 2017
+* [Clostridium difficile Colonizes Alternative Nutrient Niches during Infection across Distinct Murine Gut Microbiomes](https://msystems.asm.org/content/2/4/e00063-17.short)
 
-2/15/18 - [Functional integration of a metabolic network model and expression data without arbitrary thresholding](https://academic.oup.com/bioinformatics/article/27/4/541/198624)
+### 2016
+* [Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system](https://peerj.com/articles/1869/)
 
-12/20/17 - [Gut microbiome composition and function in experimental colitis during active disease and treatment-induced remission](https://www.nature.com/articles/ismej20143)
-
-12/18/17 - [MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities](https://peerj.com/articles/1165/?utm_source=TrendMD&utm_campaign=PeerJ_TrendMD_1&utm_medium=TrendMD)
-
-12/15/17 - [CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and
-metagenomes](http://genome.cshlp.org/content/early/2015/05/14/gr.186072.114.full.pdf+html)
-
-6/4/16 - [Genome characteristics of a generalist marine bacterial lineage](http://www.nature.com/ismej/journal/v4/n6/pdf/ismej2009150a.pdf#bm_bib7)
-
-6/2/16 - [Transfer of Viral Communities between Human Individuals during Fecal Microbiota Transplantation](http://mbio.asm.org/content/7/2/e00322-16.abstract)
-
-4/9/16 - [Waste Not, Want Not: Why Rarefying Microbiome Data Is Inadmissible](http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1003531.PDF)
-
-3/23/16 - [Quantifying Diet-Induced Metabolic Changes of the Human Gut Microbiome](http://www.cell.com/cell-metabolism/pdf/S1550-4131(15)00330-7.pdf)
-
-3/8/16 - [An interactive reference framework for modeling a dynamic immune system](http://science.sciencemag.org/content/349/6244/1259425.full-text.pdf+html)
-
-2/8/16 - [Metabolic Model-Based Integration of Microbiome Taxonomic and Metabolomic Profiles Elucidates Mechanistic Links between Ecological and Metabolic Variation](http://elbo.gs.washington.edu/pub/metamod_neocker_msystems.pdf)
-
-2/2/16 - [Microbiota-Dependent Sequelae of Acute Infection Compromise Tissue-Specific Immunity.](http://www.ncbi.nlm.nih.gov/pubmed/26451485)
-
-2/1/16 - [Coculture of Escherichia coli O157:H7 with a Nonpathogenic E. coli Strain Increases Toxin Production and Virulence in a Germfree Mouse Model.](http://www.ncbi.nlm.nih.gov/pubmed/26259815)
-
-2/1/16 - [Reverse Ecology: From Systems to Environments and Back](http://elbo.gs.washington.edu/pub/re_levy_aemb.pdf)
-
-2/1/16 - [Genome scale models of yeast: towards standardized evaluation and consistent omic integration](http://pubs.rsc.org/en/content/articlepdf/2015/ib/c5ib00083a)
-
-2/1/16 - [The Last Word: Books as a Statistical Metaphor for Microbial Communities](http://handelsmanlab.sites.yale.edu/sites/default/files/LastWord.pdf)
+### 2015
+* [Intra- and Interindividual Variations Mask Interspecies Variation in the Microbiota of Sympatric Peromyscus Populations](https://aem.asm.org/content/81/1/396.short)
