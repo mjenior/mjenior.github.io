@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matthew Jenior
+title: Matthew Jenior PhD
 permalink: /cv/
 comments: false
 image:
@@ -44,9 +44,9 @@ Research & Experience
 Publications
 ------------
 
-Jenior ML, Papin JA. (2020). Clostridioides difficile: Sometimes it pays to be difficult. Cell Host & Microbe. Accepted.
+Jenior ML, Papin JA. (2020). Clostridioides difficile: Sometimes it pays to be difficult. Cell Host & Microbe. https://doi.org/10.1016/j.chom.2020.08.010
 
-Jenior ML, Powers DA, Leslie JL, Garrett EM, Dickenson ME, Walker KA, Petri WA Jr., Tamayo R, & Papin JA. (2020). Genome-scale metabolic reconstruction and analysis of Clostridioides difficile identifies conserved patterns of virulence-related metabolic reprogramming. In Preparation.
+Jenior ML, Leslie JL, Powers DA, Garrett EM, Dickenson ME, Walker KA, Petri WA Jr., Tamayo R, & Papin JA. (2020). Genome-scale metabolic reconstruction and analysis of Clostridioides difficile identifies conserved patterns of virulence-related metabolic reprogramming. In Preparation.
 
 Dougherty BV, Rawls KD, Kolling GL, Jenior ML, & Papin JA. (2020). Identifying biomarkers of cardiotoxicity using a metabolic model constrained by omics data. In Preparation.
 
@@ -83,7 +83,7 @@ Grants & Awards
 ---------------
 
 - Trans-University Microbiome Initiative Pilot Award UVA - April 2020
-- Journal cover article, mSystems - July 2017
+- Editor's Pick, mSystems - July 2017
 	Jenior et. al. (2017) mSystems. DOI: 10.1128/mSystems.00063-17.
 - Finalist & 3rd place, Young Investigator’s Poster Competition - July 2016
 	Anaerobe Society of the Americas Conference
@@ -131,6 +131,8 @@ Leadership & Service
 Professional Societies
 ----------------------
 
+[Society for Mathematical Biology](https://www.smb.org/), 2019 - present
+
 [University of Virginia Postdoctoral Association](https://postdoc.virginia.edu/uva-postdoc-association), 2018 - present
 
 [Michigan Life sciences Engineering Advising and Development](http://www.milead.org/), 2016 - 2017
@@ -155,8 +157,12 @@ Professor of Microbiology & Immunology
 University of Michigan
 Email: pschloss@umich.edu
 
-**Gregory Dick Ph.D.**
-Associate Professor of Earth and Environmental Sciences
+**Vincent Young, M.D./Ph.D.**
+Professor of Microbiology & Immunology
 University of Michigan
-Email: gdick@umich.edu
+Email: youngvi@umich.edu
 
+**Nicole Koropatkin Ph.D.**
+Assistant Professor of Microbiology & Immunology
+University of Michigan
+Email: nkoropat@umich.edu
