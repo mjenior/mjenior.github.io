@@ -144,25 +144,6 @@ Professional Societies
 [Cellular Biotechnology Training Program](http://cbtp.engin.umich.edu/), 2012 - 2017
 
 
-References
-----------
+#### References can be made available upon request.
 
-**Jason Papin, Ph.D.**
-Professor of Biomedical Engineering
-University of Virginia
-Email: papin@virginia.edu
 
-**Patrick Schloss Ph.D.**
-Professor of Microbiology & Immunology
-University of Michigan
-Email: pschloss@umich.edu
-
-**Vincent Young, M.D./Ph.D.**
-Professor of Microbiology & Immunology
-University of Michigan
-Email: youngvi@umich.edu
-
-**Nicole Koropatkin Ph.D.**
-Assistant Professor of Microbiology & Immunology
-University of Michigan
-Email: nkoropat@umich.edu
