@@ -13,4 +13,3 @@ I'm interested in how host-associated communities of bacteria handle their metab
 
 <a href="http://mjenior.github.io/cv/" class="btn btn-success">Click here for my CV</a>
 
-{% include twitter_plug.html %}
