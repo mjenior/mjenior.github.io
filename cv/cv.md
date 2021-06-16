@@ -44,6 +44,10 @@ Research & Experience
 Publications
 ------------
 
+Leslie JL, Jenior ML, Vendrov KC, Standke AK, Barron MR, TJ O’Brien, Unverdorben L, Thaprawat P, Bergin IL, Schloss PD, Young VB. (2021). Protection from Lethal Clostridioides difficile Infection via Intraspecies Competition for Cogerminant. Mbio 12 (2), e00522-21
+
+Leslie JL, Weddle E, Yum LK, Lin Y, Jenior ML, Lee B, Ma JZ, Kirkpatrick BD, Nayak U, Platts-Mills JA, Agaisse HF, Haque R, Petri Jr. WA. (2020). Lewis Blood Group Antigens are Associated with Altered Susceptibility to Shigellosis. Clinical Infectious Diseases 1409
+
 Jenior ML, Papin JA. (2020). Clostridioides difficile: Sometimes it pays to be difficult. Cell Host & Microbe. https://doi.org/10.1016/j.chom.2020.08.010
 
 Jenior ML, Leslie JL, Powers DA, Garrett EM, Dickenson ME, Walker KA, Petri WA Jr., Tamayo R, & Papin JA. (2020). Genome-scale metabolic reconstruction and analysis of Clostridioides difficile identifies conserved patterns of virulence-related metabolic reprogramming. In Preparation.
