@@ -44,17 +44,19 @@ Research & Experience
 Publications
 ------------
 
-Leslie JL, Jenior ML, Vendrov KC, Standke AK, Barron MR, TJ O’Brien, Unverdorben L, Thaprawat P, Bergin IL, Schloss PD, Young VB. (2021). Protection from Lethal Clostridioides difficile Infection via Intraspecies Competition for Cogerminant. Mbio 12 (2), e00522-21
+Dunphy LJ, Kollinga GL, Jenior ML, Carroll J, Attai AE, Farnoud F, Mathers AJ, Hughes MA, & Papin JA. (2021). Multidimensional Clinical Surveillance of Pseudomonas aeruginosa Reveals Complex Relationships between Isolate Source, Morphology, and Antimicrobial Resistance. mSphere. https://journals.asm.org/doi/10.1128/mSphere.00393-21
 
-Leslie JL, Weddle E, Yum LK, Lin Y, Jenior ML, Lee B, Ma JZ, Kirkpatrick BD, Nayak U, Platts-Mills JA, Agaisse HF, Haque R, Petri Jr. WA. (2020). Lewis Blood Group Antigens are Associated with Altered Susceptibility to Shigellosis. Clinical Infectious Diseases 1409
+Leslie JL, Jenior ML, Vendrov KC, Standke AK, Barron MR, TJ O’Brien, Unverdorben L, Thaprawat P, Bergin IL, Schloss PD, & Young VB. (2021). Protection from Lethal Clostridioides difficile Infection via Intraspecies Competition for Cogerminant. Mbio 12 (2), e00522-21
+
+Leslie JL, Weddle E, Yum LK, Lin Y, Jenior ML, Lee B, Ma JZ, Kirkpatrick BD, Nayak U, Platts-Mills JA, Agaisse HF, Haque R, & Petri Jr. WA. (2020). Lewis Blood Group Antigens are Associated with Altered Susceptibility to Shigellosis. Clinical Infectious Diseases 1409
 
 Jenior ML, Papin JA. (2020). Clostridioides difficile: Sometimes it pays to be difficult. Cell Host & Microbe. https://doi.org/10.1016/j.chom.2020.08.010
 
-Jenior ML, Leslie JL, Powers DA, Garrett EM, Dickenson ME, Walker KA, Petri WA Jr., Tamayo R, & Papin JA. (2020). Genome-scale metabolic reconstruction and analysis of Clostridioides difficile identifies conserved patterns of virulence-related metabolic reprogramming. In Preparation.
+Jenior ML, Leslie JL, Powers DA, Garrett EM, Dickenson ME, Walker KA, Petri WA Jr., Tamayo R, & Papin JA. (2021). Novel  drivers  of  virulence  in Clostridioides  difficile identified  via  context-specific  metabolic  network analysis. In Submission.
 
 Dougherty BV, Rawls KD, Kolling GL, Jenior ML, & Papin JA. (2020). Identifying biomarkers of cardiotoxicity using a metabolic model constrained by omics data. In Preparation.
 
-Hagan AK, Lesniak NA, Balunas MJ, Bishop L, Close WL, Doherty MD, Elmore AG, Flynn KJ, Hannigan GD, Koumpouras CC, Jenior ML, Kozik AJ, McBride K, Rifkin SB, Stough JMA, Sovacool KL, Sze MA, Tomkovich S, Topcuoglu BD, & Schloss PD. (2020). Ten Simple Rules to increase computational skills among biologists with Code Clubs. PLOS Comp Biol. Accepted.
+Hagan AK, Lesniak NA, Balunas MJ, Bishop L, Close WL, Doherty MD, Elmore AG, Flynn KJ, Hannigan GD, Koumpouras CC, Jenior ML, Kozik AJ, McBride K, Rifkin SB, Stough JMA, Sovacool KL, Sze MA, Tomkovich S, Topcuoglu BD, & Schloss PD. (2020). Ten Simple Rules to increase computational skills among biologists with Code Clubs. PLOS Comp Biol. https://doi.org/10.1371/journal.pcbi.1008119
 
 Dunphy LJ, Kolling GL, Jenior ML, Carroll GL, Attai AE, Mathers AL, Hughes MA, & Papin JA. (2020). Multidimensional surveillance of Pseudomonas aeruginosa isolates in a single healthcare system reveals novel infection patterns. In Submission.
 
@@ -123,7 +125,8 @@ Presentations
 Leadership & Service
 -------
 
-- University of Virginia Postdoctoral Association Founding Member- November 8, 2018
+- Taught lecture section of Microbiology 8400 (graduate-level) - April 7, 2021
+- University of Virginia Postdoctoral Association Founding Member - November 8, 2018
 - Genesee County Health Department Community Lead Screening Event, Flint MI - March 19th, 2016
 - Microbiology and Immunology Student Invited Speaker Coordinator - [Dr. Jo Handelsman](https://www.whitehouse.gov/administration/eop/ostp/about/leadershipstaff/handelsman), 2015 - 2016
 - Microbiology and Immunology Student Event Planner, September 2015 – present
