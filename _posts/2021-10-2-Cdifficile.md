@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RIPTiDe published"
+title:  "New Model of C. difficile Metabolism"
 date:   2021-10-02 09:30:00
 comments: true
 tags: [metabolic network reconstructions, transcriptomics, metabolism, virulence]
