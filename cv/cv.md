@@ -4,7 +4,7 @@ title: Matthew Jenior PhD
 permalink: /cv/
 comments: false
 image:
-  feature: abstract-3.jpg
+  feature: klebsiella.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
@@ -22,7 +22,7 @@ Research & Experience
 
 **Postdoctoral Research Associate with Dr. Jason Papin, University of Virginia, August 2017 - present**
 
-- My postdoctoral research centers on implementing metabolic network reconstruction techniques, with integration of high-throughput metatranscriptomic and metabolomic data in order to engineer probiotic bacterial consortia against Clostridioides difficile infection.
+- My postdoctoral research centers on implementing metabolic network reconstruction techniques, with integration of high-throughput metatranscriptomic and metabolomic data in order to engineer probiotic bacterial consortia against *Clostridioides difficile* infection.
 
 **Ph.D. Candidate with Dr. Patrick Schloss, University of Michigan, April 2012 – July 2017**
 
@@ -44,6 +44,16 @@ Research & Experience
 Publications
 ------------
 
+Jenior ML, Dickenson ME, & Papin JA. (2021). Genome-scale metabolic modeling reveals increased 	reliance on valine catabolism in clinical isolates of Klebsiella pneumoniae. Under Review. BioRxiv. DOI: 10.1101/2021.09.08.459555
+
+Jenior ML+ & Papin JA+. (2021). Computational approaches to understanding Clostridioides difficile 	metabolism and virulence. Current Opinion in Microbiology. Under Review. 
+
+Moutinho TJ, Neubert BC, Jenior ML, & Papin JA. (2021). Quantifying cumulative phenotypic and genomic 	evidence for the presence of biochemical functions in bacteria. Under Review. BioRxiv. DOI: 10.1101/2021.08.13.456222
+
+Smith AB, Jenior ML, Orlaith K, Hart JL, Specker J, Rangel PC, Nicholson MR, Ren Y, Laut C, Papin J, 	Bushman FD, Erlichman J, Baldassano R, Prentice BM, Skaar EP, & Zackular JP. (2021). Microbial 	cooperation enhances Clostridioides difficile pathogenesis. Under Review. 
+
+Jenior ML, Leslie JL, Powers DA, Garrett EM, Dickenson ME, Walker KA, Petri WA Jr., Tamayo R, & Papin JA. (2021). Novel  drivers  of  virulence  in Clostridioides  difficile identified  via  context-specific  metabolic  network analysis. mSystems. https://journals.asm.org/doi/10.1128/mSystems.00919-21
+
 Dunphy LJ, Kollinga GL, Jenior ML, Carroll J, Attai AE, Farnoud F, Mathers AJ, Hughes MA, & Papin JA. (2021). Multidimensional Clinical Surveillance of Pseudomonas aeruginosa Reveals Complex Relationships between Isolate Source, Morphology, and Antimicrobial Resistance. mSphere. https://journals.asm.org/doi/10.1128/mSphere.00393-21
 
 Leslie JL, Jenior ML, Vendrov KC, Standke AK, Barron MR, TJ O’Brien, Unverdorben L, Thaprawat P, Bergin IL, Schloss PD, & Young VB. (2021). Protection from Lethal Clostridioides difficile Infection via Intraspecies Competition for Cogerminant. Mbio 12 (2), e00522-21
@@ -51,8 +61,6 @@ Leslie JL, Jenior ML, Vendrov KC, Standke AK, Barron MR, TJ O’Brien, Unverdorb
 Leslie JL, Weddle E, Yum LK, Lin Y, Jenior ML, Lee B, Ma JZ, Kirkpatrick BD, Nayak U, Platts-Mills JA, Agaisse HF, Haque R, & Petri Jr. WA. (2020). Lewis Blood Group Antigens are Associated with Altered Susceptibility to Shigellosis. Clinical Infectious Diseases 1409
 
 Jenior ML, Papin JA. (2020). Clostridioides difficile: Sometimes it pays to be difficult. Cell Host & Microbe. https://doi.org/10.1016/j.chom.2020.08.010
-
-Jenior ML, Leslie JL, Powers DA, Garrett EM, Dickenson ME, Walker KA, Petri WA Jr., Tamayo R, & Papin JA. (2021). Novel  drivers  of  virulence  in Clostridioides  difficile identified  via  context-specific  metabolic  network analysis. In Submission.
 
 Dougherty BV, Rawls KD, Kolling GL, Jenior ML, & Papin JA. (2020). Identifying biomarkers of cardiotoxicity using a metabolic model constrained by omics data. In Preparation.
 
@@ -109,6 +117,7 @@ Grants & Awards
 Presentations
 --------------------
 
+- Trans-University Microbiome Initiative seminar series - Charlottesville, VA        October 12, 2021
 - Society for Mathematical Biology Annual Meeting - Montreal, Canada        July 22-26, 2019
 - 5th Conference on Constraint-Based Reconstruction and Analysis - Seattle, WA		October 14-16, 2018
 - Anaerobe Society of the Americas - Nashville, TN					July 11-14, 2016
