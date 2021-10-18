@@ -8,11 +8,11 @@ url: http://mjenior.github.io/
 owner:
   name:           Matthew Jenior Ph.D.
   avatar:         avatar.jpg
-  bio:            "I'm a microbial ecologist interested in how our resident microbes impact health and disease."
+  bio:            "I'm a computational biologist and microbiologist who combines bioinformatics with *in vitro* and *in vivo* experiments to understand the metabolic drivers of infection."
   email:          mljenior@virginia.edu
-  twitter:        jeniorml
+  twitter:        mattagenomics
   github:         mjenior
-  linkedin:       matthew-jenior-61466662
+  linkedin:       matthew-jenior-ph-d-61466662
 
 # Background image to be tiled on all pages
 background: black.jpg

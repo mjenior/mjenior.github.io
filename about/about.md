@@ -11,7 +11,7 @@ comments: false
 
 <a href="http://mjenior.github.io/cv/" class="btn btn-success">Click here for my CV</a>
 
-I'm interested in how host-associated communities of bacteria handle their metabolism in the face of large changes like antibiotic treatment or invasion by a pathogen. To look at this, I leverage several methods involving high-throughput sequencing, metabolomics, and metabolic reconstructions to infer the nutrient utilization and metabolic cross-talk between species which ultimately impact the health of the host. I also like to create new bioinformatic and systems biology platforms to find new ways to provide improved context for omics datasets and generate targeted and testable hypotheses within complex communities of organisms.
+I'm interested in how host-associated communities of bacteria handle their metabolism in the face of large changes like antibiotic treatment or invasion by a pathogen. To look at this, I leverage several methods involving high-throughput sequencing, metabolomics, and metabolic reconstructions to infer the nutrient utilization and metabolic cross-talk between species which ultimately impact the health of the host. To do this, I have developed new bioinformatic and systems biology platforms to find new ways to provide improved context for omics datasets and generate targeted and testable hypotheses within complex communities of organisms.
 
 
 <div style="text-align:center"><img src ="http://mjenior.github.io/images/meplot.jpg" width="550" height="350" /></div>
