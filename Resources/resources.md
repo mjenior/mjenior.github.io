@@ -15,6 +15,7 @@ comments: false
 * [bigSMALL repo](https://github.com/mjenior/bigSMALL)
 
 ### Publication repos
+* [C. difficile GENRE analysis - mSystems](https://github.com/mjenior/Jenior_CdifficileGENRE_2021)
 * [RIPTiDe - 2020 - PLOS Comp Bio](https://github.com/csbl/Jenior_RIPTiDe_2020)
 * [Metatranscriptomics - 2018 - mSphere](https://github.com/SchlossLab/Jenior_Metatranscriptomics_mSphere_2018)
 * [Niche Inference - 2017 - mSystems](https://github.com/SchlossLab/Jenior_Modeling_mSystems_2017)
