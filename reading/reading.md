@@ -9,6 +9,11 @@ image:
 comments: false
 ---
 
+### 2021
+* [Novel Drivers of Virulence in Clostridioides difficile Identified via Context-Specific Metabolic Network Analysis](https://journals.asm.org/doi/full/10.1128/mSystems.00919-21)
+* [Multidimensional Clinical Surveillance of Pseudomonas aeruginosa Reveals Complex Relationships between Isolate Source, Morphology, and Antimicrobial Resistance](https://journals.asm.org/doi/full/10.1128/mSphere.00393-21)
+* [Protection from Lethal Clostridioides difficile Infection via Intraspecies Competition for Cogerminant](https://journals.asm.org/doi/full/10.1128/mBio.00522-21)
+
 ### 2020
 * [Clostridioides difficile: Sometimes It Pays To Be Difficult](https://www.sciencedirect.com/science/article/abs/pii/S1931312820304650)
 * [Ten simple rules to increase computational skills among biologists with Code Clubs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008119)
