@@ -10,4 +10,4 @@ I was recently selected to present at the annual UVA postdoc research symposium!
 
 <div style="text-align:center"><img src ="http://mjenior.github.io/images/postdoc_symposium.jpg" width="500" height="432" /></div>
 
-Thank you again to all of the organizing committee for putting the event together, they really did an incredible job.
+Thank you again to all of the organizing committee for putting the event together, they really did an incredible job!
