@@ -9,20 +9,29 @@ image:
 comments: false
 ---
 
-Experience
-February 23’ to present:  Senior Design Engineer I, Ginkgo Bioworks  -  Systems Biology Group
+## Experience
+### February 23’ to present:  Senior Design Engineer I, Ginkgo Bioworks  -  Systems Biology Group
+```
 Within our team, I have been primarily responsible for machine learning pipeline construction, integrating and analyzing large-scale multi-omic data types with the goal of novel target discovery or microbial strain optimization. This required collaboration & coordination with scientists across numerous data collection & computational resourcing. More recently have been focusing on onboarding & innovating on existing deep learning (AI) frameworks. These efforts led to contributions in >10 projects in the last year, many with direct client presentations for large groups like Bayer & Sanofi.
-June 22’ to February 23’:  Bioinformatics Scientist II, Zymergen  -   Natural Products & Drug Discovery Group
+```
+### June 22’ to February 23’:  Bioinformatics Scientist II, Zymergen  -   Natural Products & Drug Discovery Group
+```
 My role was centered on pipeline development & analysis of large-scale microbial datasets across diverse synthetic biology projects ranging from drug discovery & materials science. This work required integration of numerous bioinformatic and statistical modeling into massively high-throughput reproducible workflows along with automated report generation.
-August 17’ to June 22’:  Postdoctoral Research Associate, Biomedical Engineering  -  University of Virginia, Papin Lab
+```
+### August 17’ to June 22’:  Postdoctoral Research Associate, Biomedical Engineering  -  University of Virginia, Papin Lab
+```
 In my last academic position I designed novel platforms for computational network modeling of bacterial metabolism to engineer bacterial species consortia for targeted bacteriotherapy against Clostridioides difficile infection to test in vivo.
+```
 
-### Education
-## July 11’ to July 17’:  Doctorate (PhD), Microbiology & Immunology  -  University of Michigan, Ann Arbor MI
-	• My dissertation research combined metagenomics, metatranscriptomics, & untargeted metabolomic with statistical analyses to understand shifts in composition or function of the gut microbiome in response to infection. Achieved an additional certificate in Cellular Biotechnology with an internship at Janssen Pharmaceuticals.
-
-## August 07’ to May 11’: Bachelor of Arts (BA), Biology  -  Hiram College, Hiram OH
-	• Graduated Cum Laude with an additional minor in Chemistry
+## Education
+### July 11’ to July 17’:  Doctorate (PhD), Microbiology & Immunology  -  University of Michigan, Ann Arbor MI
+```
+My dissertation research combined metagenomics, metatranscriptomics, & untargeted metabolomic with statistical analyses to understand shifts in composition or function of the gut microbiome in response to infection. Achieved an additional certificate in Cellular Biotechnology with an internship at Janssen Pharmaceuticals.
+```
+### August 07’ to May 11’: Bachelor of Arts (BA), Biology  -  Hiram College, Hiram OH
+```
+Graduated Cum Laude with an additional minor in Chemistry
+```
 
 ## Skills
 ### Data Science & Programming
