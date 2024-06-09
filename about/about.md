@@ -19,12 +19,21 @@ Within our team, I have been primarily responsible for machine learning pipeline
 My role was centered on pipeline development & analysis of large-scale microbial datasets across diverse synthetic biology projects ranging from drug discovery & materials science. This work required integration of numerous bioinformatic and statistical modeling into massively high-throughput reproducible workflows along with automated report generation.
 
 ### August 17’ to June 22’
-### Postdoctoral Research Associate, Biomedical Engineering  -  University of Virginia, Papin Lab
+#### Postdoctoral Research Associate, Biomedical Engineering  -  University of Virginia, Papin Lab
 In my last academic position I designed novel platforms for computational network modeling of bacterial metabolism to engineer bacterial species consortia for targeted bacteriotherapy against Clostridioides difficile infection to test in vivo.
+
+### April 12' to July 17'
+#### PhD Candidate, Microbiology & Immunology - University of Michigan, Schloss Lab
+My dissertation research combined metagenomics, metatranscriptomics, & untargeted metabolomic with statistical analyses to understand shifts in composition or function of the gut microbiome in response to infection. Achieved an additional certificate in Cellular Biotechnology with an internship at Janssen Pharmaceuticals.
+
+### June 12' to August 12'
+#### R&D Internship, Immunological Research Departmen - Janssen Pharmaceuticals
+Used classical machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
+
 
 ## Education
 ### July 11’ to July 17’
-#### Doctorate (PhD), Microbiology & Immunology  -  University of Michigan, Ann Arbor MI
+#### Doctorate, Microbiology & Immunology  -  University of Michigan, Ann Arbor MI
 My dissertation research combined metagenomics, metatranscriptomics, & untargeted metabolomic with statistical analyses to understand shifts in composition or function of the gut microbiome in response to infection. Achieved an additional certificate in Cellular Biotechnology with an internship at Janssen Pharmaceuticals.
 
 ### August 07’ to May 11’
@@ -51,3 +60,9 @@ Graduated Cum Laude with an additional minor in Chemistry
 - Animal care & handling in models of cancer, infectious disease, & dietary intervention
 - Anaerobic / Aerobic microbiology, mammalian cell culture, & fermentation modeling
 - Clinical patient sample collection
+
+
+## Additional Info
+### [Publications](https://scholar.google.com/citations?user=NLIAoMwAAAAJ&hl=en)
+### [LinkedIn](www.linkedin.com/in/matthew-jenior-61466662)
+### [GitHub](https://github.com/mjenior)
