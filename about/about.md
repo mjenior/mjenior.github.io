@@ -20,7 +20,7 @@ My role was centered on pipeline development & analysis of large-scale microbial
 
 ### August 17’ to June 22’
 #### Postdoctoral Research Associate, Biomedical Engineering  -  University of Virginia, Papin Lab
-In my last academic position I designed novel platforms for computational network modeling of bacterial metabolism to engineer bacterial species consortia for targeted bacteriotherapy against Clostridioides difficile infection to test in vivo.
+In my last academic position I designed novel platforms for computational network modeling of bacterial metabolism to engineer bacterial species consortia for targeted bacteriotherapy against *C. difficile* infection to subsequently test in an animal model.
 
 ### April 12' to July 17'
 #### PhD Candidate, Microbiology & Immunology - University of Michigan, Schloss Lab
@@ -30,6 +30,7 @@ My dissertation research combined metagenomics, metatranscriptomics, & untargete
 #### R&D Internship, Immunological Research Departmen - Janssen Pharmaceuticals
 Used classical machine learning algorithms to predict Crohn’s disease patient response to drug therapy combining both microbiome and host epithelial microarray data.
 
+---
 
 ## Education
 ### July 11’ to July 17’
@@ -38,8 +39,9 @@ My dissertation research combined metagenomics, metatranscriptomics, & untargete
 
 ### August 07’ to May 11’
 #### Bachelor of Arts (BA), Biology  -  Hiram College, Hiram OH
-Graduated Cum Laude with an additional minor in Chemistry
+Graduated *Cum Laude* with an additional minor in Chemistry
 
+---
 
 ## Skills
 ### Data Science & Programming
@@ -61,6 +63,7 @@ Graduated Cum Laude with an additional minor in Chemistry
 - Anaerobic / Aerobic microbiology, mammalian cell culture, & fermentation modeling
 - Clinical patient sample collection
 
+---
 
 ## Additional Info
 ### [Publications](https://scholar.google.com/citations?user=NLIAoMwAAAAJ&hl=en)
