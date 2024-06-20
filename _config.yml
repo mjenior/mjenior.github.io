@@ -1,5 +1,5 @@
 title:            Matt Jenior
-description:      A site about projects and science I have worked with
+description:      A site about me and the projects/science I have worked with
 disqus_shortname: mjwebsite
 reading_time:     false
 words_per_minute: 
@@ -8,7 +8,7 @@ url: http://mjenior.github.io/
 owner:
   name:           Matthew Jenior
   avatar:         avatar.jpg
-  bio:            "I'm an experienced computational biologist who combines large-scale machine learning analyses and multi-omics with expertise across in vivo, in vitro, & in silico systems. I rapidly move projects from concept to delivery, having a track record of creatively applying bioinformatic & data science techniques across projects in infectious disease, molecule bioproduction, cancer biology, drug discovery, & agriculture. Ultimately providing meaningful, & actionable results to diverse groups of clients."
+  bio:            "Thanks for stopping by! I'm an experienced computational biologist who combines large-scale machine learning analyses with multi-omics integration. I really enjoy finding creative new ways to apply bioinformatic & data science techniques across projects."
   email:          mattjenior@gmail.com
   github:         mjenior
 
