@@ -14,9 +14,12 @@ comments: false
 * [RIPTiDe](https://pypi.org/project/riptide/)
 
 ### Publication repos
+* [Bioinformatics - 2023](https://github.com/mjenior/reconstructor)
 * [Nature - 2022](https://github.com/mjenior/Smith_etal_Enterococcus)
+* [Npj Systems Biology - 2022](https://github.com/mjenior/Klebsiella_2021)
 * [mSystems - 2021](https://github.com/mjenior/Jenior_CdifficileGENRE_2021)
 * [PLOS Comp Bio - 2020](https://github.com/csbl/Jenior_RIPTiDe_2020)
+* [mSphere - 2019](https://github.com/mjenior/Leslie_clearance_2017)
 * [mSphere - 2018](https://github.com/SchlossLab/Jenior_Metatranscriptomics_mSphere_2018)
 * [mSystems - 2017](https://github.com/SchlossLab/Jenior_Modeling_mSystems_2017)
 
